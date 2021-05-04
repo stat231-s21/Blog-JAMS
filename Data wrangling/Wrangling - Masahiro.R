@@ -6,7 +6,7 @@ library(textdata)
 stop_words <- tidytext::stop_words
 
 rt <- search_tweets(
-  q = '"water access" OR "Water access" OR "Water Access" OR "clean water"',
+  q = '"water access" OR "Water access" OR "Water Access" OR "access to clean water"',
   n = 5000,
   include_rts = FALSE
 )
