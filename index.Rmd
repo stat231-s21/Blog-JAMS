@@ -1,7 +1,7 @@
 ---
-title: "Your Project Title Here"
-author: "Your Names Here"
-date: "Add a date"
+title: "The Global Water Access Gap"
+author: "Alastair Poole, Jamie Dailey, Masahiro Nishikawa, and Siyi Li"
+date: "May 19, 2021"
 output:
   rmdformats::readthedown:
     thumbnails: false
@@ -92,7 +92,7 @@ You can embed a gif.
 ![pugs](https://media.giphy.com/media/XHVmD4RyXgSjd8aUMb/giphy.gif)
 
 
-# You can even create tabs if you want! {.tabset .tabset-fade .tabset-pills}
+# Prof Correia's resources! {.tabset .tabset-fade .tabset-pills}
 
 ## Bulleted list
 
