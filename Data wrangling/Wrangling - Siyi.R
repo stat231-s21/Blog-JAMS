@@ -9,6 +9,7 @@ water_urban_rural <- read_csv("Data wrangling/WaterServiceUrbanRuralInequality.c
 colnames(water_urban_rural) <- tolower(colnames(water_urban_rural))
 names(water_urban_rural) <- str_replace_all(names(water_urban_rural), " ", "_") 
 
+# Write the dataset
 write_csv(x = water_urban_rural, "Data wrangling/water_urban_rural.csv")
 
 # Import the dataset of water resources by income
@@ -34,3 +35,6 @@ water_income <- water_income %>%
 
 # Remove NA
 water_income <- na.omit(water_income)
+
+# Write the dataset
+write_csv(x = water_income, "Data wrangling/water_income.csv")
