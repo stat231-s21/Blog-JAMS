@@ -10,11 +10,15 @@ rt <- search_tweets(
   OR "access to drinking water"',
   n = 5000,
   include_rts = FALSE
-)
+) %>%
+  select(text)
+
+##write_csv(rt, 
+##          "/Users/masahiro/STAT231/git/Blog-JAMS/Data wrangling/tweetsMay4.csv")
+### The above part is run on May 4th, and do not run the chunk again!
 
 tweets_final <- rt %>%
   select(text) %>%
   unnest_tokens(output = word, input = text, token = "words") %>%
   anti_join(stop_words, by = "word")
-write_csv(tweets_final, 
-          "/Users/masahiro/STAT231/git/Blog-JAMS/Data wrangling/tweets.csv")
+
