@@ -11,7 +11,14 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, fig.align="center")
 library(tidyverse)
+library(robotstxt)
+library(rvest)
+library(tidytext)
+library(wordcloud)
+library(textdata)
 ```
+
+# Introduction
 
 # Add Tab Name (Alastair)
 
@@ -31,11 +38,55 @@ library(tidyverse)
 
 ## tab within tab if needed
 
-# Add Tab Name (Masahiro)
+# Advocacies about water access around the world {.tabset .tabset-fade .tabset-pills}
 
-## tab within tab if needed
+## Introduction
 
-## tab within tab if needed
+In this tab, we take a look at the the tweets advocating for greater access to water around the world in order to discover some interesting trends among those tweets. Specifically, in order to gather up the tweets, search_tweets() function was run on May 4th and May 7th, and the tweets generated roughly from April 27th to May 7th were recorded in the same dataset. The included tweets all include at least one of the following phrases: "water access," or "Water access," or "Water Access," or "access to clean water," or "access to drinking water." For more details, take a look at the "Wrangling - Masahiro" file in the same repo. Through exploring the following three questions with this data, we aim to learn about what kind of rhetorics people are employing in an attempt to claim for more access to water around the world.
+
+- What are the common words used in the tweets requesting more access to clean water around the world?
+- What are the common sentiments of the words observed in those tweets?
+- What do those common words and sentiments imply about people's rhetorics arguing for clean water in some of the regions lacking water access?
+
+In addition to the removal of so-called stop words from the dataset, we also omitted the word "access" because it is obvious that all the tweets should include the word "access" from the way we collected data. Doing so helps us produce more meaningful word clouds and sentiment analyses.
+
+```{r, echo=FALSE}
+# data wrangling code (not reflected onto the blog)
+tweets_analyzed <- read_csv("Data wrangling/tweetsfinal.csv")
+# removal of common words
+tweets_final <- tweets_analyzed %>%
+  unnest_tokens(output = word, input = text, token = "words") %>%
+  anti_join(stop_words, by = "word") %>%
+  filter(word != "access")
+# get sentiment data
+nrc_sentiments <- get_sentiments("nrc")
+# join the datasets together
+tweets_sentiment <- tweets_final %>%
+  left_join(nrc_sentiments, by = c("word" = "word")) %>%
+  na.omit()
+```
+
+
+## Word Cloud
+
+First, we examine the word cloud addressing all the wordss except the ones displaced through data wrangling in order to get a sense about what are some of the most common words utilized in the focal tweets.
+
+```{r}
+set.seed(73)
+wordcloud(tweets_final$word, 
+          max.words = 50, 
+          scale = c(8, 1), 
+          colors = topo.colors(n = 30), 
+          random.color = TRUE)
+```
+
+
+## Sentiment Analysis
+
+## Comparison Cloud
+
+## Discussion
+
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For example, you can include **Bold** and _Italic_ and `Code` text.  For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
