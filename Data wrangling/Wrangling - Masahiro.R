@@ -30,6 +30,13 @@ rt2 <- search_tweets(
   include_rts = FALSE
 ) %>%
   filter(created_at>max(rt$created_at))
+# this filtering ensures that no duplicate tweets are included simultaneously
+# the maximum value used for filtering was "2021-05-04 18:37:00 UTC"
+
+## NOTE ##
+# The search_tweets function does not allow ordinary users to access tweets
+# more than 6-9 days ago. Thus, running the code above would not help you
+# reproduce the same dataset
 
 rt3 <- rt2 %>% select(text)
 
