@@ -1,613 +1,613 @@
 measure,location,sex,age,cause,rei,metric,year,val,upper,lower
-Deaths,Indonesia,Both,All Ages,All causes,Unsafe water source,Number,2017,48326.7906098043,73330.20203040224,26900.69710479734
-Deaths,Indonesia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.028909018548725247,0.04434576052725673,0.016367048896862628
-Deaths,Indonesia,Both,All Ages,All causes,Unsafe water source,Rate,2017,18.878605151019567,28.646055579275394,10.508615046032352
-Deaths,China,Both,All Ages,All causes,Unsafe water source,Number,2017,3830.130574205594,6093.341557932927,2163.8731726143687
-Deaths,China,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0003764542740079168,0.0005989971834163637,0.00021381937447469251
-Deaths,China,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.27148407278221354,0.43190307770221514,0.15337782629182625
-Deaths,Cambodia,Both,All Ages,All causes,Unsafe water source,Number,2017,1439.0080722414202,2423.62205327025,791.956745531337
-Deaths,Cambodia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.013394579738457195,0.022051166513966436,0.007706553026395577
-Deaths,Cambodia,Both,All Ages,All causes,Unsafe water source,Rate,2017,8.91493950275192,15.014817775681541,4.906328610242632
-Deaths,Marshall Islands,Both,All Ages,All causes,Unsafe water source,Number,2017,4.114791544784967,7.521677224026484,1.9772424593642877
-Deaths,Marshall Islands,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.01008356035362128,0.017907712933367244,0.004986147300244092
-Deaths,Marshall Islands,Both,All Ages,All causes,Unsafe water source,Rate,2017,7.305692885494631,13.354519465804177,3.5105365632879133
-Deaths,Micronesia (Federated States of),Both,All Ages,All causes,Unsafe water source,Number,2017,6.674743869832604,12.457927672959203,3.2343874969264528
-Deaths,Micronesia (Federated States of),Both,All Ages,All causes,Unsafe water source,Percent,2017,0.007348151921782439,0.01339748065532405,0.003723541557716384
-Deaths,Micronesia (Federated States of),Both,All Ages,All causes,Unsafe water source,Rate,2017,6.499378661850049,12.130621169518045,3.149410597863968
-Deaths,Maldives,Both,All Ages,All causes,Unsafe water source,Number,2017,8.850838727737377,13.441128990573286,5.342798756532887
-Deaths,Maldives,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.006332469827891674,0.009306147617887988,0.003836791179152532
-Deaths,Maldives,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.898130546492344,2.8825536540843877,1.1458043509204148
-Deaths,Azerbaijan,Both,All Ages,All causes,Unsafe water source,Number,2017,68.43431029711141,145.28848759617273,21.463184205793777
-Deaths,Azerbaijan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0008979024491629062,0.0018785135784657404,0.0002863301316762212
-Deaths,Azerbaijan,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.6778568754258493,1.4391143829712265,0.2125975540523993
-Deaths,Papua New Guinea,Both,All Ages,All causes,Unsafe water source,Number,2017,2697.7968534400848,3905.3137830533615,1685.9231669261735
-Deaths,Papua New Guinea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.04042963139467372,0.05863479646439117,0.026549091434991446
-Deaths,Papua New Guinea,Both,All Ages,All causes,Unsafe water source,Rate,2017,28.933387667607132,41.88379028785958,18.08122376014851
-Deaths,Mongolia,Both,All Ages,All causes,Unsafe water source,Number,2017,42.08476475962403,78.76772804132277,20.383706935052803
-Deaths,Mongolia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001806415203507607,0.00319543997268434,0.000891587013455018
-Deaths,Mongolia,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.2866338647876259,2.408121488362888,0.6231796181431151
-Deaths,Montenegro,Both,All Ages,All causes,Unsafe water source,Number,2017,0.31023074599799844,0.5019525583010919,0.1484812055307288
-Deaths,Montenegro,Both,All Ages,All causes,Unsafe water source,Percent,2017,4.477505184220543e-05,7.336188758343155e-05,2.098025195602672e-05
-Deaths,Montenegro,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.04979174263458597,0.08056291299335376,0.02383109368504311
-Deaths,Georgia,Both,All Ages,All causes,Unsafe water source,Number,2017,8.467256389223326,12.937526397239282,4.116551193455187
-Deaths,Georgia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0001675666348693574,0.00025643638566895816,8.111484207377189e-05
-Deaths,Georgia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.22705152731718511,0.3469228984182227,0.11038631556533193
-Deaths,Thailand,Both,All Ages,All causes,Unsafe water source,Number,2017,4878.139750229152,8291.187698265521,2610.253899749162
-Deaths,Thailand,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.010380013818141373,0.01743992746083026,0.00571189446260775
-Deaths,Thailand,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.986122232757452,11.874044959883909,3.738218611166855
-Deaths,Vanuatu,Both,All Ages,All causes,Unsafe water source,Number,2017,56.69833109481892,93.04887420038668,30.602629291755456
-Deaths,Vanuatu,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.02661253616216614,0.04285098645169218,0.015023211356640297
-Deaths,Vanuatu,Both,All Ages,All causes,Unsafe water source,Rate,2017,19.972550934261193,32.777391211656074,10.780080479436752
-Deaths,Malaysia,Both,All Ages,All causes,Unsafe water source,Number,2017,690.2072942108964,1250.997693258031,297.68347132344553
-Deaths,Malaysia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004263685862562704,0.007590981899669388,0.0018216858328173882
-Deaths,Malaysia,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.2569898913353925,4.090784278070146,0.9734301437118006
-Deaths,Kazakhstan,Both,All Ages,All causes,Unsafe water source,Number,2017,30.976362156478675,49.84607911989293,14.897778943205704
-Deaths,Kazakhstan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00022399403076770895,0.00035460931198463884,0.0001075197193583207
-Deaths,Kazakhstan,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.1728685437921624,0.27817401758400495,0.08313943834463076
-Deaths,Tonga,Both,All Ages,All causes,Unsafe water source,Number,2017,2.135642493122439,3.916360810549819,1.026108537203721
-Deaths,Tonga,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00326407509647804,0.006087303797676721,0.0016134752660519234
-Deaths,Tonga,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.0694346113702005,3.7949481891588293,0.9942977482187071
-Deaths,Myanmar,Both,All Ages,All causes,Unsafe water source,Number,2017,6177.115851983649,9472.234653697204,3835.67693966416
-Deaths,Myanmar,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.014409821493956023,0.021649818828366096,0.009221291794904002
-Deaths,Myanmar,Both,All Ages,All causes,Unsafe water source,Rate,2017,11.48371612671319,17.60958616532062,7.130807675355179
-Deaths,Poland,Both,All Ages,All causes,Unsafe water source,Number,2017,85.38823261459093,148.46491052692468,34.77297710843908
-Deaths,Poland,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00021713525053187032,0.0003751692121173616,9.121480584755853e-05
-Deaths,Poland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.22189765333130626,0.3858144645839349,0.09036423150404163
-Deaths,Sri Lanka,Both,All Ages,All causes,Unsafe water source,Number,2017,761.3635947389013,1341.7213482558661,375.21542945667596
-Deaths,Sri Lanka,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0057549383437946995,0.01041692194740223,0.0030321507931775123
-Deaths,Sri Lanka,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.5242183929428585,6.21059252951146,1.7368063392374937
-Deaths,Democratic People's Republic of Korea,Both,All Ages,All causes,Unsafe water source,Number,2017,138.10720541672765,269.4942499078616,49.89933878187403
-Deaths,Democratic People's Republic of Korea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0005952719217889716,0.0011537326278147591,0.00022025628678762628
-Deaths,Democratic People's Republic of Korea,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.529481447604023,1.0331988481818346,0.1913062685830738
-Deaths,Samoa,Both,All Ages,All causes,Unsafe water source,Number,2017,7.117063565500846,13.654687576185992,3.1378338863855952
-Deaths,Samoa,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.005317707716849847,0.01008679541008883,0.0023992968730582836
-Deaths,Samoa,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.473232594274151,6.663690090409079,1.5313094830909286
-Deaths,Croatia,Both,All Ages,All causes,Unsafe water source,Number,2017,8.801947566458928,16.468302393466093,3.308745868758457
-Deaths,Croatia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00017195541050833395,0.0003197151663755275,6.471359396488649e-05
-Deaths,Croatia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.2055748275032944,0.3846271973613753,0.07727776791289188
-Deaths,Armenia,Both,All Ages,All causes,Unsafe water source,Number,2017,3.1080496106124786,6.041969091516991,1.0156994747008379
-Deaths,Armenia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00011157218410577303,0.00022012760303540877,3.632327249304843e-05
-Deaths,Armenia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.1023182095736491,0.19890398712828816,0.033437224219791645
-Deaths,Lao People's Democratic Republic,Both,All Ages,All causes,Unsafe water source,Number,2017,1044.617190131012,1681.8463504954493,570.3586590439232
-Deaths,Lao People's Democratic Republic,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.023840693252668375,0.037076696496936644,0.013532715063759474
-Deaths,Lao People's Democratic Republic,Both,All Ages,All causes,Unsafe water source,Rate,2017,14.983145407526099,24.12304589725358,8.180764019233628
-Deaths,Fiji,Both,All Ages,All causes,Unsafe water source,Number,2017,70.8463928893647,114.52160832692019,37.664741806513675
-Deaths,Fiji,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.009810977234879859,0.015160688736784438,0.0051815013442591444
-Deaths,Fiji,Both,All Ages,All causes,Unsafe water source,Rate,2017,7.835322715816936,12.665623789443622,4.165567152061149
-Deaths,Hungary,Both,All Ages,All causes,Unsafe water source,Number,2017,74.7852230770205,136.6214540438985,26.970084888841722
-Deaths,Hungary,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000581079062790999,0.0010584219551996793,0.00021004731321581485
-Deaths,Hungary,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.7665864515318208,1.4004391689888693,0.2764570435412927
-Deaths,Solomon Islands,Both,All Ages,All causes,Unsafe water source,Number,2017,193.46025067695572,300.71774344782176,114.04226947732593
-Deaths,Solomon Islands,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.031961354720337586,0.048660734520764616,0.019177841229979266
-Deaths,Solomon Islands,Both,All Ages,All causes,Unsafe water source,Rate,2017,30.578507730746733,47.53172711507951,18.025627521114878
-Deaths,Czechia,Both,All Ages,All causes,Unsafe water source,Number,2017,69.72621113012286,131.53139517751885,24.563009173910395
-Deaths,Czechia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000627410126745591,0.0011886616776159151,0.00022130934093969712
-Deaths,Czechia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.6566387807706763,1.23868217650965,0.23131938670689442
-Deaths,Timor-Leste,Both,All Ages,All causes,Unsafe water source,Number,2017,185.61686013393322,313.0319934341269,87.13459543931995
-Deaths,Timor-Leste,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.024796255038361113,0.041596786612572406,0.011417432706741653
-Deaths,Timor-Leste,Both,All Ages,All causes,Unsafe water source,Rate,2017,14.468926069546484,24.40099874080955,6.792184818780248
-Deaths,Taiwan (Province of China),Both,All Ages,All causes,Unsafe water source,Number,2017,38.61393326698827,70.3446537869992,14.350754725969974
-Deaths,Taiwan (Province of China),Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00021853877214635516,0.00038924763376317384,8.062702339077365e-05
-Deaths,Taiwan (Province of China),Both,All Ages,All causes,Unsafe water source,Rate,2017,0.16362570717246955,0.2980839491826783,0.06081101280876166
-Deaths,Bulgaria,Both,All Ages,All causes,Unsafe water source,Number,2017,9.475238124041082,15.983119614246307,3.9281327067382947
-Deaths,Bulgaria,Both,All Ages,All causes,Unsafe water source,Percent,2017,7.771989281052303e-05,0.00012998145765488894,3.2641229723580966e-05
-Deaths,Bulgaria,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.13451171218449512,0.22689844384036953,0.055764282559891624
-Deaths,Ireland,Both,All Ages,All causes,Unsafe water source,Number,2017,1.352511373309801,3.0884996475791646,0.4046329832372948
-Deaths,Ireland,Both,All Ages,All causes,Unsafe water source,Percent,2017,4.39989736077667e-05,0.00010035367812137533,1.307706324721218e-05
-Deaths,Ireland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.02780622578811398,0.06349633743702758,0.008318832887653048
-Deaths,Slovakia,Both,All Ages,All causes,Unsafe water source,Number,2017,3.984610150577239,8.765603549244315,1.2611421997631547
-Deaths,Slovakia,Both,All Ages,All causes,Unsafe water source,Percent,2017,7.490939637880994e-05,0.00016723293365639586,2.344562135099106e-05
-Deaths,Slovakia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.07335544248994126,0.16137205466714621,0.023217238477636813
-Deaths,Malta,Both,All Ages,All causes,Unsafe water source,Number,2017,0.09577431495324715,0.22406469298493079,0.029402878340264737
-Deaths,Malta,Both,All Ages,All causes,Unsafe water source,Percent,2017,2.6658744160583857e-05,6.334520693777331e-05,8.233799692837475e-06
-Deaths,Malta,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.02194068391992546,0.0513303865321026,0.006735827453474252
-Deaths,North Macedonia,Both,All Ages,All causes,Unsafe water source,Number,2017,2.339920811709704,4.595395709634945,0.8677280978245459
-Deaths,North Macedonia,Both,All Ages,All causes,Unsafe water source,Percent,2017,9.898316466877605e-05,0.00019901548258745015,3.6919548222987294e-05
-Deaths,North Macedonia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.10885181547448865,0.21377525398047384,0.04036622876883255
-Deaths,Kiribati,Both,All Ages,All causes,Unsafe water source,Number,2017,36.236138630655184,57.63985781394445,19.542698630066038
-Deaths,Kiribati,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03207882150903211,0.05116906443983685,0.017282820957193624
-Deaths,Kiribati,Both,All Ages,All causes,Unsafe water source,Rate,2017,31.314015715004814,49.81036836716251,16.888123159397114
-Deaths,Bosnia and Herzegovina,Both,All Ages,All causes,Unsafe water source,Number,2017,2.933664511718914,5.684038347534403,1.0390692049225736
-Deaths,Bosnia and Herzegovina,Both,All Ages,All causes,Unsafe water source,Percent,2017,7.977574058002039e-05,0.00015385624632206424,2.715201955438175e-05
-Deaths,Bosnia and Herzegovina,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.08636621574061938,0.16733640818168186,0.030589890140231328
-Deaths,Romania,Both,All Ages,All causes,Unsafe water source,Number,2017,43.639881469082695,69.6276704419491,20.846694895587806
-Deaths,Romania,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00016919880595667178,0.0002700759537977614,8.070494951389342e-05
-Deaths,Romania,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.22355170701234747,0.3566779757094079,0.10679025864852358
-Deaths,Bahamas,Both,All Ages,All causes,Unsafe water source,Number,2017,2.862841185664254,3.86813186529488,1.8544478090920549
-Deaths,Bahamas,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0011351166396368116,0.0014566540612921727,0.0007464915797935209
-Deaths,Bahamas,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.7672678646795311,1.0366950466709253,0.4970091312667608
-Deaths,Suriname,Both,All Ages,All causes,Unsafe water source,Number,2017,30.029774454040034,48.829017254671285,17.422864562745417
-Deaths,Suriname,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00711815433786993,0.011393166448696871,0.00427121255329387
-Deaths,Suriname,Both,All Ages,All causes,Unsafe water source,Rate,2017,5.266144748356559,8.562857279419386,3.055345182790265
-Deaths,Estonia,Both,All Ages,All causes,Unsafe water source,Number,2017,0.9294718443476192,1.6627341172906998,0.3711716111828521
-Deaths,Estonia,Both,All Ages,All causes,Unsafe water source,Percent,2017,5.930634555821884e-05,0.00010405408468488923,2.331312462536281e-05
-Deaths,Estonia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.07070056808635418,0.12647639343128883,0.028233285309006716
-Deaths,Andorra,Both,All Ages,All causes,Unsafe water source,Number,2017,0.019060099515966496,0.044748739416039365,0.00504678147591046
-Deaths,Andorra,Both,All Ages,All causes,Unsafe water source,Percent,2017,3.228886844904112e-05,7.537322881016611e-05,8.606529494012125e-06
-Deaths,Andorra,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.02383027682180663,0.05594802098581976,0.006309841117532777
-Deaths,Germany,Both,All Ages,All causes,Unsafe water source,Number,2017,109.89787198178034,250.62665865540126,33.526827095664075
-Deaths,Germany,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0001184514780646279,0.0002696056502023804,3.609678852295678e-05
-Deaths,Germany,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.13065002139615628,0.29795279676756614,0.039857738811539034
-Deaths,Greece,Both,All Ages,All causes,Unsafe water source,Number,2017,1.0948110895797307,2.4871424303057545,0.35979542375992307
-Deaths,Greece,Both,All Ages,All causes,Unsafe water source,Percent,2017,9.104538905355328e-06,2.0711530579815318e-05,2.992712880339131e-06
-Deaths,Greece,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.010464308864335891,0.02377234467939595,0.0034389589930475927
-Deaths,Uzbekistan,Both,All Ages,All causes,Unsafe water source,Number,2017,94.76195905726874,144.12393479593487,45.91215154768754
-Deaths,Uzbekistan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0004686545226014706,0.0007041500874032193,0.00023114384176588077
-Deaths,Uzbekistan,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.28976175037887414,0.4407000871807896,0.14038951419396187
-Deaths,Israel,Both,All Ages,All causes,Unsafe water source,Number,2017,12.708080792023146,29.009706720260827,3.9377974533843165
-Deaths,Israel,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0002824332903340639,0.0006432229408458968,8.755384638531526e-05
-Deaths,Israel,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.14164920509187226,0.32335346022136024,0.04389222009312444
-Deaths,Kyrgyzstan,Both,All Ages,All causes,Unsafe water source,Number,2017,64.53208018314999,92.1876720338163,34.75900808744841
-Deaths,Kyrgyzstan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0018796134900591337,0.0027027910843337244,0.0010122250764306292
-Deaths,Kyrgyzstan,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.0189441181816097,1.4556184446730338,0.5488353504801544
-Deaths,Philippines,Both,All Ages,All causes,Unsafe water source,Number,2017,7251.630131514684,10443.139290090134,4726.447115004092
-Deaths,Philippines,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.011539272931244552,0.0167874639416158,0.007592712568323771
-Deaths,Philippines,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.675137280936868,9.612926630434279,4.350702224404589
-Deaths,Viet Nam,Both,All Ages,All causes,Unsafe water source,Number,2017,1325.3903215798864,2363.265319090158,720.6710927586732
-Deaths,Viet Nam,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.002167394794915671,0.00383553565705643,0.0011618702643563033
-Deaths,Viet Nam,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.3937444348832493,2.485145570331493,0.757838131574954
-Deaths,Australia,Both,All Ages,All causes,Unsafe water source,Number,2017,39.202174557854015,79.50218358446749,13.995048062907127
-Deaths,Australia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00024523142093328904,0.0004936962855225836,8.676902556325595e-05
-Deaths,Australia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.16372749732414577,0.33204008953329434,0.05845018089211729
-Deaths,Ecuador,Both,All Ages,All causes,Unsafe water source,Number,2017,274.6725509262252,523.140144161121,122.89729920533571
-Deaths,Ecuador,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003049109450570125,0.005740724620221948,0.0014146962470055697
-Deaths,Ecuador,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.616294021233174,3.0783865530916756,0.7231817277025291
-Deaths,Netherlands,Both,All Ages,All causes,Unsafe water source,Number,2017,10.252789292603838,24.263126994465946,3.3156540163438772
-Deaths,Netherlands,Both,All Ages,All causes,Unsafe water source,Percent,2017,6.817456545483725e-05,0.00016283798850874286,2.22307990416341e-05
-Deaths,Netherlands,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.06014506471349414,0.14233271567246528,0.019450338799453997
-Deaths,Japan,Both,All Ages,All causes,Unsafe water source,Number,2017,533.3694000576992,1054.7152354912685,189.7660086200514
-Deaths,Japan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00040128285238644906,0.0007932795506059718,0.00014255435471317268
-Deaths,Japan,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.4147124131613577,0.820076105718317,0.14754937077812666
-Deaths,Lithuania,Both,All Ages,All causes,Unsafe water source,Number,2017,6.251280776449285,10.42832912359386,2.5246897603106575
-Deaths,Lithuania,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00016224719691977597,0.00027182973272718797,6.59436727327605e-05
-Deaths,Lithuania,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.21915571858768276,0.36559355506155894,0.08850989395906177
-Deaths,Albania,Both,All Ages,All causes,Unsafe water source,Number,2017,3.943582149671264,6.866092016376992,1.9045459203067192
-Deaths,Albania,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0001821592474849878,0.00030737875485961256,9.265882442384368e-05
-Deaths,Albania,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.14343977693464063,0.24974012708824428,0.06927398279083614
-Deaths,Brunei Darussalam,Both,All Ages,All causes,Unsafe water source,Number,2017,0.5677933168090965,1.2123381082428906,0.1892255248260957
-Deaths,Brunei Darussalam,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00032173202363247334,0.00067056361379925,0.00010670054241558619
-Deaths,Brunei Darussalam,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.13263509104708732,0.2831991335690785,0.044202606777389256
-Deaths,Iceland,Both,All Ages,All causes,Unsafe water source,Number,2017,0.13201471635839568,0.2933266161916306,0.041908339168314414
-Deaths,Iceland,Both,All Ages,All causes,Unsafe water source,Percent,2017,6.541813852354942e-05,0.00014656488082624797,2.1108228767039636e-05
-Deaths,Iceland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.03904077908297945,0.08674562910703154,0.012393574416074457
-Deaths,Slovenia,Both,All Ages,All causes,Unsafe water source,Number,2017,0.9743352544928416,1.9839878015342294,0.33078891501226654
-Deaths,Slovenia,Both,All Ages,All causes,Unsafe water source,Percent,2017,4.897782869028908e-05,9.878486705659602e-05,1.645928063325245e-05
-Deaths,Slovenia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.04699051741098564,0.09568432723878437,0.015953381752911982
-Deaths,Belgium,Both,All Ages,All causes,Unsafe water source,Number,2017,28.466535175344948,62.794095432232446,8.710984529397235
-Deaths,Belgium,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0002583870566127597,0.0005647092276307877,7.831614526947822e-05
-Deaths,Belgium,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.2512592167011738,0.5542506362146435,0.07688730420019825
-Deaths,Italy,Both,All Ages,All causes,Unsafe water source,Number,2017,51.37691371975214,108.70644933139852,17.531191596640873
-Deaths,Italy,Both,All Ages,All causes,Unsafe water source,Percent,2017,8.345946276961538e-05,0.0001762795975832381,2.8624656675141146e-05
-Deaths,Italy,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.08479167606426777,0.17940746865573215,0.02893321165594839
-Deaths,Trinidad and Tobago,Both,All Ages,All causes,Unsafe water source,Number,2017,16.68801502958712,23.700578460098097,10.725863867078651
-Deaths,Trinidad and Tobago,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0014887783562996446,0.0019553072442698473,0.0009716676081141206
-Deaths,Trinidad and Tobago,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.207175596659193,1.714449555145492,0.7758862327526495
-Deaths,Singapore,Both,All Ages,All causes,Unsafe water source,Number,2017,5.242265753553206,10.427512185177836,1.825221748980996
-Deaths,Singapore,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0002474738774682669,0.0004923402970006123,8.68765293640692e-05
-Deaths,Singapore,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.09340717896418199,0.18579838234486962,0.03252197095136353
-Deaths,Argentina,Both,All Ages,All causes,Unsafe water source,Number,2017,333.9140121821466,511.6053217744044,159.69556447643836
-Deaths,Argentina,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0009590129901634166,0.001470169965937171,0.0004550843477440476
-Deaths,Argentina,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.7528421846082229,1.1534648264228453,0.3600494535913738
-Deaths,Serbia,Both,All Ages,All causes,Unsafe water source,Number,2017,15.658242329042848,34.80331198167814,3.02388272730429
-Deaths,Serbia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0001363440855093401,0.0002979255973433089,2.6360219252464134e-05
-Deaths,Serbia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.17738687251522775,0.3942748193487073,0.03425653330542847
-Deaths,Belarus,Both,All Ages,All causes,Unsafe water source,Number,2017,4.70246334461335,8.111570973862728,1.9669463735247426
-Deaths,Belarus,Both,All Ages,All causes,Unsafe water source,Percent,2017,3.8360286196395866e-05,6.577653130387096e-05,1.6142833443689665e-05
-Deaths,Belarus,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.04926981498589438,0.08498856276784623,0.020608578272439105
-Deaths,Austria,Both,All Ages,All causes,Unsafe water source,Number,2017,3.5532589114848436,8.031473764425677,1.0879128381080971
-Deaths,Austria,Both,All Ages,All causes,Unsafe water source,Percent,2017,4.4083293705347496e-05,0.00010057184281726545,1.350160291283958e-05
-Deaths,Austria,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.04036955924849711,0.09124779929145212,0.012360079259423491
-Deaths,Denmark,Both,All Ages,All causes,Unsafe water source,Number,2017,9.916683277677148,21.28488942067136,3.0427394135889143
-Deaths,Denmark,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00018558617235359305,0.0003979138770665199,5.688921024274954e-05
-Deaths,Denmark,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.17270774460403693,0.3706950341214839,0.05299197794505385
-Deaths,Saint Lucia,Both,All Ages,All causes,Unsafe water source,Number,2017,3.3201787762195494,4.277833141628764,2.29895923770043
-Deaths,Saint Lucia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0024679624884891734,0.0030728764395566033,0.0017397718048502645
-Deaths,Saint Lucia,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.9097833837983886,2.4606309488692575,1.322372814270339
-Deaths,Tajikistan,Both,All Ages,All causes,Unsafe water source,Number,2017,588.1742094510973,919.0622540083502,314.6846714757092
-Deaths,Tajikistan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.01181846472673111,0.018349268291183787,0.006396625964831376
-Deaths,Tajikistan,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.4664327418002445,10.104241491000725,3.4596676125466295
-Deaths,Republic of Moldova,Both,All Ages,All causes,Unsafe water source,Number,2017,5.707147970986028,7.767285240636878,3.4971077799737436
-Deaths,Republic of Moldova,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00013548371527066433,0.00018478377579610764,8.244356070315087e-05
-Deaths,Republic of Moldova,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.15302654294133416,0.2082652866995061,0.09376843154991253
-Deaths,Latvia,Both,All Ages,All causes,Unsafe water source,Number,2017,1.533363608711887,2.661949525669905,0.6309634136575456
-Deaths,Latvia,Both,All Ages,All causes,Unsafe water source,Percent,2017,5.6401409444060495e-05,9.603258340473062e-05,2.388701294394436e-05
-Deaths,Latvia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.07859310945819642,0.13643919110544056,0.03234025925224789
-Deaths,New Zealand,Both,All Ages,All causes,Unsafe water source,Number,2017,13.601839084861368,28.049831158306947,4.979599440022009
-Deaths,New Zealand,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00042410912673555195,0.0008780305380776344,0.00015501616345707205
-Deaths,New Zealand,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.305728199059025,0.630475357812713,0.11192633285359711
-Deaths,Russian Federation,Both,All Ages,All causes,Unsafe water source,Number,2017,168.32220476088426,255.5757010847263,82.0199850964382
-Deaths,Russian Federation,Both,All Ages,All causes,Unsafe water source,Percent,2017,9.592593879567235e-05,0.00014564356756288372,4.68725080254268e-05
-Deaths,Russian Federation,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.11484901443200067,0.17438351300142668,0.05596358760530199
-Deaths,Jamaica,Both,All Ages,All causes,Unsafe water source,Number,2017,33.08344692739494,43.68723507959406,22.252080911292524
-Deaths,Jamaica,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0017491294766799096,0.002187808001428427,0.0012275915040008466
-Deaths,Jamaica,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.1813041516948892,1.5599315358177148,0.7945506894142212
-Deaths,Saint Vincent and the Grenadines,Both,All Ages,All causes,Unsafe water source,Number,2017,3.171458248238929,3.945805326399606,2.290285615249621
-Deaths,Saint Vincent and the Grenadines,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0031768297350535726,0.0038729194375366916,0.002324993113296123
-Deaths,Saint Vincent and the Grenadines,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.8092691578413045,3.4951837100348446,2.028728817458369
-Deaths,Antigua and Barbuda,Both,All Ages,All causes,Unsafe water source,Number,2017,1.1265888367914294,1.4571218503077055,0.7785934617537437
-Deaths,Antigua and Barbuda,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0019114060841608819,0.0023940790821104603,0.0013191838109632556
-Deaths,Antigua and Barbuda,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.2791081477407586,1.6543892235679332,0.8840006293185665
-Deaths,Finland,Both,All Ages,All causes,Unsafe water source,Number,2017,1.2718273539716467,2.931563597792824,0.37485782371899673
-Deaths,Finland,Both,All Ages,All causes,Unsafe water source,Percent,2017,2.3498234305743604e-05,5.418531576807152e-05,6.941593355772619e-06
-Deaths,Finland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.02303964660553166,0.05310641344823076,0.006790695104043898
-Deaths,Uruguay,Both,All Ages,All causes,Unsafe water source,Number,2017,59.72662310416578,101.87364654469727,27.254287254168613
-Deaths,Uruguay,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0017935715227659086,0.0030544816309940334,0.0008170049507449647
-Deaths,Uruguay,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.7456771799291506,2.9775415177765607,0.7965825764476833
-Deaths,Republic of Korea,Both,All Ages,All causes,Unsafe water source,Number,2017,132.16077917884135,314.05784844760905,35.946018009745046
-Deaths,Republic of Korea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0004524854768415274,0.0010652891396920334,0.00012285313647728328
-Deaths,Republic of Korea,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.2510058218492215,0.5964730901829527,0.06827032837430093
-Deaths,Peru,Both,All Ages,All causes,Unsafe water source,Number,2017,725.3968303551588,1248.5095371487357,335.36331119947835
-Deaths,Peru,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0049401022120721585,0.00826244672455184,0.0023473993525939684
-Deaths,Peru,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.182627377707339,3.7566073948453256,1.0090658159399313
-Deaths,Norway,Both,All Ages,All causes,Unsafe water source,Number,2017,7.726568920816287,16.810123639674575,2.472373929601063
-Deaths,Norway,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00019155294338006384,0.000417795394717125,6.082515670884736e-05
-Deaths,Norway,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.14674969693934262,0.3192724448479391,0.0469574695583452
-Deaths,Dominica,Both,All Ages,All causes,Unsafe water source,Number,2017,1.400651118597818,2.3258740167742817,0.7800141416954084
-Deaths,Dominica,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001774833271665969,0.0029086216060562105,0.0010217431955583628
-Deaths,Dominica,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.0321002524888354,3.374437155682146,1.131664347557799
-Deaths,Canada,Both,All Ages,All causes,Unsafe water source,Number,2017,57.296266193790494,126.54974751924303,18.37232884929783
-Deaths,Canada,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0002144672750996355,0.0004732729486762542,6.849000909895197e-05
-Deaths,Canada,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.15926402434676817,0.3517650173191625,0.05106879075269496
-Deaths,Spain,Both,All Ages,All causes,Unsafe water source,Number,2017,52.97734820877608,113.19087923970666,16.6866140068205
-Deaths,Spain,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00012796056011426195,0.00027153616359506264,4.0228126595969325e-05
-Deaths,Spain,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.11420080146638649,0.24400030512886486,0.03597055643157794
-Deaths,France,Both,All Ages,All causes,Unsafe water source,Number,2017,81.45890565010242,184.18662244527823,25.334522544983525
-Deaths,France,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0001416475501873837,0.0003225530305889583,4.404689904639988e-05
-Deaths,France,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.12375638108513333,0.2798253874908619,0.0384894543041648
-Deaths,Libya,Both,All Ages,All causes,Unsafe water source,Number,2017,36.64065886162833,62.438954283893025,16.182811787792033
-Deaths,Libya,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0012120090922243898,0.0020659515968605127,0.0005562419112867001
-Deaths,Libya,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.552636708724366,0.9417422956817493,0.24407901282793135
-Deaths,Turkmenistan,Both,All Ages,All causes,Unsafe water source,Number,2017,50.99940630252756,77.26021878279178,28.113615558357537
-Deaths,Turkmenistan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0015693794728200766,0.002374691606767757,0.0009019591345885785
-Deaths,Turkmenistan,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.0257908682978232,1.5539950884909026,0.5654710947717352
-Deaths,Djibouti,Both,All Ages,All causes,Unsafe water source,Number,2017,284.3782813229449,464.3734537551068,140.21242398254157
-Deaths,Djibouti,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0385311589948696,0.059322151054931486,0.020169802583058102
-Deaths,Djibouti,Both,All Ages,All causes,Unsafe water source,Rate,2017,24.883362262545997,40.63310609074164,12.268716596205746
-Deaths,Luxembourg,Both,All Ages,All causes,Unsafe water source,Number,2017,0.42434078072702497,0.9384124944085913,0.1367796155366476
-Deaths,Luxembourg,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00010846218755785661,0.00024007837676716482,3.474221592136599e-05
-Deaths,Luxembourg,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.07178222919454874,0.15874350006439425,0.023137879170538524
-Deaths,Chile,Both,All Ages,All causes,Unsafe water source,Number,2017,110.24049055744321,200.40237677536655,44.85202852878156
-Deaths,Chile,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001030377769302985,0.001882114548857944,0.0004250716282662486
-Deaths,Chile,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.6155137342304186,1.1189211391742022,0.25042558707750273
-Deaths,Palestine,Both,All Ages,All causes,Unsafe water source,Number,2017,23.378952224788165,35.964262826746975,13.972514637507839
-Deaths,Palestine,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0014656145108297776,0.0022197896550566003,0.0008805191507720193
-Deaths,Palestine,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.48752724551403925,0.7499719330567997,0.2913724066259145
-Deaths,United States of America,Both,All Ages,All causes,Unsafe water source,Number,2017,373.52735777504944,794.2061645799765,130.07202968647923
-Deaths,United States of America,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00013389036738633282,0.00028509214626199777,4.6667857775229886e-05
-Deaths,United States of America,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.11509007067724378,0.24470829702615643,0.040077383297758
-Deaths,Switzerland,Both,All Ages,All causes,Unsafe water source,Number,2017,5.15966564945385,12.148878336610148,1.6966651071338992
-Deaths,Switzerland,Both,All Ages,All causes,Unsafe water source,Percent,2017,7.661978222804999e-05,0.00018195077146977,2.4960166669040428e-05
-Deaths,Switzerland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.0599381439057941,0.14112953580835275,0.019709602183640675
-Deaths,Cyprus,Both,All Ages,All causes,Unsafe water source,Number,2017,0.9585593709028856,2.4248113613776265,0.20002463775748455
-Deaths,Cyprus,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0001198671099968719,0.000305509997541708,2.4450522317669715e-05
-Deaths,Cyprus,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.07519519901940268,0.1902168800786491,0.015691143294327903
-Deaths,Ukraine,Both,All Ages,All causes,Unsafe water source,Number,2017,47.20776774138218,68.54227096358275,24.50529075756177
-Deaths,Ukraine,Both,All Ages,All causes,Unsafe water source,Percent,2017,6.84037185530627e-05,9.887144653047133e-05,3.5402679258187184e-05
-Deaths,Ukraine,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.10561133022575964,0.15334002770084143,0.05482225655432646
-Deaths,Oman,Both,All Ages,All causes,Unsafe water source,Number,2017,22.092872106698398,35.06370696016859,10.698638563564746
-Deaths,Oman,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0016858129177283318,0.002671069265322075,0.0008125222827469195
-Deaths,Oman,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.48993484839128454,0.777578029266647,0.2372546148512767
-Deaths,Costa Rica,Both,All Ages,All causes,Unsafe water source,Number,2017,55.426705993366866,85.89727680701637,26.87193785463423
-Deaths,Costa Rica,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0023743582710316013,0.00363219364545784,0.001133500107440589
-Deaths,Costa Rica,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.191666325955277,1.8467792813527595,0.5777428566359832
-Deaths,Lebanon,Both,All Ages,All causes,Unsafe water source,Number,2017,41.4473664700289,77.24646486723218,20.78370193377932
-Deaths,Lebanon,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0012361791445090618,0.0022937421383878403,0.0006302040146515352
-Deaths,Lebanon,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.815653055851274,1.520152436421418,0.40900765085877033
-Deaths,United Kingdom,Both,All Ages,All causes,Unsafe water source,Number,2017,38.09005751194517,85.50897310960984,11.636037364963192
-Deaths,United Kingdom,Both,All Ages,All causes,Unsafe water source,Percent,2017,6.410558874218663e-05,0.00014354780205120193,1.954365215766591e-05
-Deaths,United Kingdom,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.05725794117850241,0.12853925859809387,0.017491586689911902
-Deaths,Qatar,Both,All Ages,All causes,Unsafe water source,Number,2017,2.296266137506684,3.8933916662614703,1.0862570018207878
-Deaths,Qatar,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0005836453924183087,0.0010085143349965109,0.0002741524767778374
-Deaths,Qatar,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.08633734332447292,0.14638768890771936,0.040842192537249467
-Deaths,Sweden,Both,All Ages,All causes,Unsafe water source,Number,2017,20.996913794044747,45.84226105309696,6.744075224645872
-Deaths,Sweden,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00022633661923693638,0.0004940986855325388,7.222546351510134e-05
-Deaths,Sweden,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.2089441821080153,0.4561848391470829,0.06711154294914652
-Deaths,Portugal,Both,All Ages,All causes,Unsafe water source,Number,2017,26.45190372959014,55.413480209773454,8.613880020682547
-Deaths,Portugal,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00023556267535535894,0.0004931821708067154,7.643282138213511e-05
-Deaths,Portugal,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.24707195771014773,0.5175853193373694,0.08045727906568872
-Deaths,Nicaragua,Both,All Ages,All causes,Unsafe water source,Number,2017,148.3050200190689,226.99800090754616,89.69222982816837
-Deaths,Nicaragua,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.005273153935341263,0.007958517206809153,0.0032032913054754007
-Deaths,Nicaragua,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.3386799676510477,3.5796204157556732,1.414391914219224
-Deaths,Seychelles,Both,All Ages,All causes,Unsafe water source,Number,2017,3.6407563521984554,6.409750501382499,1.8815334768325696
-Deaths,Seychelles,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0047496505643268355,0.008186866250598656,0.0024772077192128645
-Deaths,Seychelles,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.6256798456650468,6.383207487798738,1.8737419772066324
-Deaths,Kenya,Both,All Ages,All causes,Unsafe water source,Number,2017,16768.664961066374,25097.99579606265,10888.493267543665
-Deaths,Kenya,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.05759033462109685,0.08674437019347045,0.03721702363142081
-Deaths,Kenya,Both,All Ages,All causes,Unsafe water source,Rate,2017,34.85328598192237,52.16560931262293,22.631483820987647
-Deaths,Côte d'Ivoire,Both,All Ages,All causes,Unsafe water source,Number,2017,7229.174859900898,12720.266026064948,3613.928084667042
-Deaths,Côte d'Ivoire,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0381264312993151,0.06509562524736437,0.01962337327554841
-Deaths,Côte d'Ivoire,Both,All Ages,All causes,Unsafe water source,Rate,2017,28.810914039665512,50.694926895662164,14.40282928697931
-Deaths,Syrian Arab Republic,Both,All Ages,All causes,Unsafe water source,Number,2017,67.00902603888055,111.55039697854818,31.78069011227274
-Deaths,Syrian Arab Republic,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0006314584139094629,0.0010260239474778208,0.0003089231383297455
-Deaths,Syrian Arab Republic,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.46596450317503285,0.7756943859611906,0.22099520548369755
-Deaths,Ethiopia,Both,All Ages,All causes,Unsafe water source,Number,2017,47735.855940085625,65608.34751596561,31348.221316738574
-Deaths,Ethiopia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.08407426075187018,0.11440056615299123,0.0572780999181281
-Deaths,Ethiopia,Both,All Ages,All causes,Unsafe water source,Rate,2017,46.57059158422369,64.00680361774138,30.58299014615029
-Deaths,Cuba,Both,All Ages,All causes,Unsafe water source,Number,2017,205.30855970631166,254.64793300858165,145.50837118483142
-Deaths,Cuba,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0019444637938038746,0.0024085583841919464,0.0013764014278939828
-Deaths,Cuba,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.7985794585724946,2.2308107471619416,1.274707532105559
-Deaths,Bolivia (Plurinational State of),Both,All Ages,All causes,Unsafe water source,Number,2017,470.2716432253795,819.7614323866597,226.43418381040456
-Deaths,Bolivia (Plurinational State of),Both,All Ages,All causes,Unsafe water source,Percent,2017,0.006404534948760384,0.011271167665771105,0.003077661340013235
-Deaths,Bolivia (Plurinational State of),Both,All Ages,All causes,Unsafe water source,Rate,2017,4.058001711651849,7.073769689696044,1.953913910643215
-Deaths,Mozambique,Both,All Ages,All causes,Unsafe water source,Number,2017,7982.283729156543,13147.885368338204,3884.2465588118334
-Deaths,Mozambique,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.029923689346506226,0.04723128378242013,0.014991867367609003
-Deaths,Mozambique,Both,All Ages,All causes,Unsafe water source,Rate,2017,28.577404701167957,47.07079501109986,13.906006054988197
-Deaths,Ghana,Both,All Ages,All causes,Unsafe water source,Number,2017,6578.854160599762,9864.215410365989,3793.111002433378
-Deaths,Ghana,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.031141339634259867,0.04562331537721716,0.019105821525283652
-Deaths,Ghana,Both,All Ages,All causes,Unsafe water source,Rate,2017,21.835602609292483,32.73990918405984,12.58955776799275
-Deaths,Guyana,Both,All Ages,All causes,Unsafe water source,Number,2017,50.262244636388544,65.3241717467537,36.27872560674051
-Deaths,Guyana,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0076247183040066375,0.009072554460247002,0.005880492463949232
-Deaths,Guyana,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.597836719482437,8.574989480443474,4.762244696308071
-Deaths,Eritrea,Both,All Ages,All causes,Unsafe water source,Number,2017,3882.999770887715,7222.499541023679,2249.1319504854555
-Deaths,Eritrea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.09021678952917772,0.16435472500053297,0.055811231279674425
-Deaths,Eritrea,Both,All Ages,All causes,Unsafe water source,Rate,2017,60.57388781658793,112.66930279867294,35.085932138044704
-Deaths,Angola,Both,All Ages,All causes,Unsafe water source,Number,2017,13021.582544707835,18979.681579115673,8147.670882715426
-Deaths,Angola,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0705055877602068,0.09866259450736345,0.04625789181977828
-Deaths,Angola,Both,All Ages,All causes,Unsafe water source,Rate,2017,46.15030385248642,67.2666374376756,28.87648145963581
-Deaths,Afghanistan,Both,All Ages,All causes,Unsafe water source,Number,2017,4631.961685087607,8094.029683510805,2555.4250988253607
-Deaths,Afghanistan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.018867858941162798,0.03229356632624769,0.010478652023641975
-Deaths,Afghanistan,Both,All Ages,All causes,Unsafe water source,Rate,2017,12.897552050782378,22.537571819677844,7.115501047878887
-Deaths,Comoros,Both,All Ages,All causes,Unsafe water source,Number,2017,256.43760530723796,385.62444897922626,153.71529512854752
-Deaths,Comoros,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0519358043086964,0.07784116926486523,0.031120224269768734
-Deaths,Comoros,Both,All Ages,All causes,Unsafe water source,Rate,2017,36.74018008770384,55.248962743758895,22.023008749013545
-Deaths,Belize,Both,All Ages,All causes,Unsafe water source,Number,2017,9.132738248574318,11.309773014600827,7.151325455830267
-Deaths,Belize,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004966007158186512,0.006137034517586208,0.0039588762279270115
-Deaths,Belize,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.3250401008591646,2.8792761902123627,1.8206060445995957
-Deaths,El Salvador,Both,All Ages,All causes,Unsafe water source,Number,2017,224.08891030171074,396.75094775868945,119.11442285053457
-Deaths,El Salvador,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.005715350725617319,0.010101117787034758,0.003242573678613222
-Deaths,El Salvador,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.617010197493484,6.40394128373532,1.9226211664774464
-Deaths,Haiti,Both,All Ages,All causes,Unsafe water source,Number,2017,3787.225010426245,5988.420262961973,2038.6081061260531
-Deaths,Haiti,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03843005991872384,0.05802865323810835,0.02221494592117704
-Deaths,Haiti,Both,All Ages,All causes,Unsafe water source,Rate,2017,31.797600964900855,50.27887104874202,17.116185836318422
-Deaths,Mauritius,Both,All Ages,All causes,Unsafe water source,Number,2017,5.9077586255794,10.87131979003579,2.0637534642463065
-Deaths,Mauritius,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0005773457043966232,0.001062105147435009,0.00019951195176524917
-Deaths,Mauritius,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.46293208547318443,0.8518768387822544,0.16171576322862288
-Deaths,Gabon,Both,All Ages,All causes,Unsafe water source,Number,2017,216.00005952700292,405.11400651014606,92.41408618395079
-Deaths,Gabon,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.01840467351430075,0.03296610876914883,0.007706735992341887
-Deaths,Gabon,Both,All Ages,All causes,Unsafe water source,Rate,2017,12.74498379509088,23.903564931613676,5.45285049194784
-Deaths,Cameroon,Both,All Ages,All causes,Unsafe water source,Number,2017,17516.53983700016,27298.551011229756,8575.791144499912
-Deaths,Cameroon,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.08224223551496598,0.12182355567026876,0.04065198211044486
-Deaths,Cameroon,Both,All Ages,All causes,Unsafe water source,Rate,2017,63.67142556866283,99.22836787505229,31.172414907882615
-Deaths,Morocco,Both,All Ages,All causes,Unsafe water source,Number,2017,1212.4713334406595,2001.965389999894,638.7674470534312
-Deaths,Morocco,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0054710218912567285,0.00926567119799399,0.0028145907776579975
-Deaths,Morocco,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.4165127869816736,5.641156343564919,1.799924740960893
-Deaths,Algeria,Both,All Ages,All causes,Unsafe water source,Number,2017,298.6036123868155,502.5832491481315,140.3463604404554
-Deaths,Algeria,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0015603296165738868,0.0026295506138187537,0.0007347867698077176
-Deaths,Algeria,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.7351077468630196,1.2372684876088642,0.3455071959081355
-Deaths,Rwanda,Both,All Ages,All causes,Unsafe water source,Number,2017,3306.3599215430936,5261.532652943724,1827.3063174960057
-Deaths,Rwanda,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.04889674888836364,0.07521416527319454,0.027964017634926713
-Deaths,Rwanda,Both,All Ages,All causes,Unsafe water source,Rate,2017,27.221009926946888,43.31779841738853,15.044074023531328
-Deaths,Grenada,Both,All Ages,All causes,Unsafe water source,Number,2017,1.064266501215057,1.3446585172158063,0.7567916384668921
-Deaths,Grenada,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0013267932941640032,0.001648419462521267,0.0009430927541795978
-Deaths,Grenada,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.0252103861647495,1.2953126647514135,0.7290191385645397
-Deaths,Cabo Verde,Both,All Ages,All causes,Unsafe water source,Number,2017,37.00348564015188,63.19278907301466,22.022564239400303
-Deaths,Cabo Verde,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.01188950545850038,0.0206525717692201,0.007244287821523176
-Deaths,Cabo Verde,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.692998548833921,11.429983912205278,3.9833271905598515
-Deaths,Malawi,Both,All Ages,All causes,Unsafe water source,Number,2017,6885.232858038917,9791.35729567764,4367.147226660759
-Deaths,Malawi,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.05775944666195502,0.08203179351051408,0.03878679271882187
-Deaths,Malawi,Both,All Ages,All causes,Unsafe water source,Rate,2017,39.39616585827086,56.02453017224107,24.98809553959206
-Deaths,Colombia,Both,All Ages,All causes,Unsafe water source,Number,2017,517.452086184284,714.9473556921747,311.7703674260489
-Deaths,Colombia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0022146342131989056,0.0030269540442138232,0.0013145563048090436
-Deaths,Colombia,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.0978302659140295,1.5168377257919552,0.6614543732915946
-Deaths,Madagascar,Both,All Ages,All causes,Unsafe water source,Number,2017,17236.695602458167,24101.48497111667,11213.621580747968
-Deaths,Madagascar,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.10623681089953461,0.14509482767332643,0.07057274600536285
-Deaths,Madagascar,Both,All Ages,All causes,Unsafe water source,Rate,2017,67.83361699682195,94.84943856363246,44.13029788303946
-Deaths,Monaco,Both,All Ages,All causes,Unsafe water source,Number,2017,0.006039566114031341,0.015159178289408961,0.001536906204814463
-Deaths,Monaco,Both,All Ages,All causes,Unsafe water source,Percent,2017,1.152958087459865e-05,2.863399610309371e-05,2.777682464939115e-06
-Deaths,Monaco,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.016210216028948773,0.040687286181332126,0.004125061490492514
-Deaths,Guatemala,Both,All Ages,All causes,Unsafe water source,Number,2017,2063.1190727381572,2691.7854933071817,1419.9764368458818
-Deaths,Guatemala,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.02303815123725427,0.028465325395473515,0.015659745205012263
-Deaths,Guatemala,Both,All Ages,All causes,Unsafe water source,Rate,2017,12.090005296727714,15.774029381904189,8.3211496949183
-Deaths,Barbados,Both,All Ages,All causes,Unsafe water source,Number,2017,2.8832126724066143,3.9835201710106225,1.6865226207526578
-Deaths,Barbados,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0010125314824917864,0.0013709719323637942,0.0006028871935810378
-Deaths,Barbados,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.9764607370280628,1.3491030611017707,0.5711764300411581
-Deaths,Saudi Arabia,Both,All Ages,All causes,Unsafe water source,Number,2017,155.77228758450735,269.4103583733828,68.3522639136521
-Deaths,Saudi Arabia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0012840872661823118,0.002185288895378019,0.000584009482407821
-Deaths,Saudi Arabia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.4561081614907375,0.7888454689193739,0.20013845794279903
-Deaths,Gambia,Both,All Ages,All causes,Unsafe water source,Number,2017,509.24376934364676,771.0399428826698,309.33333509946766
-Deaths,Gambia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03779130546813483,0.055311920062718595,0.02314260482072223
-Deaths,Gambia,Both,All Ages,All causes,Unsafe water source,Rate,2017,23.793641571240496,36.0256701062942,14.453130199078375
-Deaths,Turkey,Both,All Ages,All causes,Unsafe water source,Number,2017,493.8503936470456,778.451293280316,272.4651751349875
-Deaths,Turkey,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0011067639086800038,0.0017481226865652037,0.0005953903378649303
-Deaths,Turkey,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.6122151157538585,0.965028386643264,0.3377688888780731
-Deaths,Tunisia,Both,All Ages,All causes,Unsafe water source,Number,2017,79.72486258797625,143.6933536892749,34.59648774575447
-Deaths,Tunisia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001219851856233093,0.0021849126340336513,0.000577923419876438
-Deaths,Tunisia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.6978556499839562,1.2577910513994028,0.302833440651382
-Deaths,Guinea,Both,All Ages,All causes,Unsafe water source,Number,2017,6354.864166962691,9287.67360218322,3789.4624174923456
-Deaths,Guinea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0537776129417221,0.07677063914767174,0.03376741460878801
-Deaths,Guinea,Both,All Ages,All causes,Unsafe water source,Rate,2017,53.01528321024495,77.48216695863651,31.613488187892507
-Deaths,Somalia,Both,All Ages,All causes,Unsafe water source,Number,2017,13739.892082741899,21177.774152682392,8223.154660560978
-Deaths,Somalia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.07487145711654879,0.11064619508760115,0.04733704061029461
-Deaths,Somalia,Both,All Ages,All causes,Unsafe water source,Rate,2017,72.49319832342869,111.73629111887581,43.386278295521564
-Deaths,Honduras,Both,All Ages,All causes,Unsafe water source,Number,2017,837.0345069615478,1449.560906470863,428.8527130215539
-Deaths,Honduras,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.01660873465530176,0.028412619827119512,0.008709623259079861
-Deaths,Honduras,Both,All Ages,All causes,Unsafe water source,Rate,2017,8.907758313094151,15.426291398456433,4.563869574956753
-Deaths,Niue,Both,All Ages,All causes,Unsafe water source,Number,2017,0.09236828946095924,0.19068896901392113,0.03900848400137317
-Deaths,Niue,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004669516069245647,0.009594227903130042,0.0020325787508708045
-Deaths,Niue,Both,All Ages,All causes,Unsafe water source,Rate,2017,5.56562590191485,11.489911433316,2.350445485344152
-Deaths,Chad,Both,All Ages,All causes,Unsafe water source,Number,2017,27131.176206671997,39036.38922390402,17564.649937232734
-Deaths,Chad,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.17674661579781256,0.24720604327213874,0.11729242769039705
-Deaths,Chad,Both,All Ages,All causes,Unsafe water source,Rate,2017,178.19001960467017,256.38014762487217,115.35973570858265
-Deaths,Palau,Both,All Ages,All causes,Unsafe water source,Number,2017,0.9332357720027205,1.7797164168577384,0.41745956401371787
-Deaths,Palau,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0047070221894536,0.008527975347796084,0.0021996907930266815
-Deaths,Palau,Both,All Ages,All causes,Unsafe water source,Rate,2017,5.1915220340619594,9.900431669770816,2.322296883515518
-Deaths,Togo,Both,All Ages,All causes,Unsafe water source,Number,2017,5794.143888685316,8447.56118920775,2953.6574137889884
-Deaths,Togo,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.10582060962289455,0.15108392330748593,0.055317848907451436
-Deaths,Togo,Both,All Ages,All causes,Unsafe water source,Rate,2017,76.41506095466823,111.40919445444915,38.95379811927752
-Deaths,Mexico,Both,All Ages,All causes,Unsafe water source,Number,2017,2370.9207637110335,3383.181006384707,1268.103922371632
-Deaths,Mexico,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003373220650375034,0.00481284071409903,0.0018006990679033683
-Deaths,Mexico,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.9308650364918944,2.7552442988971486,1.0327369703039326
-Deaths,Dominican Republic,Both,All Ages,All causes,Unsafe water source,Number,2017,468.6775991084648,728.9088931446709,258.0404739106515
-Deaths,Dominican Republic,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00663487403591158,0.010067715438510733,0.003819257348218825
-Deaths,Dominican Republic,Both,All Ages,All causes,Unsafe water source,Rate,2017,4.405961558250049,6.852353448876442,2.425796348461374
-Deaths,Panama,Both,All Ages,All causes,Unsafe water source,Number,2017,119.11745814201818,166.5420716018156,70.34230454605454
-Deaths,Panama,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.006236808593927224,0.00849874099259533,0.0037454311184602126
-Deaths,Panama,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.9626625066791097,4.142196777999571,1.7495379062196994
-Deaths,Central African Republic,Both,All Ages,All causes,Unsafe water source,Number,2017,7681.534169088399,11163.835255649585,4455.135167899594
-Deaths,Central African Republic,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.10842001973568005,0.1497798754161733,0.06647926139724555
-Deaths,Central African Republic,Both,All Ages,All causes,Unsafe water source,Rate,2017,152.2675409593702,221.29560379928836,88.31210819676494
-Deaths,South Sudan,Both,All Ages,All causes,Unsafe water source,Number,2017,6289.575620917816,9222.61957202259,3860.932310345537
-Deaths,South Sudan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.08300327590677246,0.11564516876717375,0.05429088962506213
-Deaths,South Sudan,Both,All Ages,All causes,Unsafe water source,Rate,2017,71.66298894679376,105.0818885541745,43.99119529788487
-Deaths,Paraguay,Both,All Ages,All causes,Unsafe water source,Number,2017,111.78502697171997,186.1592353107885,57.19098000491925
-Deaths,Paraguay,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003377527348189772,0.005543820171548196,0.00176508629610765
-Deaths,Paraguay,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.6547778481656708,2.7557552846651485,0.8466104038331397
-Deaths,United Arab Emirates,Both,All Ages,All causes,Unsafe water source,Number,2017,23.958679853618683,45.077598300749,7.933826279406386
-Deaths,United Arab Emirates,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0009303125835092807,0.0016854875606417072,0.00030454757327295554
-Deaths,United Arab Emirates,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.2613662051425092,0.4917533385306992,0.08655043097439953
-Deaths,Botswana,Both,All Ages,All causes,Unsafe water source,Number,2017,420.34462108938175,714.5181191449475,209.2041900862417
-Deaths,Botswana,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.02020173226124936,0.03358110178715403,0.010401305542324399
-Deaths,Botswana,Both,All Ages,All causes,Unsafe water source,Rate,2017,18.553247639441246,31.53753121190799,9.233892742149406
-Deaths,Iraq,Both,All Ages,All causes,Unsafe water source,Number,2017,448.7578836990036,695.1027157438829,240.96366743788727
-Deaths,Iraq,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.002314728981727694,0.0035219590937938176,0.0012431432339269897
-Deaths,Iraq,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.1071831865143607,1.7149694027176077,0.5945097141223972
-Deaths,Bermuda,Both,All Ages,All causes,Unsafe water source,Number,2017,0.3148089327948879,0.427395992207984,0.21215118495037286
-Deaths,Bermuda,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0005702278007363033,0.0007523056295245668,0.00037876753304503694
-Deaths,Bermuda,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.48800005441665106,0.6625265223679255,0.32886547685034523
-Deaths,United Republic of Tanzania,Both,All Ages,All causes,Unsafe water source,Number,2017,14755.751632624822,23311.232908899376,8848.505655746469
-Deaths,United Republic of Tanzania,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.040724170183478195,0.061913861576985856,0.025494851294083437
-Deaths,United Republic of Tanzania,Both,All Ages,All causes,Unsafe water source,Rate,2017,27.39840997978337,43.28418722907374,16.42986353392886
-Deaths,Nauru,Both,All Ages,All causes,Unsafe water source,Number,2017,0.2929033344595743,0.5033462360006192,0.1574779932367222
-Deaths,Nauru,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00437272150317084,0.007292533584168323,0.0023958077005246346
-Deaths,Nauru,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.799489547867055,4.810844947333428,1.5051313666288364
-Deaths,Brazil,Both,All Ages,All causes,Unsafe water source,Number,2017,4464.791945815383,5969.690600405355,2718.98061176581
-Deaths,Brazil,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0032775371011577654,0.004370208700022104,0.0019885370769879133
-Deaths,Brazil,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.095108978422652,2.8012844780005612,1.2758849149077924
-Deaths,Bahrain,Both,All Ages,All causes,Unsafe water source,Number,2017,5.779326944871399,10.08067707966799,2.587219132999148
-Deaths,Bahrain,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0015134236161150772,0.0026275341925448515,0.0006891096488832343
-Deaths,Bahrain,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.4060359756434321,0.7082342965250696,0.18176927086689315
-Deaths,Saint Kitts and Nevis,Both,All Ages,All causes,Unsafe water source,Number,2017,1.8560552646140138,2.4220762049150806,1.2773056638182727
-Deaths,Saint Kitts and Nevis,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004038846139281452,0.005110043811579684,0.002794010286239067
-Deaths,Saint Kitts and Nevis,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.1710417418107837,4.1380797727645335,2.182256991071544
-Deaths,Puerto Rico,Both,All Ages,All causes,Unsafe water source,Number,2017,65.64275399391397,86.48264244601773,44.05884222674379
-Deaths,Puerto Rico,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0019651730170474387,0.0026107436175477504,0.0012874097175243748
-Deaths,Puerto Rico,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.815824531059193,2.3923021827947584,1.2187655401052389
-Deaths,Bhutan,Both,All Ages,All causes,Unsafe water source,Number,2017,79.78167436737759,154.27700974723825,30.202301737534242
-Deaths,Bhutan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.018999218833134667,0.03629666983123693,0.007247825024002131
-Deaths,Bhutan,Both,All Ages,All causes,Unsafe water source,Rate,2017,10.487675096001746,20.28043615080266,3.970234145702349
-Deaths,Uganda,Both,All Ages,All causes,Unsafe water source,Number,2017,10471.341240608024,16407.98249865858,6249.024359164282
-Deaths,Venezuela (Bolivarian Republic of),Both,All Ages,All causes,Unsafe water source,Number,2017,707.6438893245524,1040.3933236656299,391.11275542633354
-Deaths,Venezuela (Bolivarian Republic of),Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004165334960247186,0.006053480739571566,0.002270872075955598
-Deaths,Venezuela (Bolivarian Republic of),Both,All Ages,All causes,Unsafe water source,Rate,2017,2.5167571358990184,3.7001906763816748,1.3910044769833376
-Deaths,Egypt,Both,All Ages,All causes,Unsafe water source,Number,2017,4036.179537156429,7143.228506294526,1760.5021625871773
-Deaths,Egypt,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.007370288797242133,0.012993935821024354,0.00317170563799392
-Deaths,Egypt,Both,All Ages,All causes,Unsafe water source,Rate,2017,4.209079545236631,7.44922685326776,1.8359177468877177
-Deaths,Jordan,Both,All Ages,All causes,Unsafe water source,Number,2017,28.413323580864702,48.28325741309302,12.315081883635127
-Deaths,Jordan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0009972735929300001,0.0016877287299958332,0.00046041522031916665
-Deaths,Jordan,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.26594984331282306,0.451933217425246,0.11526965819454749
-Deaths,Northern Mariana Islands,Both,All Ages,All causes,Unsafe water source,Number,2017,1.2867862342009935,2.2630655524106844,0.6110170312931759
-Deaths,Northern Mariana Islands,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003761092676582578,0.006449910359041701,0.0017991514459887712
-Deaths,Northern Mariana Islands,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.901543038221298,5.1029315702253575,1.3777674692674977
-Deaths,Guinea-Bissau,Both,All Ages,All causes,Unsafe water source,Number,2017,1258.4559588058105,2025.8614011744642,710.0715792928848
-Deaths,Guinea-Bissau,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.08302447374465642,0.12769707902536728,0.049572415934539434
-Deaths,Guinea-Bissau,Both,All Ages,All causes,Unsafe water source,Rate,2017,69.04637014923298,111.15079172835794,38.95874524113743
-Deaths,Uganda,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.04188208312434684,0.06374184962613384,0.025464157987015647
-Deaths,Uganda,Both,All Ages,All causes,Unsafe water source,Rate,2017,26.812935217019376,42.01430950148032,16.001263015101472
-Deaths,Cook Islands,Both,All Ages,All causes,Unsafe water source,Number,2017,0.3785099868180224,0.6803770924150149,0.16650890776123314
-Deaths,Cook Islands,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.002380689827635553,0.004304594644291305,0.0010572014445229736
-Deaths,Cook Islands,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.103725002055694,3.7814756545051695,0.9254417704193928
-Deaths,Kuwait,Both,All Ages,All causes,Unsafe water source,Number,2017,2.336895837094096,3.876583327129597,1.107297433680019
-Deaths,Kuwait,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0002602570838061014,0.000427027472483565,0.00012280373714051467
-Deaths,Kuwait,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.05672499369207929,0.09409883028919624,0.026878151325246947
-Deaths,India,Both,All Ages,All causes,Unsafe water source,Number,2017,530729.4955820676,871882.8889153067,301966.3636976733
-Deaths,India,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.058752047632294184,0.09607053916017377,0.03321640062794252
-Deaths,India,Both,All Ages,All causes,Unsafe water source,Rate,2017,39.05916723402764,64.16643478478771,22.22328850553736
-Deaths,Iran (Islamic Republic of),Both,All Ages,All causes,Unsafe water source,Number,2017,550.2328190269216,906.830800154163,278.40732201095386
-Deaths,Iran (Islamic Republic of),Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0014432209370766854,0.002378252052047042,0.0007366867904520677
-Deaths,Iran (Islamic Republic of),Both,All Ages,All causes,Unsafe water source,Rate,2017,0.6653139665089673,1.0964943851768825,0.3366361898220113
-Deaths,Liberia,Both,All Ages,All causes,Unsafe water source,Number,2017,2306.6640571709945,3603.274084556211,1293.1832414019273
-Deaths,Liberia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.07573905960162758,0.113871045335709,0.042706172477015775
-Deaths,Liberia,Both,All Ages,All causes,Unsafe water source,Rate,2017,50.06143677524872,78.20171177814957,28.06590360524908
-Deaths,San Marino,Both,All Ages,All causes,Unsafe water source,Number,2017,0.004870563007563159,0.012166893171073213,0.0012569435606479351
-Deaths,San Marino,Both,All Ages,All causes,Unsafe water source,Percent,2017,1.672194273228083e-05,4.1568137140294684e-05,4.479499952547546e-06
-Deaths,San Marino,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.014875545527098483,0.037159805346650476,0.003838923987304398
-Deaths,Zambia,Both,All Ages,All causes,Unsafe water source,Number,2017,6864.307589002337,9876.082479201972,4543.259737599675
-Deaths,Zambia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.05495336615263,0.07643310261251267,0.037952191082918106
-Deaths,Zambia,Both,All Ages,All causes,Unsafe water source,Rate,2017,39.9819936378861,57.52444244825606,26.46276839560672
-Deaths,Tokelau,Both,All Ages,All causes,Unsafe water source,Number,2017,0.0852118392741169,0.16086685819625468,0.04054111747800061
-Deaths,Tokelau,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00776487554940126,0.014554129500125317,0.0038919320832504385
-Deaths,Tokelau,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.2476578509020655,11.794617955923645,2.9724394292320975
-Deaths,Yemen,Both,All Ages,All causes,Unsafe water source,Number,2017,6164.488548257059,11129.212837772984,2851.954642595007
-Deaths,Yemen,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03563495989751633,0.0629314356687613,0.016873257480466145
-Deaths,Yemen,Both,All Ages,All causes,Unsafe water source,Rate,2017,20.40795268221103,36.8440053388928,9.44158707446169
-Deaths,Nepal,Both,All Ages,All causes,Unsafe water source,Number,2017,5031.622919262808,8548.036977521282,2731.787087106799
-Deaths,Nepal,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0266964441485824,0.04505134448172474,0.014269952627680379
-Deaths,Nepal,Both,All Ages,All causes,Unsafe water source,Rate,2017,16.870062815041617,28.659922070871342,9.15915610058538
-Deaths,American Samoa,Both,All Ages,All causes,Unsafe water source,Number,2017,1.966331811737262,3.4088543771712345,0.9557542964018411
-Deaths,American Samoa,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.005288376190449745,0.00913076934804803,0.0025353169942308323
-Deaths,American Samoa,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.5314059207401813,6.122084003639196,1.7164734664514019
-Deaths,Burundi,Both,All Ages,All causes,Unsafe water source,Number,2017,7782.070802244716,13288.343278558203,3626.050745997352
-Deaths,Burundi,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.09429795168588789,0.15577089131324903,0.04615404963471469
-Deaths,Burundi,Both,All Ages,All causes,Unsafe water source,Rate,2017,70.07202830365456,119.6521067445474,32.65001526723769
-Deaths,Congo,Both,All Ages,All causes,Unsafe water source,Number,2017,1742.2228290439762,2634.3116956034446,848.294951036953
-Deaths,Congo,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.049222932586147114,0.07282114413647545,0.023962507344190892
-Deaths,Congo,Both,All Ages,All causes,Unsafe water source,Rate,2017,34.55079579661985,52.242206876250634,16.82291446305093
-Deaths,Lesotho,Both,All Ages,All causes,Unsafe water source,Number,2017,1285.3998484405029,2000.329226427649,765.466151504193
-Deaths,Lesotho,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.038815642189388336,0.059469072050109394,0.02341274574923223
-Deaths,Lesotho,Both,All Ages,All causes,Unsafe water source,Rate,2017,62.37700495403031,97.07060897661566,37.146018013343244
-Deaths,Bangladesh,Both,All Ages,All causes,Unsafe water source,Number,2017,28726.500879964053,61732.02848958727,13209.570454045715
-Deaths,Bangladesh,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03517636533680075,0.07537690783349502,0.01648330198387625
-Deaths,Bangladesh,Both,All Ages,All causes,Unsafe water source,Rate,2017,18.387341112268672,39.51361393207561,8.455219760318696
-Deaths,Burkina Faso,Both,All Ages,All causes,Unsafe water source,Number,2017,13556.945521824407,20407.57768168573,8335.727901838412
-Deaths,Burkina Faso,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.06815424178043812,0.09900032670717517,0.04303300839447886
-Deaths,Burkina Faso,Both,All Ages,All causes,Unsafe water source,Rate,2017,63.71593690008696,95.91304543908271,39.17687152720497
-Deaths,Mali,Both,All Ages,All causes,Unsafe water source,Number,2017,12393.233362533863,19660.511159876354,7230.360573128017
-Deaths,Mali,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.062307810490116765,0.0941506392515849,0.037529071543347683
-Deaths,Mali,Both,All Ages,All causes,Unsafe water source,Rate,2017,60.7951074383122,96.44479800325819,35.468592820169555
-Deaths,Zimbabwe,Both,All Ages,All causes,Unsafe water source,Number,2017,4192.616336182812,6128.508710096505,2295.2962079172275
-Deaths,Zimbabwe,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03242585230429539,0.04576004766652523,0.01789642824436066
-Deaths,Zimbabwe,Both,All Ages,All causes,Unsafe water source,Rate,2017,28.83570403527681,42.15025873387079,15.786439019854162
-Deaths,Equatorial Guinea,Both,All Ages,All causes,Unsafe water source,Number,2017,99.87953212831259,181.58306313631883,45.12091166634868
-Deaths,Equatorial Guinea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.013622441493377548,0.0229581533012487,0.006356810728558902
-Deaths,Equatorial Guinea,Both,All Ages,All causes,Unsafe water source,Rate,2017,7.469770825909279,13.580198450993977,3.3744938769910355
-Deaths,Tuvalu,Both,All Ages,All causes,Unsafe water source,Number,2017,0.9193655941618935,1.7265765321026296,0.4328212086375968
-Deaths,Tuvalu,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.008717524534340177,0.015958469007563654,0.004226665080323903
-Deaths,Tuvalu,Both,All Ages,All causes,Unsafe water source,Rate,2017,7.954488796696388,14.938598712484332,3.74483391258395
-Deaths,Namibia,Both,All Ages,All causes,Unsafe water source,Number,2017,583.1620714635121,991.2959033437129,277.08883317111923
-Deaths,Namibia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.030235608969683383,0.050322488342375606,0.015411619142013678
-Deaths,Namibia,Both,All Ages,All causes,Unsafe water source,Rate,2017,24.975133278840886,42.4543167607691,11.866907806880944
-Deaths,Sierra Leone,Both,All Ages,All causes,Unsafe water source,Number,2017,3423.7155904006277,6301.713656853064,1326.7706703882538
-Deaths,Sierra Leone,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.04731138235292214,0.0824400433253054,0.018539673019500935
-Deaths,Sierra Leone,Both,All Ages,All causes,Unsafe water source,Rate,2017,43.703577277013345,80.44109462598836,16.93616861306018
-Deaths,Democratic Republic of the Congo,Both,All Ages,All causes,Unsafe water source,Number,2017,35294.06686559452,61471.28210163113,16790.31948796214
-Deaths,Democratic Republic of the Congo,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.060862688190233015,0.10256336866069336,0.02930888040904062
-Deaths,Democratic Republic of the Congo,Both,All Ages,All causes,Unsafe water source,Rate,2017,42.37262839014551,73.79993365676259,20.157778102607264
-Deaths,Pakistan,Both,All Ages,All causes,Unsafe water source,Number,2017,72574.41231753341,105449.18577723434,45842.022379049304
-Deaths,Pakistan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.048120832173921824,0.06946063428014507,0.030768076894444656
-Deaths,Pakistan,Both,All Ages,All causes,Unsafe water source,Rate,2017,33.7860742485563,49.090497688518234,21.341157611115158
-Deaths,Sudan,Both,All Ages,All causes,Unsafe water source,Number,2017,7723.0635271136725,13371.691360944806,3591.65300215117
-Deaths,Sudan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03765735525854408,0.06384797880373662,0.01794749163704354
-Deaths,Sudan,Both,All Ages,All causes,Unsafe water source,Rate,2017,19.650500329340495,34.022823270791655,9.138572828498432
-Deaths,Greenland,Both,All Ages,All causes,Unsafe water source,Number,2017,0.07154251275822988,0.1817079421971597,0.0169292149444477
-Deaths,Greenland,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0001532198894857074,0.0003873507314680009,3.622040256313326e-05
-Deaths,Greenland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.1274505203310475,0.3237064353550797,0.03015881285519708
-Deaths,Nigeria,Both,All Ages,All causes,Unsafe water source,Number,2017,172466.23141291534,223617.34332042103,125105.03774570054
-Deaths,Nigeria,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.106265066852808,0.13183698290610005,0.08154531307688959
-Deaths,Nigeria,Both,All Ages,All causes,Unsafe water source,Rate,2017,84.72818387819997,109.85739775252205,61.46085848439921
-Deaths,Benin,Both,All Ages,All causes,Unsafe water source,Number,2017,5077.014466863302,9482.38411489279,2446.4103901140134
-Deaths,Benin,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.05407510250036417,0.09684153274969849,0.026829190263316927
-Deaths,Benin,Both,All Ages,All causes,Unsafe water source,Rate,2017,42.74883791704334,79.84237670394903,20.598956715238106
-Deaths,Sao Tome and Principe,Both,All Ages,All causes,Unsafe water source,Number,2017,10.269410899652827,17.071702193108578,5.387290184998402
-Deaths,Sao Tome and Principe,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.010207714126312663,0.01705574098825777,0.005473247695990267
-Deaths,Sao Tome and Principe,Both,All Ages,All causes,Unsafe water source,Rate,2017,5.161819311653094,8.580924740888245,2.707868911481965
-Deaths,Mauritania,Both,All Ages,All causes,Unsafe water source,Number,2017,1493.4380733031667,2335.385932325526,782.8819341887265
-Deaths,Mauritania,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.07170595066066066,0.10246691411001359,0.039219509376201514
-Deaths,Mauritania,Both,All Ages,All causes,Unsafe water source,Rate,2017,38.654866321291145,60.44712039716534,20.263442490444607
-Deaths,Senegal,Both,All Ages,All causes,Unsafe water source,Number,2017,6220.690309388481,9373.89471620294,3687.1541864883116
-Deaths,Senegal,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.06803266037519468,0.09967008572289804,0.04035877473081149
-Deaths,Senegal,Both,All Ages,All causes,Unsafe water source,Rate,2017,42.80748029361933,64.50615500545102,25.373032947713277
-Deaths,South Africa,Both,All Ages,All causes,Unsafe water source,Number,2017,9974.430752583145,16481.876215718858,5806.206026166674
-Deaths,South Africa,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.017892660241167486,0.029518106469209784,0.010462173622687653
-Deaths,South Africa,Both,All Ages,All causes,Unsafe water source,Rate,2017,18.29400664031856,30.22924920875141,10.649106122697049
-Deaths,Eswatini,Both,All Ages,All causes,Unsafe water source,Number,2017,423.0898081993005,693.6115911343863,229.97695461706545
-Deaths,Eswatini,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03569627741897757,0.05554343716487504,0.02095400373492942
-Deaths,Eswatini,Both,All Ages,All causes,Unsafe water source,Rate,2017,37.620297900973796,61.67455273172708,20.449089945880296
-Deaths,Niger,Both,All Ages,All causes,Unsafe water source,Number,2017,26515.28001410452,41036.918226470116,15727.124736337815
-Deaths,Niger,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.1326959047452166,0.1976557350507657,0.08031171666918259
-Deaths,Niger,Both,All Ages,All causes,Unsafe water source,Rate,2017,123.01052508012565,190.37976804405085,72.96177414639631
-Deaths,Guam,Both,All Ages,All causes,Unsafe water source,Number,2017,3.366310897075888,5.800854473398383,1.5388429416508853
-Deaths,Guam,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003165007980921423,0.005517914601209744,0.0014609552699074884
-Deaths,Guam,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.9905394650824129,3.4301138883308013,0.9099360396511063
-Deaths,United States Virgin Islands,Both,All Ages,All causes,Unsafe water source,Number,2017,0.823427033165646,1.4438624553082178,0.4239642639986995
-Deaths,United States Virgin Islands,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.0006591087076078117,0.0011891386630325587,0.00035117736459528055
-Deaths,United States Virgin Islands,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.7839198995953844,1.3745875049101872,0.40362291967530417
+Deaths,Indonesia,Both,All Ages,All causes,Unsafe water source,Number,2017,48326.79061,73330.20203,26900.6971
+Deaths,Indonesia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.028909019,0.044345761,0.016367049
+Deaths,Indonesia,Both,All Ages,All causes,Unsafe water source,Rate,2017,18.87860515,28.64605558,10.50861505
+Deaths,China,Both,All Ages,All causes,Unsafe water source,Number,2017,3830.130574,6093.341558,2163.873173
+Deaths,China,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000376454,0.000598997,0.000213819
+Deaths,China,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.271484073,0.431903078,0.153377826
+Deaths,Cambodia,Both,All Ages,All causes,Unsafe water source,Number,2017,1439.008072,2423.622053,791.9567455
+Deaths,Cambodia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.01339458,0.022051167,0.007706553
+Deaths,Cambodia,Both,All Ages,All causes,Unsafe water source,Rate,2017,8.914939503,15.01481778,4.90632861
+Deaths,Marshall Islands,Both,All Ages,All causes,Unsafe water source,Number,2017,4.114791545,7.521677224,1.977242459
+Deaths,Marshall Islands,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.01008356,0.017907713,0.004986147
+Deaths,Marshall Islands,Both,All Ages,All causes,Unsafe water source,Rate,2017,7.305692885,13.35451947,3.510536563
+Deaths,Micronesia (Federated States of),Both,All Ages,All causes,Unsafe water source,Number,2017,6.67474387,12.45792767,3.234387497
+Deaths,Micronesia (Federated States of),Both,All Ages,All causes,Unsafe water source,Percent,2017,0.007348152,0.013397481,0.003723542
+Deaths,Micronesia (Federated States of),Both,All Ages,All causes,Unsafe water source,Rate,2017,6.499378662,12.13062117,3.149410598
+Deaths,Maldives,Both,All Ages,All causes,Unsafe water source,Number,2017,8.850838728,13.44112899,5.342798757
+Deaths,Maldives,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00633247,0.009306148,0.003836791
+Deaths,Maldives,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.898130546,2.882553654,1.145804351
+Deaths,Azerbaijan,Both,All Ages,All causes,Unsafe water source,Number,2017,68.4343103,145.2884876,21.46318421
+Deaths,Azerbaijan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000897902,0.001878514,0.00028633
+Deaths,Azerbaijan,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.677856875,1.439114383,0.212597554
+Deaths,Papua New Guinea,Both,All Ages,All causes,Unsafe water source,Number,2017,2697.796853,3905.313783,1685.923167
+Deaths,Papua New Guinea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.040429631,0.058634796,0.026549091
+Deaths,Papua New Guinea,Both,All Ages,All causes,Unsafe water source,Rate,2017,28.93338767,41.88379029,18.08122376
+Deaths,Mongolia,Both,All Ages,All causes,Unsafe water source,Number,2017,42.08476476,78.76772804,20.38370694
+Deaths,Mongolia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001806415,0.00319544,0.000891587
+Deaths,Mongolia,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.286633865,2.408121488,0.623179618
+Deaths,Montenegro,Both,All Ages,All causes,Unsafe water source,Number,2017,0.310230746,0.501952558,0.148481206
+Deaths,Montenegro,Both,All Ages,All causes,Unsafe water source,Percent,2017,4.48E-05,7.34E-05,2.10E-05
+Deaths,Montenegro,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.049791743,0.080562913,0.023831094
+Deaths,Georgia,Both,All Ages,All causes,Unsafe water source,Number,2017,8.467256389,12.9375264,4.116551193
+Deaths,Georgia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000167567,0.000256436,8.11E-05
+Deaths,Georgia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.227051527,0.346922898,0.110386316
+Deaths,Thailand,Both,All Ages,All causes,Unsafe water source,Number,2017,4878.13975,8291.187698,2610.2539
+Deaths,Thailand,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.010380014,0.017439927,0.005711894
+Deaths,Thailand,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.986122233,11.87404496,3.738218611
+Deaths,Vanuatu,Both,All Ages,All causes,Unsafe water source,Number,2017,56.69833109,93.0488742,30.60262929
+Deaths,Vanuatu,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.026612536,0.042850986,0.015023211
+Deaths,Vanuatu,Both,All Ages,All causes,Unsafe water source,Rate,2017,19.97255093,32.77739121,10.78008048
+Deaths,Malaysia,Both,All Ages,All causes,Unsafe water source,Number,2017,690.2072942,1250.997693,297.6834713
+Deaths,Malaysia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004263686,0.007590982,0.001821686
+Deaths,Malaysia,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.256989891,4.090784278,0.973430144
+Deaths,Kazakhstan,Both,All Ages,All causes,Unsafe water source,Number,2017,30.97636216,49.84607912,14.89777894
+Deaths,Kazakhstan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000223994,0.000354609,0.00010752
+Deaths,Kazakhstan,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.172868544,0.278174018,0.083139438
+Deaths,Tonga,Both,All Ages,All causes,Unsafe water source,Number,2017,2.135642493,3.916360811,1.026108537
+Deaths,Tonga,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003264075,0.006087304,0.001613475
+Deaths,Tonga,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.069434611,3.794948189,0.994297748
+Deaths,Myanmar,Both,All Ages,All causes,Unsafe water source,Number,2017,6177.115852,9472.234654,3835.67694
+Deaths,Myanmar,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.014409821,0.021649819,0.009221292
+Deaths,Myanmar,Both,All Ages,All causes,Unsafe water source,Rate,2017,11.48371613,17.60958617,7.130807675
+Deaths,Poland,Both,All Ages,All causes,Unsafe water source,Number,2017,85.38823261,148.4649105,34.77297711
+Deaths,Poland,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000217135,0.000375169,9.12E-05
+Deaths,Poland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.221897653,0.385814465,0.090364232
+Deaths,Sri Lanka,Both,All Ages,All causes,Unsafe water source,Number,2017,761.3635947,1341.721348,375.2154295
+Deaths,Sri Lanka,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.005754938,0.010416922,0.003032151
+Deaths,Sri Lanka,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.524218393,6.21059253,1.736806339
+Deaths,Democratic People's Republic of Korea,Both,All Ages,All causes,Unsafe water source,Number,2017,138.1072054,269.4942499,49.89933878
+Deaths,Democratic People's Republic of Korea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000595272,0.001153733,0.000220256
+Deaths,Democratic People's Republic of Korea,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.529481448,1.033198848,0.191306269
+Deaths,Samoa,Both,All Ages,All causes,Unsafe water source,Number,2017,7.117063566,13.65468758,3.137833886
+Deaths,Samoa,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.005317708,0.010086795,0.002399297
+Deaths,Samoa,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.473232594,6.66369009,1.531309483
+Deaths,Croatia,Both,All Ages,All causes,Unsafe water source,Number,2017,8.801947566,16.46830239,3.308745869
+Deaths,Croatia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000171955,0.000319715,6.47E-05
+Deaths,Croatia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.205574828,0.384627197,0.077277768
+Deaths,Armenia,Both,All Ages,All causes,Unsafe water source,Number,2017,3.108049611,6.041969092,1.015699475
+Deaths,Armenia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000111572,0.000220128,3.63E-05
+Deaths,Armenia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.10231821,0.198903987,0.033437224
+Deaths,Lao People's Democratic Republic,Both,All Ages,All causes,Unsafe water source,Number,2017,1044.61719,1681.84635,570.358659
+Deaths,Lao People's Democratic Republic,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.023840693,0.037076696,0.013532715
+Deaths,Lao People's Democratic Republic,Both,All Ages,All causes,Unsafe water source,Rate,2017,14.98314541,24.1230459,8.180764019
+Deaths,Fiji,Both,All Ages,All causes,Unsafe water source,Number,2017,70.84639289,114.5216083,37.66474181
+Deaths,Fiji,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.009810977,0.015160689,0.005181501
+Deaths,Fiji,Both,All Ages,All causes,Unsafe water source,Rate,2017,7.835322716,12.66562379,4.165567152
+Deaths,Hungary,Both,All Ages,All causes,Unsafe water source,Number,2017,74.78522308,136.621454,26.97008489
+Deaths,Hungary,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000581079,0.001058422,0.000210047
+Deaths,Hungary,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.766586452,1.400439169,0.276457044
+Deaths,Solomon Islands,Both,All Ages,All causes,Unsafe water source,Number,2017,193.4602507,300.7177434,114.0422695
+Deaths,Solomon Islands,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.031961355,0.048660735,0.019177841
+Deaths,Solomon Islands,Both,All Ages,All causes,Unsafe water source,Rate,2017,30.57850773,47.53172712,18.02562752
+Deaths,Czechia,Both,All Ages,All causes,Unsafe water source,Number,2017,69.72621113,131.5313952,24.56300917
+Deaths,Czechia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00062741,0.001188662,0.000221309
+Deaths,Czechia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.656638781,1.238682177,0.231319387
+Deaths,Timor-Leste,Both,All Ages,All causes,Unsafe water source,Number,2017,185.6168601,313.0319934,87.13459544
+Deaths,Timor-Leste,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.024796255,0.041596787,0.011417433
+Deaths,Timor-Leste,Both,All Ages,All causes,Unsafe water source,Rate,2017,14.46892607,24.40099874,6.792184819
+Deaths,Taiwan (Province of China),Both,All Ages,All causes,Unsafe water source,Number,2017,38.61393327,70.34465379,14.35075473
+Deaths,Taiwan (Province of China),Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000218539,0.000389248,8.06E-05
+Deaths,Taiwan (Province of China),Both,All Ages,All causes,Unsafe water source,Rate,2017,0.163625707,0.298083949,0.060811013
+Deaths,Bulgaria,Both,All Ages,All causes,Unsafe water source,Number,2017,9.475238124,15.98311961,3.928132707
+Deaths,Bulgaria,Both,All Ages,All causes,Unsafe water source,Percent,2017,7.77E-05,0.000129981,3.26E-05
+Deaths,Bulgaria,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.134511712,0.226898444,0.055764283
+Deaths,Ireland,Both,All Ages,All causes,Unsafe water source,Number,2017,1.352511373,3.088499648,0.404632983
+Deaths,Ireland,Both,All Ages,All causes,Unsafe water source,Percent,2017,4.40E-05,0.000100354,1.31E-05
+Deaths,Ireland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.027806226,0.063496337,0.008318833
+Deaths,Slovakia,Both,All Ages,All causes,Unsafe water source,Number,2017,3.984610151,8.765603549,1.2611422
+Deaths,Slovakia,Both,All Ages,All causes,Unsafe water source,Percent,2017,7.49E-05,0.000167233,2.34E-05
+Deaths,Slovakia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.073355442,0.161372055,0.023217238
+Deaths,Malta,Both,All Ages,All causes,Unsafe water source,Number,2017,0.095774315,0.224064693,0.029402878
+Deaths,Malta,Both,All Ages,All causes,Unsafe water source,Percent,2017,2.67E-05,6.33E-05,8.23E-06
+Deaths,Malta,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.021940684,0.051330387,0.006735827
+Deaths,North Macedonia,Both,All Ages,All causes,Unsafe water source,Number,2017,2.339920812,4.59539571,0.867728098
+Deaths,North Macedonia,Both,All Ages,All causes,Unsafe water source,Percent,2017,9.90E-05,0.000199015,3.69E-05
+Deaths,North Macedonia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.108851815,0.213775254,0.040366229
+Deaths,Kiribati,Both,All Ages,All causes,Unsafe water source,Number,2017,36.23613863,57.63985781,19.54269863
+Deaths,Kiribati,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.032078822,0.051169064,0.017282821
+Deaths,Kiribati,Both,All Ages,All causes,Unsafe water source,Rate,2017,31.31401572,49.81036837,16.88812316
+Deaths,Bosnia and Herzegovina,Both,All Ages,All causes,Unsafe water source,Number,2017,2.933664512,5.684038348,1.039069205
+Deaths,Bosnia and Herzegovina,Both,All Ages,All causes,Unsafe water source,Percent,2017,7.98E-05,0.000153856,2.72E-05
+Deaths,Bosnia and Herzegovina,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.086366216,0.167336408,0.03058989
+Deaths,Romania,Both,All Ages,All causes,Unsafe water source,Number,2017,43.63988147,69.62767044,20.8466949
+Deaths,Romania,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000169199,0.000270076,8.07E-05
+Deaths,Romania,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.223551707,0.356677976,0.106790259
+Deaths,Bahamas,Both,All Ages,All causes,Unsafe water source,Number,2017,2.862841186,3.868131865,1.854447809
+Deaths,Bahamas,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001135117,0.001456654,0.000746492
+Deaths,Bahamas,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.767267865,1.036695047,0.497009131
+Deaths,Suriname,Both,All Ages,All causes,Unsafe water source,Number,2017,30.02977445,48.82901725,17.42286456
+Deaths,Suriname,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.007118154,0.011393166,0.004271213
+Deaths,Suriname,Both,All Ages,All causes,Unsafe water source,Rate,2017,5.266144748,8.562857279,3.055345183
+Deaths,Estonia,Both,All Ages,All causes,Unsafe water source,Number,2017,0.929471844,1.662734117,0.371171611
+Deaths,Estonia,Both,All Ages,All causes,Unsafe water source,Percent,2017,5.93E-05,0.000104054,2.33E-05
+Deaths,Estonia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.070700568,0.126476393,0.028233285
+Deaths,Andorra,Both,All Ages,All causes,Unsafe water source,Number,2017,0.0190601,0.044748739,0.005046781
+Deaths,Andorra,Both,All Ages,All causes,Unsafe water source,Percent,2017,3.23E-05,7.54E-05,8.61E-06
+Deaths,Andorra,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.023830277,0.055948021,0.006309841
+Deaths,Germany,Both,All Ages,All causes,Unsafe water source,Number,2017,109.897872,250.6266587,33.5268271
+Deaths,Germany,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000118451,0.000269606,3.61E-05
+Deaths,Germany,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.130650021,0.297952797,0.039857739
+Deaths,Greece,Both,All Ages,All causes,Unsafe water source,Number,2017,1.09481109,2.48714243,0.359795424
+Deaths,Greece,Both,All Ages,All causes,Unsafe water source,Percent,2017,9.10E-06,2.07E-05,2.99E-06
+Deaths,Greece,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.010464309,0.023772345,0.003438959
+Deaths,Uzbekistan,Both,All Ages,All causes,Unsafe water source,Number,2017,94.76195906,144.1239348,45.91215155
+Deaths,Uzbekistan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000468655,0.00070415,0.000231144
+Deaths,Uzbekistan,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.28976175,0.440700087,0.140389514
+Deaths,Israel,Both,All Ages,All causes,Unsafe water source,Number,2017,12.70808079,29.00970672,3.937797453
+Deaths,Israel,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000282433,0.000643223,8.76E-05
+Deaths,Israel,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.141649205,0.32335346,0.04389222
+Deaths,Kyrgyzstan,Both,All Ages,All causes,Unsafe water source,Number,2017,64.53208018,92.18767203,34.75900809
+Deaths,Kyrgyzstan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001879613,0.002702791,0.001012225
+Deaths,Kyrgyzstan,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.018944118,1.455618445,0.54883535
+Deaths,Philippines,Both,All Ages,All causes,Unsafe water source,Number,2017,7251.630132,10443.13929,4726.447115
+Deaths,Philippines,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.011539273,0.016787464,0.007592713
+Deaths,Philippines,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.675137281,9.61292663,4.350702224
+Deaths,Viet Nam,Both,All Ages,All causes,Unsafe water source,Number,2017,1325.390322,2363.265319,720.6710928
+Deaths,Viet Nam,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.002167395,0.003835536,0.00116187
+Deaths,Viet Nam,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.393744435,2.48514557,0.757838132
+Deaths,Australia,Both,All Ages,All causes,Unsafe water source,Number,2017,39.20217456,79.50218358,13.99504806
+Deaths,Australia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000245231,0.000493696,8.68E-05
+Deaths,Australia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.163727497,0.33204009,0.058450181
+Deaths,Ecuador,Both,All Ages,All causes,Unsafe water source,Number,2017,274.6725509,523.1401442,122.8972992
+Deaths,Ecuador,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003049109,0.005740725,0.001414696
+Deaths,Ecuador,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.616294021,3.078386553,0.723181728
+Deaths,Netherlands,Both,All Ages,All causes,Unsafe water source,Number,2017,10.25278929,24.26312699,3.315654016
+Deaths,Netherlands,Both,All Ages,All causes,Unsafe water source,Percent,2017,6.82E-05,0.000162838,2.22E-05
+Deaths,Netherlands,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.060145065,0.142332716,0.019450339
+Deaths,Japan,Both,All Ages,All causes,Unsafe water source,Number,2017,533.3694001,1054.715235,189.7660086
+Deaths,Japan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000401283,0.00079328,0.000142554
+Deaths,Japan,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.414712413,0.820076106,0.147549371
+Deaths,Lithuania,Both,All Ages,All causes,Unsafe water source,Number,2017,6.251280776,10.42832912,2.52468976
+Deaths,Lithuania,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000162247,0.00027183,6.59E-05
+Deaths,Lithuania,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.219155719,0.365593555,0.088509894
+Deaths,Albania,Both,All Ages,All causes,Unsafe water source,Number,2017,3.94358215,6.866092016,1.90454592
+Deaths,Albania,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000182159,0.000307379,9.27E-05
+Deaths,Albania,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.143439777,0.249740127,0.069273983
+Deaths,Brunei Darussalam,Both,All Ages,All causes,Unsafe water source,Number,2017,0.567793317,1.212338108,0.189225525
+Deaths,Brunei Darussalam,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000321732,0.000670564,0.000106701
+Deaths,Brunei Darussalam,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.132635091,0.283199134,0.044202607
+Deaths,Iceland,Both,All Ages,All causes,Unsafe water source,Number,2017,0.132014716,0.293326616,0.041908339
+Deaths,Iceland,Both,All Ages,All causes,Unsafe water source,Percent,2017,6.54E-05,0.000146565,2.11E-05
+Deaths,Iceland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.039040779,0.086745629,0.012393574
+Deaths,Slovenia,Both,All Ages,All causes,Unsafe water source,Number,2017,0.974335254,1.983987802,0.330788915
+Deaths,Slovenia,Both,All Ages,All causes,Unsafe water source,Percent,2017,4.90E-05,9.88E-05,1.65E-05
+Deaths,Slovenia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.046990517,0.095684327,0.015953382
+Deaths,Belgium,Both,All Ages,All causes,Unsafe water source,Number,2017,28.46653518,62.79409543,8.710984529
+Deaths,Belgium,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000258387,0.000564709,7.83E-05
+Deaths,Belgium,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.251259217,0.554250636,0.076887304
+Deaths,Italy,Both,All Ages,All causes,Unsafe water source,Number,2017,51.37691372,108.7064493,17.5311916
+Deaths,Italy,Both,All Ages,All causes,Unsafe water source,Percent,2017,8.35E-05,0.00017628,2.86E-05
+Deaths,Italy,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.084791676,0.179407469,0.028933212
+Deaths,Trinidad and Tobago,Both,All Ages,All causes,Unsafe water source,Number,2017,16.68801503,23.70057846,10.72586387
+Deaths,Trinidad and Tobago,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001488778,0.001955307,0.000971668
+Deaths,Trinidad and Tobago,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.207175597,1.714449555,0.775886233
+Deaths,Singapore,Both,All Ages,All causes,Unsafe water source,Number,2017,5.242265754,10.42751219,1.825221749
+Deaths,Singapore,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000247474,0.00049234,8.69E-05
+Deaths,Singapore,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.093407179,0.185798382,0.032521971
+Deaths,Argentina,Both,All Ages,All causes,Unsafe water source,Number,2017,333.9140122,511.6053218,159.6955645
+Deaths,Argentina,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000959013,0.00147017,0.000455084
+Deaths,Argentina,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.752842185,1.153464826,0.360049454
+Deaths,Serbia,Both,All Ages,All causes,Unsafe water source,Number,2017,15.65824233,34.80331198,3.023882727
+Deaths,Serbia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000136344,0.000297926,2.64E-05
+Deaths,Serbia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.177386873,0.394274819,0.034256533
+Deaths,Belarus,Both,All Ages,All causes,Unsafe water source,Number,2017,4.702463345,8.111570974,1.966946374
+Deaths,Belarus,Both,All Ages,All causes,Unsafe water source,Percent,2017,3.84E-05,6.58E-05,1.61E-05
+Deaths,Belarus,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.049269815,0.084988563,0.020608578
+Deaths,Austria,Both,All Ages,All causes,Unsafe water source,Number,2017,3.553258911,8.031473764,1.087912838
+Deaths,Austria,Both,All Ages,All causes,Unsafe water source,Percent,2017,4.41E-05,0.000100572,1.35E-05
+Deaths,Austria,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.040369559,0.091247799,0.012360079
+Deaths,Denmark,Both,All Ages,All causes,Unsafe water source,Number,2017,9.916683278,21.28488942,3.042739414
+Deaths,Denmark,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000185586,0.000397914,5.69E-05
+Deaths,Denmark,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.172707745,0.370695034,0.052991978
+Deaths,Saint Lucia,Both,All Ages,All causes,Unsafe water source,Number,2017,3.320178776,4.277833142,2.298959238
+Deaths,Saint Lucia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.002467962,0.003072876,0.001739772
+Deaths,Saint Lucia,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.909783384,2.460630949,1.322372814
+Deaths,Tajikistan,Both,All Ages,All causes,Unsafe water source,Number,2017,588.1742095,919.062254,314.6846715
+Deaths,Tajikistan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.011818465,0.018349268,0.006396626
+Deaths,Tajikistan,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.466432742,10.10424149,3.459667613
+Deaths,Republic of Moldova,Both,All Ages,All causes,Unsafe water source,Number,2017,5.707147971,7.767285241,3.49710778
+Deaths,Republic of Moldova,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000135484,0.000184784,8.24E-05
+Deaths,Republic of Moldova,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.153026543,0.208265287,0.093768432
+Deaths,Latvia,Both,All Ages,All causes,Unsafe water source,Number,2017,1.533363609,2.661949526,0.630963414
+Deaths,Latvia,Both,All Ages,All causes,Unsafe water source,Percent,2017,5.64E-05,9.60E-05,2.39E-05
+Deaths,Latvia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.078593109,0.136439191,0.032340259
+Deaths,New Zealand,Both,All Ages,All causes,Unsafe water source,Number,2017,13.60183908,28.04983116,4.97959944
+Deaths,New Zealand,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000424109,0.000878031,0.000155016
+Deaths,New Zealand,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.305728199,0.630475358,0.111926333
+Deaths,Russian Federation,Both,All Ages,All causes,Unsafe water source,Number,2017,168.3222048,255.5757011,82.0199851
+Deaths,Russian Federation,Both,All Ages,All causes,Unsafe water source,Percent,2017,9.59E-05,0.000145644,4.69E-05
+Deaths,Russian Federation,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.114849014,0.174383513,0.055963588
+Deaths,Jamaica,Both,All Ages,All causes,Unsafe water source,Number,2017,33.08344693,43.68723508,22.25208091
+Deaths,Jamaica,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001749129,0.002187808,0.001227592
+Deaths,Jamaica,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.181304152,1.559931536,0.794550689
+Deaths,Saint Vincent and the Grenadines,Both,All Ages,All causes,Unsafe water source,Number,2017,3.171458248,3.945805326,2.290285615
+Deaths,Saint Vincent and the Grenadines,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00317683,0.003872919,0.002324993
+Deaths,Saint Vincent and the Grenadines,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.809269158,3.49518371,2.028728817
+Deaths,Antigua and Barbuda,Both,All Ages,All causes,Unsafe water source,Number,2017,1.126588837,1.45712185,0.778593462
+Deaths,Antigua and Barbuda,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001911406,0.002394079,0.001319184
+Deaths,Antigua and Barbuda,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.279108148,1.654389224,0.884000629
+Deaths,Finland,Both,All Ages,All causes,Unsafe water source,Number,2017,1.271827354,2.931563598,0.374857824
+Deaths,Finland,Both,All Ages,All causes,Unsafe water source,Percent,2017,2.35E-05,5.42E-05,6.94E-06
+Deaths,Finland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.023039647,0.053106413,0.006790695
+Deaths,Uruguay,Both,All Ages,All causes,Unsafe water source,Number,2017,59.7266231,101.8736465,27.25428725
+Deaths,Uruguay,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001793572,0.003054482,0.000817005
+Deaths,Uruguay,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.74567718,2.977541518,0.796582576
+Deaths,Republic of Korea,Both,All Ages,All causes,Unsafe water source,Number,2017,132.1607792,314.0578484,35.94601801
+Deaths,Republic of Korea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000452485,0.001065289,0.000122853
+Deaths,Republic of Korea,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.251005822,0.59647309,0.068270328
+Deaths,Peru,Both,All Ages,All causes,Unsafe water source,Number,2017,725.3968304,1248.509537,335.3633112
+Deaths,Peru,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004940102,0.008262447,0.002347399
+Deaths,Peru,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.182627378,3.756607395,1.009065816
+Deaths,Norway,Both,All Ages,All causes,Unsafe water source,Number,2017,7.726568921,16.81012364,2.47237393
+Deaths,Norway,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000191553,0.000417795,6.08E-05
+Deaths,Norway,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.146749697,0.319272445,0.04695747
+Deaths,Dominica,Both,All Ages,All causes,Unsafe water source,Number,2017,1.400651119,2.325874017,0.780014142
+Deaths,Dominica,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001774833,0.002908622,0.001021743
+Deaths,Dominica,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.032100252,3.374437156,1.131664348
+Deaths,Canada,Both,All Ages,All causes,Unsafe water source,Number,2017,57.29626619,126.5497475,18.37232885
+Deaths,Canada,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000214467,0.000473273,6.85E-05
+Deaths,Canada,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.159264024,0.351765017,0.051068791
+Deaths,Spain,Both,All Ages,All causes,Unsafe water source,Number,2017,52.97734821,113.1908792,16.68661401
+Deaths,Spain,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000127961,0.000271536,4.02E-05
+Deaths,Spain,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.114200801,0.244000305,0.035970556
+Deaths,France,Both,All Ages,All causes,Unsafe water source,Number,2017,81.45890565,184.1866224,25.33452254
+Deaths,France,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000141648,0.000322553,4.40E-05
+Deaths,France,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.123756381,0.279825387,0.038489454
+Deaths,Libya,Both,All Ages,All causes,Unsafe water source,Number,2017,36.64065886,62.43895428,16.18281179
+Deaths,Libya,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001212009,0.002065952,0.000556242
+Deaths,Libya,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.552636709,0.941742296,0.244079013
+Deaths,Turkmenistan,Both,All Ages,All causes,Unsafe water source,Number,2017,50.9994063,77.26021878,28.11361556
+Deaths,Turkmenistan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001569379,0.002374692,0.000901959
+Deaths,Turkmenistan,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.025790868,1.553995088,0.565471095
+Deaths,Djibouti,Both,All Ages,All causes,Unsafe water source,Number,2017,284.3782813,464.3734538,140.212424
+Deaths,Djibouti,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.038531159,0.059322151,0.020169803
+Deaths,Djibouti,Both,All Ages,All causes,Unsafe water source,Rate,2017,24.88336226,40.63310609,12.2687166
+Deaths,Luxembourg,Both,All Ages,All causes,Unsafe water source,Number,2017,0.424340781,0.938412494,0.136779616
+Deaths,Luxembourg,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000108462,0.000240078,3.47E-05
+Deaths,Luxembourg,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.071782229,0.1587435,0.023137879
+Deaths,Chile,Both,All Ages,All causes,Unsafe water source,Number,2017,110.2404906,200.4023768,44.85202853
+Deaths,Chile,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001030378,0.001882115,0.000425072
+Deaths,Chile,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.615513734,1.118921139,0.250425587
+Deaths,Palestine,Both,All Ages,All causes,Unsafe water source,Number,2017,23.37895222,35.96426283,13.97251464
+Deaths,Palestine,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001465615,0.00221979,0.000880519
+Deaths,Palestine,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.487527246,0.749971933,0.291372407
+Deaths,United States of America,Both,All Ages,All causes,Unsafe water source,Number,2017,373.5273578,794.2061646,130.0720297
+Deaths,United States of America,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00013389,0.000285092,4.67E-05
+Deaths,United States of America,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.115090071,0.244708297,0.040077383
+Deaths,Switzerland,Both,All Ages,All causes,Unsafe water source,Number,2017,5.159665649,12.14887834,1.696665107
+Deaths,Switzerland,Both,All Ages,All causes,Unsafe water source,Percent,2017,7.66E-05,0.000181951,2.50E-05
+Deaths,Switzerland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.059938144,0.141129536,0.019709602
+Deaths,Cyprus,Both,All Ages,All causes,Unsafe water source,Number,2017,0.958559371,2.424811361,0.200024638
+Deaths,Cyprus,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000119867,0.00030551,2.45E-05
+Deaths,Cyprus,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.075195199,0.19021688,0.015691143
+Deaths,Ukraine,Both,All Ages,All causes,Unsafe water source,Number,2017,47.20776774,68.54227096,24.50529076
+Deaths,Ukraine,Both,All Ages,All causes,Unsafe water source,Percent,2017,6.84E-05,9.89E-05,3.54E-05
+Deaths,Ukraine,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.10561133,0.153340028,0.054822257
+Deaths,Oman,Both,All Ages,All causes,Unsafe water source,Number,2017,22.09287211,35.06370696,10.69863856
+Deaths,Oman,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001685813,0.002671069,0.000812522
+Deaths,Oman,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.489934848,0.777578029,0.237254615
+Deaths,Costa Rica,Both,All Ages,All causes,Unsafe water source,Number,2017,55.42670599,85.89727681,26.87193785
+Deaths,Costa Rica,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.002374358,0.003632194,0.0011335
+Deaths,Costa Rica,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.191666326,1.846779281,0.577742857
+Deaths,Lebanon,Both,All Ages,All causes,Unsafe water source,Number,2017,41.44736647,77.24646487,20.78370193
+Deaths,Lebanon,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001236179,0.002293742,0.000630204
+Deaths,Lebanon,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.815653056,1.520152436,0.409007651
+Deaths,United Kingdom,Both,All Ages,All causes,Unsafe water source,Number,2017,38.09005751,85.50897311,11.63603736
+Deaths,United Kingdom,Both,All Ages,All causes,Unsafe water source,Percent,2017,6.41E-05,0.000143548,1.95E-05
+Deaths,United Kingdom,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.057257941,0.128539259,0.017491587
+Deaths,Qatar,Both,All Ages,All causes,Unsafe water source,Number,2017,2.296266138,3.893391666,1.086257002
+Deaths,Qatar,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000583645,0.001008514,0.000274152
+Deaths,Qatar,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.086337343,0.146387689,0.040842193
+Deaths,Sweden,Both,All Ages,All causes,Unsafe water source,Number,2017,20.99691379,45.84226105,6.744075225
+Deaths,Sweden,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000226337,0.000494099,7.22E-05
+Deaths,Sweden,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.208944182,0.456184839,0.067111543
+Deaths,Portugal,Both,All Ages,All causes,Unsafe water source,Number,2017,26.45190373,55.41348021,8.613880021
+Deaths,Portugal,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000235563,0.000493182,7.64E-05
+Deaths,Portugal,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.247071958,0.517585319,0.080457279
+Deaths,Nicaragua,Both,All Ages,All causes,Unsafe water source,Number,2017,148.30502,226.9980009,89.69222983
+Deaths,Nicaragua,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.005273154,0.007958517,0.003203291
+Deaths,Nicaragua,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.338679968,3.579620416,1.414391914
+Deaths,Seychelles,Both,All Ages,All causes,Unsafe water source,Number,2017,3.640756352,6.409750501,1.881533477
+Deaths,Seychelles,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004749651,0.008186866,0.002477208
+Deaths,Seychelles,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.625679846,6.383207488,1.873741977
+Deaths,Kenya,Both,All Ages,All causes,Unsafe water source,Number,2017,16768.66496,25097.9958,10888.49327
+Deaths,Kenya,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.057590335,0.08674437,0.037217024
+Deaths,Kenya,Both,All Ages,All causes,Unsafe water source,Rate,2017,34.85328598,52.16560931,22.63148382
+Deaths,Côte d'Ivoire,Both,All Ages,All causes,Unsafe water source,Number,2017,7229.17486,12720.26603,3613.928085
+Deaths,Côte d'Ivoire,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.038126431,0.065095625,0.019623373
+Deaths,Côte d'Ivoire,Both,All Ages,All causes,Unsafe water source,Rate,2017,28.81091404,50.6949269,14.40282929
+Deaths,Syrian Arab Republic,Both,All Ages,All causes,Unsafe water source,Number,2017,67.00902604,111.550397,31.78069011
+Deaths,Syrian Arab Republic,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000631458,0.001026024,0.000308923
+Deaths,Syrian Arab Republic,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.465964503,0.775694386,0.220995205
+Deaths,Ethiopia,Both,All Ages,All causes,Unsafe water source,Number,2017,47735.85594,65608.34752,31348.22132
+Deaths,Ethiopia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.084074261,0.114400566,0.0572781
+Deaths,Ethiopia,Both,All Ages,All causes,Unsafe water source,Rate,2017,46.57059158,64.00680362,30.58299015
+Deaths,Cuba,Both,All Ages,All causes,Unsafe water source,Number,2017,205.3085597,254.647933,145.5083712
+Deaths,Cuba,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001944464,0.002408558,0.001376401
+Deaths,Cuba,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.798579459,2.230810747,1.274707532
+Deaths,Bolivia (Plurinational State of),Both,All Ages,All causes,Unsafe water source,Number,2017,470.2716432,819.7614324,226.4341838
+Deaths,Bolivia (Plurinational State of),Both,All Ages,All causes,Unsafe water source,Percent,2017,0.006404535,0.011271168,0.003077661
+Deaths,Bolivia (Plurinational State of),Both,All Ages,All causes,Unsafe water source,Rate,2017,4.058001712,7.07376969,1.953913911
+Deaths,Mozambique,Both,All Ages,All causes,Unsafe water source,Number,2017,7982.283729,13147.88537,3884.246559
+Deaths,Mozambique,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.029923689,0.047231284,0.014991867
+Deaths,Mozambique,Both,All Ages,All causes,Unsafe water source,Rate,2017,28.5774047,47.07079501,13.90600605
+Deaths,Ghana,Both,All Ages,All causes,Unsafe water source,Number,2017,6578.854161,9864.21541,3793.111002
+Deaths,Ghana,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03114134,0.045623315,0.019105822
+Deaths,Ghana,Both,All Ages,All causes,Unsafe water source,Rate,2017,21.83560261,32.73990918,12.58955777
+Deaths,Guyana,Both,All Ages,All causes,Unsafe water source,Number,2017,50.26224464,65.32417175,36.27872561
+Deaths,Guyana,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.007624718,0.009072554,0.005880492
+Deaths,Guyana,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.597836719,8.57498948,4.762244696
+Deaths,Eritrea,Both,All Ages,All causes,Unsafe water source,Number,2017,3882.999771,7222.499541,2249.13195
+Deaths,Eritrea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.09021679,0.164354725,0.055811231
+Deaths,Eritrea,Both,All Ages,All causes,Unsafe water source,Rate,2017,60.57388782,112.6693028,35.08593214
+Deaths,Angola,Both,All Ages,All causes,Unsafe water source,Number,2017,13021.58254,18979.68158,8147.670883
+Deaths,Angola,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.070505588,0.098662595,0.046257892
+Deaths,Angola,Both,All Ages,All causes,Unsafe water source,Rate,2017,46.15030385,67.26663744,28.87648146
+Deaths,Afghanistan,Both,All Ages,All causes,Unsafe water source,Number,2017,4631.961685,8094.029684,2555.425099
+Deaths,Afghanistan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.018867859,0.032293566,0.010478652
+Deaths,Afghanistan,Both,All Ages,All causes,Unsafe water source,Rate,2017,12.89755205,22.53757182,7.115501048
+Deaths,Comoros,Both,All Ages,All causes,Unsafe water source,Number,2017,256.4376053,385.624449,153.7152951
+Deaths,Comoros,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.051935804,0.077841169,0.031120224
+Deaths,Comoros,Both,All Ages,All causes,Unsafe water source,Rate,2017,36.74018009,55.24896274,22.02300875
+Deaths,Belize,Both,All Ages,All causes,Unsafe water source,Number,2017,9.132738249,11.30977301,7.151325456
+Deaths,Belize,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004966007,0.006137035,0.003958876
+Deaths,Belize,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.325040101,2.87927619,1.820606045
+Deaths,El Salvador,Both,All Ages,All causes,Unsafe water source,Number,2017,224.0889103,396.7509478,119.1144229
+Deaths,El Salvador,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.005715351,0.010101118,0.003242574
+Deaths,El Salvador,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.617010197,6.403941284,1.922621166
+Deaths,Haiti,Both,All Ages,All causes,Unsafe water source,Number,2017,3787.22501,5988.420263,2038.608106
+Deaths,Haiti,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03843006,0.058028653,0.022214946
+Deaths,Haiti,Both,All Ages,All causes,Unsafe water source,Rate,2017,31.79760096,50.27887105,17.11618584
+Deaths,Mauritius,Both,All Ages,All causes,Unsafe water source,Number,2017,5.907758626,10.87131979,2.063753464
+Deaths,Mauritius,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000577346,0.001062105,0.000199512
+Deaths,Mauritius,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.462932085,0.851876839,0.161715763
+Deaths,Gabon,Both,All Ages,All causes,Unsafe water source,Number,2017,216.0000595,405.1140065,92.41408618
+Deaths,Gabon,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.018404674,0.032966109,0.007706736
+Deaths,Gabon,Both,All Ages,All causes,Unsafe water source,Rate,2017,12.7449838,23.90356493,5.452850492
+Deaths,Cameroon,Both,All Ages,All causes,Unsafe water source,Number,2017,17516.53984,27298.55101,8575.791144
+Deaths,Cameroon,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.082242236,0.121823556,0.040651982
+Deaths,Cameroon,Both,All Ages,All causes,Unsafe water source,Rate,2017,63.67142557,99.22836788,31.17241491
+Deaths,Morocco,Both,All Ages,All causes,Unsafe water source,Number,2017,1212.471333,2001.96539,638.7674471
+Deaths,Morocco,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.005471022,0.009265671,0.002814591
+Deaths,Morocco,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.416512787,5.641156344,1.799924741
+Deaths,Algeria,Both,All Ages,All causes,Unsafe water source,Number,2017,298.6036124,502.5832491,140.3463604
+Deaths,Algeria,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00156033,0.002629551,0.000734787
+Deaths,Algeria,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.735107747,1.237268488,0.345507196
+Deaths,Rwanda,Both,All Ages,All causes,Unsafe water source,Number,2017,3306.359922,5261.532653,1827.306317
+Deaths,Rwanda,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.048896749,0.075214165,0.027964018
+Deaths,Rwanda,Both,All Ages,All causes,Unsafe water source,Rate,2017,27.22100993,43.31779842,15.04407402
+Deaths,Grenada,Both,All Ages,All causes,Unsafe water source,Number,2017,1.064266501,1.344658517,0.756791638
+Deaths,Grenada,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001326793,0.001648419,0.000943093
+Deaths,Grenada,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.025210386,1.295312665,0.729019139
+Deaths,Cabo Verde,Both,All Ages,All causes,Unsafe water source,Number,2017,37.00348564,63.19278907,22.02256424
+Deaths,Cabo Verde,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.011889505,0.020652572,0.007244288
+Deaths,Cabo Verde,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.692998549,11.42998391,3.983327191
+Deaths,Malawi,Both,All Ages,All causes,Unsafe water source,Number,2017,6885.232858,9791.357296,4367.147227
+Deaths,Malawi,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.057759447,0.082031794,0.038786793
+Deaths,Malawi,Both,All Ages,All causes,Unsafe water source,Rate,2017,39.39616586,56.02453017,24.98809554
+Deaths,Colombia,Both,All Ages,All causes,Unsafe water source,Number,2017,517.4520862,714.9473557,311.7703674
+Deaths,Colombia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.002214634,0.003026954,0.001314556
+Deaths,Colombia,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.097830266,1.516837726,0.661454373
+Deaths,Madagascar,Both,All Ages,All causes,Unsafe water source,Number,2017,17236.6956,24101.48497,11213.62158
+Deaths,Madagascar,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.106236811,0.145094828,0.070572746
+Deaths,Madagascar,Both,All Ages,All causes,Unsafe water source,Rate,2017,67.833617,94.84943856,44.13029788
+Deaths,Monaco,Both,All Ages,All causes,Unsafe water source,Number,2017,0.006039566,0.015159178,0.001536906
+Deaths,Monaco,Both,All Ages,All causes,Unsafe water source,Percent,2017,1.15E-05,2.86E-05,2.78E-06
+Deaths,Monaco,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.016210216,0.040687286,0.004125061
+Deaths,Guatemala,Both,All Ages,All causes,Unsafe water source,Number,2017,2063.119073,2691.785493,1419.976437
+Deaths,Guatemala,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.023038151,0.028465325,0.015659745
+Deaths,Guatemala,Both,All Ages,All causes,Unsafe water source,Rate,2017,12.0900053,15.77402938,8.321149695
+Deaths,Barbados,Both,All Ages,All causes,Unsafe water source,Number,2017,2.883212672,3.983520171,1.686522621
+Deaths,Barbados,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001012531,0.001370972,0.000602887
+Deaths,Barbados,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.976460737,1.349103061,0.57117643
+Deaths,Saudi Arabia,Both,All Ages,All causes,Unsafe water source,Number,2017,155.7722876,269.4103584,68.35226391
+Deaths,Saudi Arabia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001284087,0.002185289,0.000584009
+Deaths,Saudi Arabia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.456108161,0.788845469,0.200138458
+Deaths,Gambia,Both,All Ages,All causes,Unsafe water source,Number,2017,509.2437693,771.0399429,309.3333351
+Deaths,Gambia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.037791305,0.05531192,0.023142605
+Deaths,Gambia,Both,All Ages,All causes,Unsafe water source,Rate,2017,23.79364157,36.02567011,14.4531302
+Deaths,Turkey,Both,All Ages,All causes,Unsafe water source,Number,2017,493.8503936,778.4512933,272.4651751
+Deaths,Turkey,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001106764,0.001748123,0.00059539
+Deaths,Turkey,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.612215116,0.965028387,0.337768889
+Deaths,Tunisia,Both,All Ages,All causes,Unsafe water source,Number,2017,79.72486259,143.6933537,34.59648775
+Deaths,Tunisia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001219852,0.002184913,0.000577923
+Deaths,Tunisia,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.69785565,1.257791051,0.302833441
+Deaths,Guinea,Both,All Ages,All causes,Unsafe water source,Number,2017,6354.864167,9287.673602,3789.462417
+Deaths,Guinea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.053777613,0.076770639,0.033767415
+Deaths,Guinea,Both,All Ages,All causes,Unsafe water source,Rate,2017,53.01528321,77.48216696,31.61348819
+Deaths,Somalia,Both,All Ages,All causes,Unsafe water source,Number,2017,13739.89208,21177.77415,8223.154661
+Deaths,Somalia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.074871457,0.110646195,0.047337041
+Deaths,Somalia,Both,All Ages,All causes,Unsafe water source,Rate,2017,72.49319832,111.7362911,43.3862783
+Deaths,Honduras,Both,All Ages,All causes,Unsafe water source,Number,2017,837.034507,1449.560906,428.852713
+Deaths,Honduras,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.016608735,0.02841262,0.008709623
+Deaths,Honduras,Both,All Ages,All causes,Unsafe water source,Rate,2017,8.907758313,15.4262914,4.563869575
+Deaths,Niue,Both,All Ages,All causes,Unsafe water source,Number,2017,0.092368289,0.190688969,0.039008484
+Deaths,Niue,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004669516,0.009594228,0.002032579
+Deaths,Niue,Both,All Ages,All causes,Unsafe water source,Rate,2017,5.565625902,11.48991143,2.350445485
+Deaths,Chad,Both,All Ages,All causes,Unsafe water source,Number,2017,27131.17621,39036.38922,17564.64994
+Deaths,Chad,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.176746616,0.247206043,0.117292428
+Deaths,Chad,Both,All Ages,All causes,Unsafe water source,Rate,2017,178.1900196,256.3801476,115.3597357
+Deaths,Palau,Both,All Ages,All causes,Unsafe water source,Number,2017,0.933235772,1.779716417,0.417459564
+Deaths,Palau,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004707022,0.008527975,0.002199691
+Deaths,Palau,Both,All Ages,All causes,Unsafe water source,Rate,2017,5.191522034,9.90043167,2.322296884
+Deaths,Togo,Both,All Ages,All causes,Unsafe water source,Number,2017,5794.143889,8447.561189,2953.657414
+Deaths,Togo,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.10582061,0.151083923,0.055317849
+Deaths,Togo,Both,All Ages,All causes,Unsafe water source,Rate,2017,76.41506095,111.4091945,38.95379812
+Deaths,Mexico,Both,All Ages,All causes,Unsafe water source,Number,2017,2370.920764,3383.181006,1268.103922
+Deaths,Mexico,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003373221,0.004812841,0.001800699
+Deaths,Mexico,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.930865036,2.755244299,1.03273697
+Deaths,Dominican Republic,Both,All Ages,All causes,Unsafe water source,Number,2017,468.6775991,728.9088931,258.0404739
+Deaths,Dominican Republic,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.006634874,0.010067715,0.003819257
+Deaths,Dominican Republic,Both,All Ages,All causes,Unsafe water source,Rate,2017,4.405961558,6.852353449,2.425796348
+Deaths,Panama,Both,All Ages,All causes,Unsafe water source,Number,2017,119.1174581,166.5420716,70.34230455
+Deaths,Panama,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.006236809,0.008498741,0.003745431
+Deaths,Panama,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.962662507,4.142196778,1.749537906
+Deaths,Central African Republic,Both,All Ages,All causes,Unsafe water source,Number,2017,7681.534169,11163.83526,4455.135168
+Deaths,Central African Republic,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.10842002,0.149779875,0.066479261
+Deaths,Central African Republic,Both,All Ages,All causes,Unsafe water source,Rate,2017,152.267541,221.2956038,88.3121082
+Deaths,South Sudan,Both,All Ages,All causes,Unsafe water source,Number,2017,6289.575621,9222.619572,3860.93231
+Deaths,South Sudan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.083003276,0.115645169,0.05429089
+Deaths,South Sudan,Both,All Ages,All causes,Unsafe water source,Rate,2017,71.66298895,105.0818886,43.9911953
+Deaths,Paraguay,Both,All Ages,All causes,Unsafe water source,Number,2017,111.785027,186.1592353,57.19098
+Deaths,Paraguay,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003377527,0.00554382,0.001765086
+Deaths,Paraguay,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.654777848,2.755755285,0.846610404
+Deaths,United Arab Emirates,Both,All Ages,All causes,Unsafe water source,Number,2017,23.95867985,45.0775983,7.933826279
+Deaths,United Arab Emirates,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000930313,0.001685488,0.000304548
+Deaths,United Arab Emirates,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.261366205,0.491753339,0.086550431
+Deaths,Botswana,Both,All Ages,All causes,Unsafe water source,Number,2017,420.3446211,714.5181191,209.2041901
+Deaths,Botswana,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.020201732,0.033581102,0.010401306
+Deaths,Botswana,Both,All Ages,All causes,Unsafe water source,Rate,2017,18.55324764,31.53753121,9.233892742
+Deaths,Iraq,Both,All Ages,All causes,Unsafe water source,Number,2017,448.7578837,695.1027157,240.9636674
+Deaths,Iraq,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.002314729,0.003521959,0.001243143
+Deaths,Iraq,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.107183187,1.714969403,0.594509714
+Deaths,Bermuda,Both,All Ages,All causes,Unsafe water source,Number,2017,0.314808933,0.427395992,0.212151185
+Deaths,Bermuda,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000570228,0.000752306,0.000378768
+Deaths,Bermuda,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.488000054,0.662526522,0.328865477
+Deaths,United Republic of Tanzania,Both,All Ages,All causes,Unsafe water source,Number,2017,14755.75163,23311.23291,8848.505656
+Deaths,United Republic of Tanzania,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.04072417,0.061913862,0.025494851
+Deaths,United Republic of Tanzania,Both,All Ages,All causes,Unsafe water source,Rate,2017,27.39840998,43.28418723,16.42986353
+Deaths,Nauru,Both,All Ages,All causes,Unsafe water source,Number,2017,0.292903334,0.503346236,0.157477993
+Deaths,Nauru,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004372722,0.007292534,0.002395808
+Deaths,Nauru,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.799489548,4.810844947,1.505131367
+Deaths,Brazil,Both,All Ages,All causes,Unsafe water source,Number,2017,4464.791946,5969.6906,2718.980612
+Deaths,Brazil,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003277537,0.004370209,0.001988537
+Deaths,Brazil,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.095108978,2.801284478,1.275884915
+Deaths,Bahrain,Both,All Ages,All causes,Unsafe water source,Number,2017,5.779326945,10.08067708,2.587219133
+Deaths,Bahrain,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001513424,0.002627534,0.00068911
+Deaths,Bahrain,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.406035976,0.708234297,0.181769271
+Deaths,Saint Kitts and Nevis,Both,All Ages,All causes,Unsafe water source,Number,2017,1.856055265,2.422076205,1.277305664
+Deaths,Saint Kitts and Nevis,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004038846,0.005110044,0.00279401
+Deaths,Saint Kitts and Nevis,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.171041742,4.138079773,2.182256991
+Deaths,Puerto Rico,Both,All Ages,All causes,Unsafe water source,Number,2017,65.64275399,86.48264245,44.05884223
+Deaths,Puerto Rico,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001965173,0.002610744,0.00128741
+Deaths,Puerto Rico,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.815824531,2.392302183,1.21876554
+Deaths,Bhutan,Both,All Ages,All causes,Unsafe water source,Number,2017,79.78167437,154.2770097,30.20230174
+Deaths,Bhutan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.018999219,0.03629667,0.007247825
+Deaths,Bhutan,Both,All Ages,All causes,Unsafe water source,Rate,2017,10.4876751,20.28043615,3.970234146
+Deaths,Uganda,Both,All Ages,All causes,Unsafe water source,Number,2017,10471.34124,16407.9825,6249.024359
+Deaths,Venezuela (Bolivarian Republic of),Both,All Ages,All causes,Unsafe water source,Number,2017,707.6438893,1040.393324,391.1127554
+Deaths,Venezuela (Bolivarian Republic of),Both,All Ages,All causes,Unsafe water source,Percent,2017,0.004165335,0.006053481,0.002270872
+Deaths,Venezuela (Bolivarian Republic of),Both,All Ages,All causes,Unsafe water source,Rate,2017,2.516757136,3.700190676,1.391004477
+Deaths,Egypt,Both,All Ages,All causes,Unsafe water source,Number,2017,4036.179537,7143.228506,1760.502163
+Deaths,Egypt,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.007370289,0.012993936,0.003171706
+Deaths,Egypt,Both,All Ages,All causes,Unsafe water source,Rate,2017,4.209079545,7.449226853,1.835917747
+Deaths,Jordan,Both,All Ages,All causes,Unsafe water source,Number,2017,28.41332358,48.28325741,12.31508188
+Deaths,Jordan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000997274,0.001687729,0.000460415
+Deaths,Jordan,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.265949843,0.451933217,0.115269658
+Deaths,Northern Mariana Islands,Both,All Ages,All causes,Unsafe water source,Number,2017,1.286786234,2.263065552,0.611017031
+Deaths,Northern Mariana Islands,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003761093,0.00644991,0.001799151
+Deaths,Northern Mariana Islands,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.901543038,5.10293157,1.377767469
+Deaths,Guinea-Bissau,Both,All Ages,All causes,Unsafe water source,Number,2017,1258.455959,2025.861401,710.0715793
+Deaths,Guinea-Bissau,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.083024474,0.127697079,0.049572416
+Deaths,Guinea-Bissau,Both,All Ages,All causes,Unsafe water source,Rate,2017,69.04637015,111.1507917,38.95874524
+Deaths,Uganda,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.041882083,0.06374185,0.025464158
+Deaths,Uganda,Both,All Ages,All causes,Unsafe water source,Rate,2017,26.81293522,42.0143095,16.00126302
+Deaths,Cook Islands,Both,All Ages,All causes,Unsafe water source,Number,2017,0.378509987,0.680377092,0.166508908
+Deaths,Cook Islands,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00238069,0.004304595,0.001057201
+Deaths,Cook Islands,Both,All Ages,All causes,Unsafe water source,Rate,2017,2.103725002,3.781475655,0.92544177
+Deaths,Kuwait,Both,All Ages,All causes,Unsafe water source,Number,2017,2.336895837,3.876583327,1.107297434
+Deaths,Kuwait,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000260257,0.000427027,0.000122804
+Deaths,Kuwait,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.056724994,0.09409883,0.026878151
+Deaths,India,Both,All Ages,All causes,Unsafe water source,Number,2017,530729.4956,871882.8889,301966.3637
+Deaths,India,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.058752048,0.096070539,0.033216401
+Deaths,India,Both,All Ages,All causes,Unsafe water source,Rate,2017,39.05916723,64.16643478,22.22328851
+Deaths,Iran (Islamic Republic of),Both,All Ages,All causes,Unsafe water source,Number,2017,550.232819,906.8308002,278.407322
+Deaths,Iran (Islamic Republic of),Both,All Ages,All causes,Unsafe water source,Percent,2017,0.001443221,0.002378252,0.000736687
+Deaths,Iran (Islamic Republic of),Both,All Ages,All causes,Unsafe water source,Rate,2017,0.665313967,1.096494385,0.33663619
+Deaths,Liberia,Both,All Ages,All causes,Unsafe water source,Number,2017,2306.664057,3603.274085,1293.183241
+Deaths,Liberia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.07573906,0.113871045,0.042706172
+Deaths,Liberia,Both,All Ages,All causes,Unsafe water source,Rate,2017,50.06143678,78.20171178,28.06590361
+Deaths,San Marino,Both,All Ages,All causes,Unsafe water source,Number,2017,0.004870563,0.012166893,0.001256944
+Deaths,San Marino,Both,All Ages,All causes,Unsafe water source,Percent,2017,1.67E-05,4.16E-05,4.48E-06
+Deaths,San Marino,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.014875546,0.037159805,0.003838924
+Deaths,Zambia,Both,All Ages,All causes,Unsafe water source,Number,2017,6864.307589,9876.082479,4543.259738
+Deaths,Zambia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.054953366,0.076433103,0.037952191
+Deaths,Zambia,Both,All Ages,All causes,Unsafe water source,Rate,2017,39.98199364,57.52444245,26.4627684
+Deaths,Tokelau,Both,All Ages,All causes,Unsafe water source,Number,2017,0.085211839,0.160866858,0.040541117
+Deaths,Tokelau,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.007764876,0.01455413,0.003891932
+Deaths,Tokelau,Both,All Ages,All causes,Unsafe water source,Rate,2017,6.247657851,11.79461796,2.972439429
+Deaths,Yemen,Both,All Ages,All causes,Unsafe water source,Number,2017,6164.488548,11129.21284,2851.954643
+Deaths,Yemen,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.03563496,0.062931436,0.016873257
+Deaths,Yemen,Both,All Ages,All causes,Unsafe water source,Rate,2017,20.40795268,36.84400534,9.441587074
+Deaths,Nepal,Both,All Ages,All causes,Unsafe water source,Number,2017,5031.622919,8548.036978,2731.787087
+Deaths,Nepal,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.026696444,0.045051344,0.014269953
+Deaths,Nepal,Both,All Ages,All causes,Unsafe water source,Rate,2017,16.87006282,28.65992207,9.159156101
+Deaths,American Samoa,Both,All Ages,All causes,Unsafe water source,Number,2017,1.966331812,3.408854377,0.955754296
+Deaths,American Samoa,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.005288376,0.009130769,0.002535317
+Deaths,American Samoa,Both,All Ages,All causes,Unsafe water source,Rate,2017,3.531405921,6.122084004,1.716473466
+Deaths,Burundi,Both,All Ages,All causes,Unsafe water source,Number,2017,7782.070802,13288.34328,3626.050746
+Deaths,Burundi,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.094297952,0.155770891,0.04615405
+Deaths,Burundi,Both,All Ages,All causes,Unsafe water source,Rate,2017,70.0720283,119.6521067,32.65001527
+Deaths,Congo,Both,All Ages,All causes,Unsafe water source,Number,2017,1742.222829,2634.311696,848.294951
+Deaths,Congo,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.049222933,0.072821144,0.023962507
+Deaths,Congo,Both,All Ages,All causes,Unsafe water source,Rate,2017,34.5507958,52.24220688,16.82291446
+Deaths,Lesotho,Both,All Ages,All causes,Unsafe water source,Number,2017,1285.399848,2000.329226,765.4661515
+Deaths,Lesotho,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.038815642,0.059469072,0.023412746
+Deaths,Lesotho,Both,All Ages,All causes,Unsafe water source,Rate,2017,62.37700495,97.07060898,37.14601801
+Deaths,Bangladesh,Both,All Ages,All causes,Unsafe water source,Number,2017,28726.50088,61732.02849,13209.57045
+Deaths,Bangladesh,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.035176365,0.075376908,0.016483302
+Deaths,Bangladesh,Both,All Ages,All causes,Unsafe water source,Rate,2017,18.38734111,39.51361393,8.45521976
+Deaths,Burkina Faso,Both,All Ages,All causes,Unsafe water source,Number,2017,13556.94552,20407.57768,8335.727902
+Deaths,Burkina Faso,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.068154242,0.099000327,0.043033008
+Deaths,Burkina Faso,Both,All Ages,All causes,Unsafe water source,Rate,2017,63.7159369,95.91304544,39.17687153
+Deaths,Mali,Both,All Ages,All causes,Unsafe water source,Number,2017,12393.23336,19660.51116,7230.360573
+Deaths,Mali,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.06230781,0.094150639,0.037529072
+Deaths,Mali,Both,All Ages,All causes,Unsafe water source,Rate,2017,60.79510744,96.444798,35.46859282
+Deaths,Zimbabwe,Both,All Ages,All causes,Unsafe water source,Number,2017,4192.616336,6128.50871,2295.296208
+Deaths,Zimbabwe,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.032425852,0.045760048,0.017896428
+Deaths,Zimbabwe,Both,All Ages,All causes,Unsafe water source,Rate,2017,28.83570404,42.15025873,15.78643902
+Deaths,Equatorial Guinea,Both,All Ages,All causes,Unsafe water source,Number,2017,99.87953213,181.5830631,45.12091167
+Deaths,Equatorial Guinea,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.013622441,0.022958153,0.006356811
+Deaths,Equatorial Guinea,Both,All Ages,All causes,Unsafe water source,Rate,2017,7.469770826,13.58019845,3.374493877
+Deaths,Tuvalu,Both,All Ages,All causes,Unsafe water source,Number,2017,0.919365594,1.726576532,0.432821209
+Deaths,Tuvalu,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.008717525,0.015958469,0.004226665
+Deaths,Tuvalu,Both,All Ages,All causes,Unsafe water source,Rate,2017,7.954488797,14.93859871,3.744833913
+Deaths,Namibia,Both,All Ages,All causes,Unsafe water source,Number,2017,583.1620715,991.2959033,277.0888332
+Deaths,Namibia,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.030235609,0.050322488,0.015411619
+Deaths,Namibia,Both,All Ages,All causes,Unsafe water source,Rate,2017,24.97513328,42.45431676,11.86690781
+Deaths,Sierra Leone,Both,All Ages,All causes,Unsafe water source,Number,2017,3423.71559,6301.713657,1326.77067
+Deaths,Sierra Leone,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.047311382,0.082440043,0.018539673
+Deaths,Sierra Leone,Both,All Ages,All causes,Unsafe water source,Rate,2017,43.70357728,80.44109463,16.93616861
+Deaths,Democratic Republic of the Congo,Both,All Ages,All causes,Unsafe water source,Number,2017,35294.06687,61471.2821,16790.31949
+Deaths,Democratic Republic of the Congo,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.060862688,0.102563369,0.02930888
+Deaths,Democratic Republic of the Congo,Both,All Ages,All causes,Unsafe water source,Rate,2017,42.37262839,73.79993366,20.1577781
+Deaths,Pakistan,Both,All Ages,All causes,Unsafe water source,Number,2017,72574.41232,105449.1858,45842.02238
+Deaths,Pakistan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.048120832,0.069460634,0.030768077
+Deaths,Pakistan,Both,All Ages,All causes,Unsafe water source,Rate,2017,33.78607425,49.09049769,21.34115761
+Deaths,Sudan,Both,All Ages,All causes,Unsafe water source,Number,2017,7723.063527,13371.69136,3591.653002
+Deaths,Sudan,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.037657355,0.063847979,0.017947492
+Deaths,Sudan,Both,All Ages,All causes,Unsafe water source,Rate,2017,19.65050033,34.02282327,9.138572828
+Deaths,Greenland,Both,All Ages,All causes,Unsafe water source,Number,2017,0.071542513,0.181707942,0.016929215
+Deaths,Greenland,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.00015322,0.000387351,3.62E-05
+Deaths,Greenland,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.12745052,0.323706435,0.030158813
+Deaths,Nigeria,Both,All Ages,All causes,Unsafe water source,Number,2017,172466.2314,223617.3433,125105.0377
+Deaths,Nigeria,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.106265067,0.131836983,0.081545313
+Deaths,Nigeria,Both,All Ages,All causes,Unsafe water source,Rate,2017,84.72818388,109.8573978,61.46085848
+Deaths,Benin,Both,All Ages,All causes,Unsafe water source,Number,2017,5077.014467,9482.384115,2446.41039
+Deaths,Benin,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.054075103,0.096841533,0.02682919
+Deaths,Benin,Both,All Ages,All causes,Unsafe water source,Rate,2017,42.74883792,79.8423767,20.59895672
+Deaths,Sao Tome and Principe,Both,All Ages,All causes,Unsafe water source,Number,2017,10.2694109,17.07170219,5.387290185
+Deaths,Sao Tome and Principe,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.010207714,0.017055741,0.005473248
+Deaths,Sao Tome and Principe,Both,All Ages,All causes,Unsafe water source,Rate,2017,5.161819312,8.580924741,2.707868911
+Deaths,Mauritania,Both,All Ages,All causes,Unsafe water source,Number,2017,1493.438073,2335.385932,782.8819342
+Deaths,Mauritania,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.071705951,0.102466914,0.039219509
+Deaths,Mauritania,Both,All Ages,All causes,Unsafe water source,Rate,2017,38.65486632,60.4471204,20.26344249
+Deaths,Senegal,Both,All Ages,All causes,Unsafe water source,Number,2017,6220.690309,9373.894716,3687.154186
+Deaths,Senegal,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.06803266,0.099670086,0.040358775
+Deaths,Senegal,Both,All Ages,All causes,Unsafe water source,Rate,2017,42.80748029,64.50615501,25.37303295
+Deaths,South Africa,Both,All Ages,All causes,Unsafe water source,Number,2017,9974.430753,16481.87622,5806.206026
+Deaths,South Africa,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.01789266,0.029518106,0.010462174
+Deaths,South Africa,Both,All Ages,All causes,Unsafe water source,Rate,2017,18.29400664,30.22924921,10.64910612
+Deaths,Eswatini,Both,All Ages,All causes,Unsafe water source,Number,2017,423.0898082,693.6115911,229.9769546
+Deaths,Eswatini,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.035696277,0.055543437,0.020954004
+Deaths,Eswatini,Both,All Ages,All causes,Unsafe water source,Rate,2017,37.6202979,61.67455273,20.44908995
+Deaths,Niger,Both,All Ages,All causes,Unsafe water source,Number,2017,26515.28001,41036.91823,15727.12474
+Deaths,Niger,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.132695905,0.197655735,0.080311717
+Deaths,Niger,Both,All Ages,All causes,Unsafe water source,Rate,2017,123.0105251,190.379768,72.96177415
+Deaths,Guam,Both,All Ages,All causes,Unsafe water source,Number,2017,3.366310897,5.800854473,1.538842942
+Deaths,Guam,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.003165008,0.005517915,0.001460955
+Deaths,Guam,Both,All Ages,All causes,Unsafe water source,Rate,2017,1.990539465,3.430113888,0.90993604
+Deaths,United States Virgin Islands,Both,All Ages,All causes,Unsafe water source,Number,2017,0.823427033,1.443862455,0.423964264
+Deaths,United States Virgin Islands,Both,All Ages,All causes,Unsafe water source,Percent,2017,0.000659109,0.001189139,0.000351177
+Deaths,United States Virgin Islands,Both,All Ages,All causes,Unsafe water source,Rate,2017,0.7839199,1.374587505,0.40362292
