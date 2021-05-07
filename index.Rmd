@@ -38,11 +38,11 @@ library(textdata)
 
 ## tab within tab if needed
 
-# Advocacies about water access around the world {.tabset .tabset-fade .tabset-pills}
+# Advocacies about water access around the world (Masahiro) {.tabset .tabset-fade .tabset-pills}
 
 ## Introduction
 
-In this tab, we take a look at the the tweets advocating for greater access to water around the world in order to discover some interesting trends among those tweets. Specifically, in order to gather up the tweets, search_tweets() function was run on May 4th and May 7th, and the tweets generated roughly from April 27th to May 7th were recorded in the same dataset. The included tweets all include at least one of the following phrases: "water access," or "Water access," or "Water Access," or "access to clean water," or "access to drinking water." For more details, take a look at the "Wrangling - Masahiro" file in the same repo. Through exploring the following three questions with this data, we aim to learn about what kind of rhetorics people are employing in an attempt to claim for more access to water around the world.
+In this tab, we take a look at the the tweets advocating for greater access to water around the world in order to discover some interesting trends among those tweets. Specifically, in order to gather up the tweets, search_tweets() function was run on May 4th and May 7th, and the tweets generated roughly from April 27th to May 7th were recorded in the same dataset. The included tweets all include at least one of the following phrases: "water access," or "Water access," or "Water Access," or "access to clean water," or "access to drinking water." For more details, take a look at the "Wrangling - Masahiro" file in the same repo. Through exploring the following three questions with data, we aim to learn about what kind of rhetoric people are employing in an attempt to claim for more access to water around the world.
 
 - What are the common words used in the tweets requesting more access to clean water around the world?
 - What are the common sentiments of the words observed in those tweets?
@@ -50,7 +50,7 @@ In this tab, we take a look at the the tweets advocating for greater access to w
 
 In addition to the removal of so-called stop words from the dataset, we also omitted the word "access" because it is obvious that all the tweets should include the word "access" from the way we collected data. Doing so helps us produce more meaningful word clouds and sentiment analyses.
 
-```{r, echo=FALSE}
+```{r, include=FALSE}
 # data wrangling code (not reflected onto the blog)
 tweets_analyzed <- read_csv("Data wrangling/tweetsfinal.csv")
 # removal of common words
@@ -84,20 +84,93 @@ In the above word cloud, "https" stands out in its size, which implies that a lo
 
 ## Sentiment Analysis
 
-Next, we dive into the sentiments reflected in the usage of English by those advocating for water access on twitter.
+Next, we dive into the sentiments reflected in the usage of English by those advocating for water access on twitter. We use the NRC lexicon for attaching sentimental implications for words observed in tweets, and visualize the common sentiment in the tweets with the following graph.
 
 ```{r, echo=FALSE}
-set.seed(73)
-wordcloud(tweets_final$word, 
-          max.words = 50, 
-          scale = c(8, 1), 
-          colors = topo.colors(n = 30), 
-          random.color = TRUE)
+# necessary wranglings here
+tweets_sentiment_grouped <- tweets_sentiment %>%
+  group_by(sentiment) %>%
+  summarize(N = n())
+# now plot data
+tweets_sentiment_grouped %>% ggplot(aes(x = sentiment, y = N, fill = sentiment)) +
+  geom_bar(stat = "identity") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) + 
+  ylab("Number of words")
 ```
+
+As can be seen, positive, trust, and joy are the most popular sentiments among the words included in the tweets. Negative follows those top three sentiments, and then, the least popular sentiments such as anger, anticipation, fear, and sadness occupy the subsequent places. With this bar chart, we verify that a lot of words employed in the analyzed tweets have some positive connotations, which not only refers to "positive" as a sentiment but also "trust" and "joy." In order to learn more about the use of words detected as implying these sentiments, we have decided to utilize the comparison cloud (see the next tab).
 
 ## Comparison Cloud
 
+The below comparison cloud displays what words are commonly used in the text scraped from twitter while also having implications of "positive," "trust," or "joy." Before diving into the detailed observations about the visualization itself, we lay out how the code below works. A comparison cloud enables users to accomplish two goals simultaneously: comparing the relative frequency of the use of certain words and classifying the most commonly used words into several categories based upon certain criteria. In order to craft a comparison cloud, however, it is necessary to transform the data into the form of matrix, whose column corresponds to certain categories (in this case, the sentiment) and whose row refers to each word by its name. In order to craft such a matrix, a lot of wrangling has been conducted to create a dataset whose row corresponds to words and column to each sentiment. If interested, analyze the commented code below.
+
+```{r, include=FALSE}
+options(dplyr.summarise.inform = FALSE) # suppressing certain outputs below
+```
+
+
+```{r}
+# preliminary wranglings below
+# first extract words with the connotations of interest
+# tweet_sentiment = dataset used for sentiment analysis
+pure_words <- tweets_sentiment %>%
+  filter(sentiment == "positive" | sentiment == "trust" |
+           sentiment == "joy") %>%
+  # then collapse the rows so that each word only occupies a single row
+  group_by(word) %>%
+  summarize()
+# now prepare the dataset to be joined with the dataset about the count of
+# each word with the three focal sentiments
+pure_words_copied <- pure_words %>%
+  # let each word occupy three rows at the same time
+  slice(rep(1:n(), each = 3)) %>%
+  mutate(number = row_number()) %>%
+  # list up all the sentiments of interest
+  mutate(sentiment = case_when(number %% 3 == 1 ~ "positive",
+                               number %% 3 == 2 ~ "trust",
+                               number %% 3 == 0 ~ "joy")) %>%
+  select(word, sentiment)
+# the below dataset is about the count of each word with the three connotations
+# of interest
+comparison_words_prep <- tweets_sentiment %>%
+  # extract those with the three sentiments of innterest
+  filter(sentiment == "positive" | sentiment == "trust" |
+           sentiment == "joy") %>%
+  # and count the frequency
+  group_by(word, sentiment) %>%
+  summarize(N = n())
+comparison_words_prep_2 <- pure_words_copied %>%
+  # join the dataset with the data about the count (used for the bar)
+  left_join(comparison_words_prep, by = c("word", "sentiment")) %>%
+  # if some words do not imply certain sentiments, it will be reflected as 
+  # N/A values, so turn it into 0
+  mutate(count = case_when(is.na(N) ~ 0,
+                           TRUE ~ as.numeric(N))) %>%
+  select(word, sentiment, count)
+# one last step to make each column refer to each sentiment
+comparison_words_prep_3 <- comparison_words_prep_2 %>%
+  spread(key = sentiment, value = count)
+# the below code translates the data frame into a matrix, and each row name of
+# the matrix should correspond to the word
+comparison_words <- comparison_words_prep_3 %>%
+  select(-word) %>%
+  as.matrix()
+rownames(comparison_words) <- comparison_words_prep_3$word
+
+# create the comparison cloud
+colors1 <- c("#48F11F", "#1226D2", "#CB0A3E")
+colors2 <- c("#CCFF99", "#7F88EF", "#EF7FCA")
+comparison.cloud(comparison_words, max.words = 100,
+                 random.order = FALSE,
+                 colors = colors1,
+                 title.colors = colors1,
+                 title.bg.colors = colors2)
+```
+
+
 ## Discussion
+
+# {-}
 
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For example, you can include **Bold** and _Italic_ and `Code` text.  For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
