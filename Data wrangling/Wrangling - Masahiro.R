@@ -16,6 +16,10 @@ rt <- search_tweets(
   select(text)
 # the above select command was run once when the csv file was created
 # and the scraping was done again excludinng the select function
+# run the below code to record the maximum value of created_at for the sake of reproducibility
+time_data <- rt %>% select(created_at)
+write_csv(time_data, 
+          "/Users/masahiro/STAT231/git/Blog-JAMS/Data wrangling/tweets_reproducibility.csv")
 
 ##write_csv(rt, 
 ##          "/Users/masahiro/STAT231/git/Blog-JAMS/Data wrangling/tweetsMay4.csv")
