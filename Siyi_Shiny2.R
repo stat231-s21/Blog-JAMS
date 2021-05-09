@@ -25,22 +25,6 @@ xform <- list(categoryorder = "array",
                                 "rural", 
                                 "total"))
 
-
-#service_types <- c("Sanitation","Drinking Water")
-
-# service_levels_values <- c("Basic service","Safely managed service")
-# service_levels_names <- c("People using basic water services (% of population)","People using safely managed water services (% of population)")
-# names(service_levels_values) <- service_levels_names
-
-# xlim <- list(
-#   min = min(water_income$loggdp),
-#   max = max(water_income$loggdp)
-# )
-# ylim <- list(
-#   min = 0,
-#   max = 100
-# )
-
 ############
 #    ui    #
 ############
