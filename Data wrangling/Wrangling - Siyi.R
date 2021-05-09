@@ -9,6 +9,13 @@ water_urban_rural <- read_csv("Data wrangling/WaterServiceUrbanRuralInequality.c
 colnames(water_urban_rural) <- tolower(colnames(water_urban_rural))
 names(water_urban_rural) <- str_replace_all(names(water_urban_rural), " ", "_") 
 
+# Filter the dataset 
+water_urban_rural <- water_urban_rural %>%
+  filter(service_level == "Safely managed service"|service_level == "Basic service") %>%
+  filter(service_type != "Hygiene") 
+# %>% pivot_wider(names_from = region, values_from = coverage) 
+# %>% pivot_wider(names_from = service_level, values_from =  coverage)
+
 # Write the dataset
 write_csv(x = water_urban_rural, "Data wrangling/water_urban_rural.csv")
 
