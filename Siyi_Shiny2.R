@@ -20,6 +20,12 @@ water_ur <- read.csv("Data Wrangling/water_urban_rural.csv")
 
 colors <- c("#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477")
 
+xform <- list(categoryorder = "array",
+              categoryarray = c("urban", 
+                                "rural", 
+                                "total"))
+
+
 #service_types <- c("Sanitation","Drinking Water")
 
 # service_levels_values <- c("Basic service","Safely managed service")
@@ -50,7 +56,7 @@ ui <- fluidPage(
     column(6, offset = 1,
            radioButtons(inputId = "type"
                         , label = "Choose water service type:"
-                        , choices = c("Sanitation","Drinking Water")
+                        , choices = c("Sanitation","Drinking water")
                         , selected = "Sanitation"),
            radioButtons(inputId = "level"
                         , label = "Choose water service level:"
@@ -68,7 +74,9 @@ ui <- fluidPage(
 server <- function(input, output, session){
   yearData <- reactive({
     water_by_year <- water_ur %>%
-      filter(year == input$year && service_type == input$type && service_level == input$level) %>%
+      filter(year == input$year) %>%
+      filter(service_type == toString(input$type)) %>%
+      filter(service_level == toString(input$level)) %>%
       arrange(residence_type)
   })
   
@@ -91,7 +99,9 @@ server <- function(input, output, session){
       # margin = list(l = 100)
         ) %>% 
       highlight(on = "plotly_hover", off = "plotly_doubleclick", opacityDim = 0.5) %>%
-      layout(yaxis = list(title = input$level), legend = list(orientation = 'h', y = -0.2, title=list(text='<b> Region </b>')))
+      layout(yaxis = list(title = input$level),
+             xaxis = xform,
+             legend = list(orientation = 'v', y = -0.2, title=list(text='<b> Region </b>')))
   })
 }
 
