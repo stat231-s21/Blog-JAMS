@@ -1,0 +1,92 @@
+library(shiny)
+library(shinythemes)
+library(tidyverse)
+library(DT)
+library(ggrepel)
+library(plotly)
+
+###############
+# import data #
+###############
+
+water_income <- read.csv("Data Wrangling/water_income.csv")
+water_income <- water_income %>%
+  mutate(loggdp = log(gdp))
+water_income$region <- as.factor(water_income$region)
+
+#############################################################
+# define choice values and labels for widgets (user inputs) #
+#############################################################
+# define vectors to represent the choices given to the user
+
+colors <- c("#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477")
+
+service_values <- c("basic", "safe")
+service_names <- c("People using at least basic drinking water services (% of population)","People using safely managed drinking water services (% of population)")
+names(service_values) <- service_names
+
+xlim <- list(
+  min = min(water_income$loggdp),
+  max = max(water_income$loggdp)
+)
+ylim <- list(
+  min = 0,
+  max = 100 
+)
+
+############
+#    ui    #
+############
+
+ui <- fluidPage(
+  headerPanel('Water service level vs Income'),
+  fluidRow(
+    column(4, offset = 7,
+                  sliderInput("year", "Year",
+                              min = min(water_income$year), max = max(water_income$year),
+                              value = min(water_income$year), animate = TRUE, step = 1)
+    ),
+    column(6, offset = 1,
+                  radioButtons(inputId = "level"
+                               , label = "Choose water service level:"
+                               , choices = service_values
+                               , selected = "basic")
+    )
+  ),
+  plotlyOutput('plot'),
+  hr(),
+)
+
+############
+# server   #
+############
+server <- function(input, output, session){
+  yearData <- reactive({
+    water_by_year <- water_income %>%
+      filter(year == input$year) %>%
+      arrange(region)
+  })
+  
+  output$plot <- renderPlotly({
+    df <- yearData()
+    df$yy <- df[[input$level]]
+    df %>% 
+      highlight_key(~ region) %>%
+      plot_ly(x = ~ loggdp, y = ~ yy, color = ~ region, colors = colors,
+              type = 'scatter', mode = 'markers', size = ~ gini, sizes = c(5, 30),
+              marker = list(symbol = 'circle', opacity = 0.6, sizemode = 'diameter'),
+              hoverinfo = 'text',
+              text = ~ paste('</br> Country:', country,
+                            '</br> Water Service Coverage(%):', gini,
+                            '</br> GDP per capita($):', gdp,
+                            '</br> Gini:', gini)) %>%
+      layout(yaxis = list(title = input$level), 
+             legend = list(orientation = 'h', y = -0.2, title=list(text='<b> Region </b>'))) %>%
+      highlight(on = "plotly_hover", off = "plotly_doubleclick", opacityDim = 0.5)
+ })
+}
+
+####################
+# call to shinyApp #
+####################
+shinyApp(ui = ui, server = server)
