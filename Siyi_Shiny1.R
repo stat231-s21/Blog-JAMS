@@ -41,17 +41,19 @@ ylim <- list(
 ui <- fluidPage(
   headerPanel('Water service level vs Income'),
   fluidRow(
-    column(4, offset = 7,
+    
+    column(4, align="left", offset = 0.5, style='padding-left:50px; padding-top: 10px; padding-bottom: 0px; padding-right: 10px;',
+           radioButtons(inputId = "level"
+                        , label = "Choose water service level:"
+                        , choices = service_values
+                        , selected = "basic")
+    ),
+    column(4, align="left", style='padding-left:30px; padding-top: 10px; padding-bottom: 0px; padding-right: 10px;',
                   sliderInput("year", "Year",
                               min = min(water_income$year), max = max(water_income$year),
                               value = min(water_income$year), animate = TRUE, step = 1)
-    ),
-    column(6, offset = 1,
-                  radioButtons(inputId = "level"
-                               , label = "Choose water service level:"
-                               , choices = service_values
-                               , selected = "basic")
     )
+  
   ),
   plotlyOutput('plot'),
   hr(),
@@ -76,11 +78,13 @@ server <- function(input, output, session){
               type = 'scatter', mode = 'markers', size = ~ gini, sizes = c(5, 30),
               marker = list(symbol = 'circle', opacity = 0.6, sizemode = 'diameter'),
               hoverinfo = 'text',
+              fill = ~'',
               text = ~ paste('</br> Country:', country,
                             '</br> Water Service Coverage(%):', gini,
                             '</br> GDP per capita($):', gdp,
                             '</br> Gini:', gini)) %>%
-      layout(yaxis = list(title = input$level), 
+      layout(yaxis = list(title = input$level, range = c(0, 115)),
+             xaxis = list(range = c(min(water_income$loggdp)-0.2, max(water_income$loggdp)+0.1)),
              legend = list(orientation = 'h', y = -0.2, title=list(text='<b> Region </b>'))) %>%
       highlight(on = "plotly_hover", off = "plotly_doubleclick", opacityDim = 0.5)
  })
