@@ -10,10 +10,10 @@ colnames(water_urban_rural) <- tolower(colnames(water_urban_rural))
 names(water_urban_rural) <- str_replace_all(names(water_urban_rural), " ", "_") 
 
 # Filter the dataset 
-water_urban_rural <- water_urban_rural %>%
-  filter(service_level == "Safely managed service"|service_level == "Basic service") %>%
-  filter(service_type != "Hygiene") 
-# %>% pivot_wider(names_from = region, values_from = coverage) 
+ water_urban_rural <- water_urban_rural %>%
+   filter(service_level == "Safely managed service"|service_level == "At least basic") %>%
+   filter(service_type != "Hygiene") %>% 
+   pivot_wider(names_from = residence_type, values_from = coverage) 
 # %>% pivot_wider(names_from = service_level, values_from =  coverage)
 
 # Write the dataset
