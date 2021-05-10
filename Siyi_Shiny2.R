@@ -18,8 +18,6 @@ water_ur <- read.csv("Data Wrangling/water_urban_rural.csv")
 #############################################################
 # define vectors to represent the choices given to the user
 
-colors <- c("#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477")
-
 xform <- list(categoryorder = "array",
               categoryarray = c("urban", 
                                 "rural", 
@@ -32,20 +30,22 @@ xform <- list(categoryorder = "array",
 ui <- fluidPage(
   headerPanel('Water service level vs urban/rural disparity'),
   fluidRow(
-    column(4, offset = 7,
+    column(4, align="left", style='padding-left:50px; padding-top: 10px; padding-bottom: 0px; padding-right: 0px;',
+           radioButtons(inputId = "type"
+                        , label = "Choose water service type:"
+                        , choices = c("Drinking water", "Sanitation")
+                        , selected = "Drinking water")
+    ),
+    column(3, align="left", style='padding-left:0px; padding-top: 10px; padding-bottom: 0px; padding-right: 10px;',
+           radioButtons(inputId = "level"
+                        , label = "Choose water service level:"
+                        , choices = c("Safely managed service", "At least basic")
+                        , selected = "Safely managed service")
+    ),
+    column(5, align="left", style='padding-left:40px; padding-top: 0px; padding-bottom: 0px; padding-right: 0px;',
            sliderInput("year", "Year",
                        min = min(water_ur$year), max = max(water_ur$year),
                        value = min(water_ur$year), animate = TRUE, step = 1)
-    ),
-    column(6, offset = 1,
-           radioButtons(inputId = "type"
-                        , label = "Choose water service type:"
-                        , choices = c("Sanitation","Drinking water")
-                        , selected = "Sanitation"),
-           radioButtons(inputId = "level"
-                        , label = "Choose water service level:"
-                        , choices = c("Basic service","Safely managed service")
-                        , selected = "Basic service")
     )
   ),
   plotlyOutput('plot'),
@@ -60,32 +60,35 @@ server <- function(input, output, session){
     water_by_year <- water_ur %>%
       filter(year == input$year) %>%
       filter(service_type == toString(input$type)) %>%
-      filter(service_level == toString(input$level)) %>%
-      arrange(residence_type)
+      filter(service_level == toString(input$level)) 
   })
   
   output$plot <- renderPlotly({
     df <- yearData()
-   # df$ylevel <- df[[input$level]]
     df %>% 
-      highlight_key(~ region) %>%
-      plot_ly(
-        x = ~ residence_type, y = ~ coverage, color = ~ region, colors = colors,
-        type = 'scatter', mode = 'markers', sizes = c(5, 30),
-        marker = list(symbol = 'circle', opacity = 0.6, sizemode = 'diameter')
-      #   df, color = I("gray80")) %>%
-      # add_markers(x = ~ `Australia and New Zealand`, y = ~ residence_type, name = "Australia and New Zealand", 
-      #         color = "pink") %>% 
-      # add_trace(df, x = ~ `Central and Southern Asia`, y = ~ residence_type, name = "Central and Southern Asia", type = 'scatter',
-      #           mode = "markers", marker = list(color = "blue")) %>%
-      # layout(title = "Gender earnings disparity",
-      # xaxis = list(title = "Annual Salary (in thousands)"),
-      # margin = list(l = 100)
-        ) %>% 
-      highlight(on = "plotly_hover", off = "plotly_doubleclick", opacityDim = 0.5) %>%
-      layout(yaxis = list(title = input$level),
-             xaxis = xform,
-             legend = list(orientation = 'v', y = -0.2, title=list(text='<b> Region </b>')))
+      plot_ly() %>% 
+      add_trace(x = ~ urban, y = ~ region, name = "Urban", type = 'scatter',
+                mode = "markers", marker = list(color = "#3366cc", size = 25, opacity = 0.4),
+                hoverinfo = 'text',
+                fill = ~'',
+                text = ~ paste('</br> Region:', region,
+                               '</br> Urban Water Service Coverage(%):', urban)) %>% 
+      add_trace(x = ~ rural, y = ~region, name = "Rural",type = 'scatter',
+                mode = "markers", marker = list(color = "#109618", size = 25, opacity = 0.4),
+                hoverinfo = 'text',
+                fill = ~'',
+                text = ~ paste('</br> Region:', region,
+                               '</br> Rural Water Service Coverage(%):', rural)) %>% 
+      add_trace(x = ~ total, y = ~region, name = "Total",type = 'scatter',
+                mode = "markers", marker = list(color = "#ff9900", size = 25, opacity = 0.4),
+                hoverinfo = 'text',
+                fill = ~'',
+                text = ~ paste('</br> Region:', region,
+                               '</br> Total Water Service Coverage(%):', total)) %>% 
+      layout(title = "World Water Service coverage by Residence Type",
+             xaxis = list(title = "Water Service coverage (%)", range = c(0, 105)),
+             yaxis = list(title = "Region"),
+             margin = list(l = 200))
   })
 }
 
@@ -93,3 +96,4 @@ server <- function(input, output, session){
 # call to shinyApp #
 ####################
 shinyApp(ui = ui, server = server)
+

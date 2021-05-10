@@ -21,8 +21,8 @@ water_income$region <- as.factor(water_income$region)
 
 colors <- c("#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477")
 
-service_values <- c("basic", "safe")
-service_names <- c("People using at least basic drinking water services (% of population)","People using safely managed drinking water services (% of population)")
+service_values <- c("safe", "basic")
+service_names <- c("People using safely managed drinking water services (% of population)", "People using at least basic drinking water services (% of population)")
 names(service_values) <- service_names
 
 xlim <- list(
@@ -46,9 +46,9 @@ ui <- fluidPage(
            radioButtons(inputId = "level"
                         , label = "Choose water service level:"
                         , choices = service_values
-                        , selected = "basic")
+                        , selected = "safe")
     ),
-    column(4, align="left", style='padding-left:30px; padding-top: 10px; padding-bottom: 0px; padding-right: 10px;',
+    column(6, align="left", style='padding-left:30px; padding-top: 10px; padding-bottom: 0px; padding-right: 10px;',
                   sliderInput("year", "Year",
                               min = min(water_income$year), max = max(water_income$year),
                               value = min(water_income$year), animate = TRUE, step = 1)
@@ -76,17 +76,18 @@ server <- function(input, output, session){
       highlight_key(~ region) %>%
       plot_ly(x = ~ loggdp, y = ~ yy, color = ~ region, colors = colors,
               type = 'scatter', mode = 'markers', size = ~ gini, sizes = c(5, 30),
-              marker = list(symbol = 'circle', opacity = 0.6, sizemode = 'diameter'),
+              marker = list(symbol = 'circle', opacity = 0.4, sizemode = 'diameter'),
               hoverinfo = 'text',
               fill = ~'',
               text = ~ paste('</br> Country:', country,
-                            '</br> Water Service Coverage(%):', gini,
+                            '</br> Water Service Coverage(%):', yy,
                             '</br> GDP per capita($):', gdp,
                             '</br> Gini:', gini)) %>%
-      layout(yaxis = list(title = input$level, range = c(0, 115)),
-             xaxis = list(range = c(min(water_income$loggdp)-0.2, max(water_income$loggdp)+0.1)),
+      layout(title = "World Water Service Coverage by GDP per capita",
+             yaxis = list(title = "Water Service Coverage (%)", range = c(0, 115)),
+             xaxis = list(title = "GDP per capita (log) ($)", range = c(min(water_income$loggdp)-0.2, max(water_income$loggdp)+0.1)),
              legend = list(orientation = 'h', y = -0.2, title=list(text='<b> Region </b>'))) %>%
-      highlight(on = "plotly_hover", off = "plotly_doubleclick", opacityDim = 0.5)
+      highlight(on = "plotly_hover", off = "plotly_doubleclick", opacityDim = 0.4)
  })
 }
 
