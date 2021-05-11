@@ -101,7 +101,7 @@ wordcloud(tweets_final$word,
           random.color = TRUE)
 ```
 
-In the above word cloud, "https" stands out in its size, which implies that a lot of tweets related to water access advocacy refer to or cite other web resources. Also, "clean" is displayed largely in the visualization, which should be partly because "access to clean water" is one of the phrases we actively searched for when scraping tweets. However, given that we also looked for "access to drinking water" when gathering text while the word "drinking" does not have equally big size in the display as "clean," it seems like that the word "clean" possesses a particularly great importance for arguments for greater water access across the earth. Paying attention to other words displayed with smaller sizes, it can be seen that the cloud includes a lot of words related to potential use of water or implication of access to water: "sanitation," "healthcare," "health," "food," and "hygiene." Also, one of the interesting words to be observed in the cloud is "india," whose presence may be attributable to the socioeconomic standing of India as a country or the nation's especially large population.
+In the above word cloud, "https" stands out in its size, which implies that a lot of tweets related to water access advocacy refer to or cite other web resources. Also, "clean" is displayed largely in the visualization, which should be partly because "access to clean water" is one of the phrases we actively searched for when scraping tweets. However, given that we also looked for "access to drinking water" when gathering text while the word "drinking" does not have equally big size in the display as "clean," it seems like that the word "clean" possesses a particularly great importance for arguments for greater water access across the earth. Paying attention to other words displayed with smaller sizes, it can be seen that the cloud includes a lot of words related to potential use of water or implication of access to water: "sanitation," "healthcare," "health," "food," and "hygiene." Besides, one of the interesting words to be observed in the cloud is "india," whose presence may be attributable to the socioeconomic standing of India as a country or the nation's especially large population. Finally, we also found it intriguing that "covid" occupied its place in the above visialuzation because it suggested that tweets about water access were often associated with this pandemic, although there did not seem to be a lot of explicit or obvious connections between the infectious disease and water access.
 
 ## Sentiment Analysis
 
@@ -188,6 +188,7 @@ comparison.cloud(comparison_words, max.words = 100,
                  title.bg.colors = colors2)
 ```
 
+As also discovered in the 
 
 ## Discussion
 
