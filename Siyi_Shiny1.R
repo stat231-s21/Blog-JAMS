@@ -25,15 +25,6 @@ service_values <- c("safe", "basic")
 service_names <- c("People using safely managed drinking water services (% of population)", "People using at least basic drinking water services (% of population)")
 names(service_values) <- service_names
 
-xlim <- list(
-  min = min(water_income$loggdp),
-  max = max(water_income$loggdp)
-)
-ylim <- list(
-  min = 0,
-  max = 100 
-)
-
 ############
 #    ui    #
 ############

@@ -1,0 +1,574 @@
+Year,Service Type,Service Level,Coverage,Type,Region,Residence Type,Population
+2000,Sanitation,Basic service,27.9313196795,world,World,total,1716381538.0458100
+2000,Sanitation,Basic service,14.0816206351,world,World,rural,461413360.01719800
+2000,Sanitation,Basic service,43.753021835,world,World,urban,1254968168.4779700
+2000,Sanitation,Limited service,5.4519876109,world,World,total,335025018.0936230
+2000,Sanitation,Limited service,3.6000839717,world,World,rural,117964180.74107300
+2000,Sanitation,Limited service,7.567576379,world,World,urban,217060835.34037500
+2000,Sanitation,Open defecation,21.4828899769,world,World,total,1320125084.0748200
+2000,Sanitation,Open defecation,36.0745973134,world,World,rural,1182058627.2685800
+2000,Sanitation,Open defecation,4.8135278177,world,World,urban,138066445.14926700
+2000,Sanitation,Safely managed service,28.2048857411,world,World,total,1733192191.5685900
+2000,Sanitation,Safely managed service,21.7568275078,world,World,rural,712907352.3444840
+2000,Sanitation,Safely managed service,35.5710570926,world,World,urban,1020284828.295350
+2000,Sanitation,Unimproved,16.9289169917,world,World,total,1040283127.2233000
+2000,Sanitation,Unimproved,24.486870572,world,World,rural,802362847.2684330
+2000,Sanitation,Unimproved,8.2948168757,world,World,urban,237920278.54931300
+2000,Drinking water,Basic service,20.2443096897,world,World,total,1244014239.2335800
+2000,Drinking water,Basic service,29.9472250794,world,World,rural,981282631.108114
+2000,Drinking water,Basic service,9.1598349867,world,World,urban,262731597.835003
+2000,Drinking water,Limited service,2.7955277012,world,World,total,171785371.77951300
+2000,Drinking water,Limited service,3.8584910689,world,World,rural,126431422.54945800
+2000,Drinking water,Limited service,1.5812132297,world,World,urban,45353947.85606230
+2000,Drinking water,Safely managed service,61.2543373967,world,World,total,3764083295.7165500
+2000,Drinking water,Safely managed service,39.436098448,world,World,rural,1292205148.994310
+2000,Drinking water,Safely managed service,86.1791878577,world,World,urban,2471878124.3169100
+2000,Drinking water,Surface water,4.1594602339,world,World,total,255599120.82999300
+2000,Drinking water,Surface water,7.2978402174,world,World,rural,239128795.1037220
+2000,Drinking water,Surface water,0.5742188832,world,World,urban,16470323.418404600
+2000,Drinking water,Unimproved,11.5463649785,world,World,total,709524931.4403640
+2000,Drinking water,Unimproved,19.4603451863,world,World,rural,637658369.8841720
+2000,Drinking water,Unimproved,2.5055450427,world,World,urban,71866562.38589090
+2001,Sanitation,Basic service,28.4341717223,world,World,total,1769575703.828610
+2001,Sanitation,Basic service,14.4629889917,world,World,rural,475879930.0423220
+2001,Sanitation,Basic service,44.1070278756,world,World,urban,1293695777.8734100
+2001,Sanitation,Limited service,5.6590202733,world,World,total,352184156.4757630
+2001,Sanitation,Limited service,3.860095344,world,World,rural,127009838.92842600
+2001,Sanitation,Limited service,7.677052139100000,world,World,urban,225174318.40747400
+2001,Sanitation,Open defecation,20.636239947,world,World,total,1284278268.5999300
+2001,Sanitation,Open defecation,34.9165204177,world,World,rural,1148868418.7778900
+2001,Sanitation,Open defecation,4.6166388594,world,World,urban,135409853.8948730
+2001,Sanitation,Safely managed service,28.3966934006,world,World,total,1767243273.394260
+2001,Sanitation,Safely managed service,22.0832713625,world,World,rural,726612295.502887
+2001,Sanitation,Safely managed service,35.4790828959,world,World,urban,1040630982.3164900
+2001,Sanitation,Unimproved,16.8738746568,world,World,total,1050130769.1936300
+2001,Sanitation,Unimproved,24.6771238841,world,World,rural,811958578.8491220
+2001,Sanitation,Unimproved,8.12019823,world,World,urban,238172161.48126600
+2001,Drinking water,Basic service,20.1006280376,world,World,total,1250944931.8383700
+2001,Drinking water,Basic service,29.7984113474,world,World,rural,980465788.607799
+2001,Drinking water,Basic service,9.2216667017,world,World,urban,270479147.01014700
+2001,Drinking water,Limited service,2.8425143886,world,World,total,176901386.43654900
+2001,Drinking water,Limited service,3.9467871736,world,World,rural,129862285.39222200
+2001,Drinking water,Limited service,1.6037425487,world,World,urban,47039101.566779600
+2001,Drinking water,Safely managed service,61.70454247070000,world,World,total,3840128006.4851100
+2001,Drinking water,Safely managed service,39.9261237374,world,World,rural,1313700852.7019400
+2001,Drinking water,Safely managed service,86.1355468662,world,World,urban,2526427163.0341400
+2001,Drinking water,Surface water,4.0784834839,world,World,total,253820837.54933100
+2001,Drinking water,Surface water,7.2047858357,world,World,rural,237061162.21414800
+2001,Drinking water,Surface water,0.5714013417,world,World,urban,16759676.152140500
+2001,Drinking water,Unimproved,11.2738316193,world,World,total,701617009.1890510
+2001,Drinking water,Unimproved,19.1238919059,world,World,rural,629238973.184541
+2001,Drinking water,Unimproved,2.4676425417,world,World,urban,72378006.21030090
+2002,Sanitation,Basic service,29.2499731972,world,World,total,1843377099.1925800
+2002,Sanitation,Basic service,15.3922946231,world,World,rural,507999253.2514490
+2002,Sanitation,Basic service,44.4858746622,world,World,urban,1335377844.3085200
+2002,Sanitation,Limited service,5.8762534217,world,World,total,370330287.60692200
+2002,Sanitation,Limited service,4.136058003400000,world,World,rural,136504298.32460700
+2002,Sanitation,Limited service,7.7895208952,world,World,urban,233825988.59109300
+2002,Sanitation,Open defecation,19.9255647969,world,World,total,1255738922.8171800
+2002,Sanitation,Open defecation,34.0102536326,world,World,rural,1122456649.337030
+2002,Sanitation,Open defecation,4.4400752369,world,World,urban,133282264.1668150
+2002,Sanitation,Safely managed service,28.6535637201,world,World,total,1805790481.0984200
+2002,Sanitation,Safely managed service,22.5426893936,world,World,rural,743987148.026784
+2002,Sanitation,Safely managed service,35.3721982173,world,World,urban,1061803328.8667200
+2002,Sanitation,Unimproved,16.2946448641,world,World,total,1026912913.029040
+2002,Sanitation,Unimproved,23.9187043474,world,World,rural,789400426.9503940
+2002,Sanitation,Unimproved,7.9123309883,world,World,urban,237512504.3363380
+2002,Drinking water,Basic service,19.5332975883,world,World,total,1231017656.09251
+2002,Drinking water,Basic service,29.0422840469,world,World,rural,958496375.6086380
+2002,Drinking water,Basic service,9.0785894333,world,World,urban,272521272.85031400
+2002,Drinking water,Limited service,2.8240476577,world,World,total,177975711.0933340
+2002,Drinking water,Limited service,3.9616487952,world,World,rural,130748187.90083600
+2002,Drinking water,Limited service,1.5733057432,world,World,urban,47227522.16846560
+2002,Drinking water,Safely managed service,62.8369179857,world,World,total,3960076640.677740
+2002,Drinking water,Safely managed service,41.4536403946,world,World,rural,1368114298.7873600
+2002,Drinking water,Safely managed service,86.346880829,world,World,urban,2591962335.45501
+2002,Drinking water,Surface water,3.9659216461,world,World,total,249938319.27041600
+2002,Drinking water,Surface water,7.064804208,world,World,rural,233163108.54949700
+2002,Drinking water,Surface water,0.558837963,world,World,urban,16775208.76042950
+2002,Drinking water,Unimproved,10.8398151223,world,World,total,683141376.616442
+2002,Drinking water,Unimproved,18.4776225553,world,World,rural,609825805.0406310
+2002,Drinking water,Unimproved,2.4423860314,world,World,urban,73315591.03527090
+2003,Sanitation,Basic service,29.3573680293,world,World,total,1873413755.163570
+2003,Sanitation,Basic service,15.562981523,world,World,rural,515082349.4118550
+2003,Sanitation,Basic service,44.2201823879,world,World,urban,1358331414.1530400
+2003,Sanitation,Limited service,6.0840741384,world,World,total,388249660.7644720
+2003,Sanitation,Limited service,4.4076040754,world,World,rural,145876871.92708700
+2003,Sanitation,Limited service,7.8903932536,world,World,urban,242372791.05657400
+2003,Sanitation,Open defecation,19.2099977611,world,World,total,1225868545.3814600
+2003,Sanitation,Open defecation,33.0858701861,world,World,rural,1095031033.9060900
+2003,Sanitation,Open defecation,4.259387077,world,World,urban,130837526.1995690
+2003,Sanitation,Safely managed service,29.598204893,world,World,total,1888782540.7016900
+2003,Sanitation,Safely managed service,23.7172730482,world,World,rural,784961975.650694
+2003,Sanitation,Safely managed service,35.9346376878,world,World,urban,1103820576.7532700
+2003,Sanitation,Unimproved,15.7503551782,world,World,total,1005094598.7427200
+2003,Sanitation,Unimproved,23.2262711673,world,World,rural,768711464.6540800
+2003,Sanitation,Unimproved,7.6953995937,world,World,urban,236383082.29690700
+2003,Drinking water,Basic service,19.2858880147,world,World,total,1230711412.9312700
+2003,Drinking water,Basic service,28.651505041,world,World,rural,948268460.5705990
+2003,Drinking water,Basic service,9.1948690208,world,World,urban,282442965.30519900
+2003,Drinking water,Limited service,2.8118536391,world,World,total,179435884.02540700
+2003,Drinking water,Limited service,3.9824010775,world,World,rural,131804082.67320200
+2003,Drinking water,Limited service,1.5506429443,world,World,urban,47631803.1640184
+2003,Drinking water,Safely managed service,63.6094070896,world,World,total,4059176492.951340
+2003,Drinking water,Safely managed service,42.5522783678,world,World,rural,1408337308.7683700
+2003,Drinking water,Safely managed service,86.2974911325,world,World,urban,2650839205.9446400
+2003,Drinking water,Surface water,3.8558370202,world,World,total,246056734.51728100
+2003,Drinking water,Surface water,6.927514621,world,World,rural,229277436.41514200
+2003,Drinking water,Surface water,0.5462464833,world,World,urban,16779301.171314100
+2003,Drinking water,Unimproved,10.4370142364,world,World,total,666028576.3286100
+2003,Drinking water,Unimproved,17.8863008927,world,World,rural,591976407.1224930
+2003,Drinking water,Unimproved,2.4107504191,world,World,urban,74052114.87418370
+2004,Sanitation,Basic service,29.4080434007,world,World,total,1900162784.0280700
+2004,Sanitation,Basic service,15.6643711657,world,World,rural,519794340.3224910
+2004,Sanitation,Basic service,43.9181391568,world,World,urban,1380368445.3848100
+2004,Sanitation,Limited service,6.2885963483,world,World,total,406329539.9152610
+2004,Sanitation,Limited service,4.6763774107,world,World,rural,155177280.05682000
+2004,Sanitation,Limited service,7.990721575,world,World,urban,251152260.313329
+2004,Sanitation,Open defecation,18.4891183827,world,World,total,1194650530.8632500
+2004,Sanitation,Open defecation,32.1403660813,world,World,rural,1066520973.5028700
+2004,Sanitation,Open defecation,4.0766013363,world,World,urban,128129560.0651790
+2004,Sanitation,Safely managed service,30.5981945499,world,World,total,1977062865.079510
+2004,Sanitation,Safely managed service,24.9657809616,world,World,rural,828445106.9434780
+2004,Sanitation,Safely managed service,36.5447028388,world,World,urban,1148617760.5235300
+2004,Sanitation,Unimproved,15.2160473184,world,World,total,983165266.7428230
+2004,Sanitation,Unimproved,22.5531043806,world,World,rural,748384719.0372920
+2004,Sanitation,Unimproved,7.469835093,world,World,urban,234780545.18183800
+2004,Drinking water,Basic service,19.4825836531,world,World,total,1258842007.6071100
+2004,Drinking water,Basic service,29.1225948975,world,World,rural,966381595.7305730
+2004,Drinking water,Basic service,9.304991880700000,world,World,urban,292460414.38191100
+2004,Drinking water,Limited service,2.8022140465,world,World,total,181061445.38379100
+2004,Drinking water,Limited service,4.0021479495,world,World,rural,132804172.6844770
+2004,Drinking water,Limited service,1.5353651701,world,World,urban,48257273.04570410
+2004,Drinking water,Safely managed service,63.9301535371,world,World,total,4130764392.3534900
+2004,Drinking water,Safely managed service,42.7912143207,world,World,rural,1419950458.536820
+2004,Drinking water,Safely managed service,86.2479174747,world,World,urban,2710813938.1127600
+2004,Drinking water,Surface water,3.7445118568,world,World,total,241946802.70615500
+2004,Drinking water,Surface water,6.786139677,world,World,rural,225185994.3453320
+2004,Drinking water,Surface water,0.5332659851,world,World,urban,16760808.926830700
+2004,Drinking water,Unimproved,10.0405369065,world,World,total,648756338.5783590
+2004,Drinking water,Unimproved,17.2979031553,world,World,rural,574000198.5690750
+2004,Drinking water,Unimproved,2.3784594894,world,World,urban,74756137.00462290
+2005,Sanitation,Basic service,29.667043609,world,World,total,1940865291.6229200
+2005,Sanitation,Basic service,15.9717159852,world,World,rural,531259961.87166900
+2005,Sanitation,Basic service,43.8323099506,world,World,urban,1409605320.352230
+2005,Sanitation,Limited service,6.4654693288,world,World,total,422981311.5086960
+2005,Sanitation,Limited service,4.9298192829,world,World,rural,163978348.1433400
+2005,Sanitation,Limited service,8.0538133427,world,World,urban,259002962.64989000
+2005,Sanitation,Open defecation,17.7589278957,world,World,total,1161817376.3273800
+2005,Sanitation,Open defecation,31.1384330746,world,World,rural,1035743609.721370
+2005,Sanitation,Open defecation,3.9203207854,world,World,urban,126073780.79812100
+2005,Sanitation,Safely managed service,31.4518574035,world,World,total,2057630655.6211100
+2005,Sanitation,Safely managed service,26.0716742034,world,World,rural,867210302.0153610
+2005,Sanitation,Safely managed service,37.0166550087,world,World,urban,1190420352.0351300
+2005,Sanitation,Unimproved,14.656701763,world,World,total,958864796.7890350
+2005,Sanitation,Unimproved,21.8883574539,world,World,rural,728062529.8601410
+2005,Sanitation,Unimproved,7.1769009126,world,World,urban,230802294.50474600
+2005,Drinking water,Basic service,19.6829487089,world,World,total,1287689885.4292700
+2005,Drinking water,Basic service,29.5878103293,world,World,rural,984165946.9762510
+2005,Drinking water,Basic service,9.438213411,world,World,urban,303523949.65630200
+2005,Drinking water,Limited service,2.7931255915,world,World,total,182730729.32826800
+2005,Drinking water,Limited service,4.0251405272,world,World,rural,133886428.04504500
+2005,Drinking water,Limited service,1.5188355101,world,World,urban,48844302.71162430
+2005,Drinking water,Safely managed service,64.2424588258,world,World,total,4202844079.336720
+2005,Drinking water,Safely managed service,43.0323266949,world,World,rural,1431364811.4182600
+2005,Drinking water,Safely managed service,86.1803910548,world,World,urban,2771479255.320850
+2005,Drinking water,Surface water,3.5932279239,world,World,total,235074699.53198000
+2005,Drinking water,Surface water,6.5660059414,world,World,rural,218402084.6169360
+2005,Drinking water,Surface water,0.5184425389,world,World,urban,16672618.028892000
+2005,Drinking water,Unimproved,9.68823895,world,World,total,633820038.2494450
+2005,Drinking water,Unimproved,16.7887165072,world,World,rural,558435480.5553880
+2005,Drinking water,Unimproved,2.3441174851,world,World,urban,75384584.61923720
+2006,Sanitation,Basic service,29.4498607376,world,World,total,1950713984.083080
+2006,Sanitation,Basic service,16.0015741058,world,World,rural,533557186.9147290
+2006,Sanitation,Basic service,43.081961865,world,World,urban,1417156786.795920
+2006,Sanitation,Limited service,6.6482195363,world,World,total,440367950.6082320
+2006,Sanitation,Limited service,5.180803178100000,world,World,rural,172748927.78604700
+2006,Sanitation,Limited service,8.1356928712,world,World,urban,267619018.92575900
+2006,Sanitation,Open defecation,17.0024308233,world,World,total,1126215158.228940
+2006,Sanitation,Open defecation,30.1039520933,world,World,rural,1003787495.3874000
+2006,Sanitation,Open defecation,3.7218343109,world,World,urban,122427636.17751600
+2006,Sanitation,Safely managed service,32.7365012682,world,World,total,2168416054.079970
+2006,Sanitation,Safely managed service,27.4353423892,world,World,rural,914805256.6852220
+2006,Sanitation,Safely managed service,38.1101174984,world,World,urban,1253610776.3078400
+2006,Sanitation,Unimproved,14.1629876345,world,World,total,938134759.9970500
+2006,Sanitation,Unimproved,21.2783282335,world,World,rural,709505507.3612650
+2006,Sanitation,Unimproved,6.9503934544,world,World,urban,228629264.50912000
+2006,Drinking water,Basic service,19.8697348121,world,World,total,1316141013.4785100
+2006,Drinking water,Basic service,30.0431440413,world,World,rural,1001759909.0416900
+2006,Drinking water,Basic service,9.5572725302,world,World,urban,314381078.37040000
+2006,Drinking water,Limited service,2.7891385228,world,World,total,184748293.66592700
+2006,Drinking water,Limited service,4.055144217400000,world,World,rural,135214906.16259000
+2006,Drinking water,Limited service,1.5058286992,world,World,urban,49533384.006753500
+2006,Drinking water,Safely managed service,64.5668841236,world,World,total,4276812202.638720
+2006,Drinking water,Safely managed service,43.2961495993,world,World,rural,1443668706.0723900
+2006,Drinking water,Safely managed service,86.1283521231,world,World,urban,2833143465.686970
+2006,Drinking water,Surface water,3.446782103,world,World,total,228309604.1885510
+2006,Drinking water,Surface water,6.349735641600000,world,World,rural,211725862.97971000
+2006,Drinking water,Surface water,0.5041501896,world,World,urban,16583735.55491500
+2006,Drinking water,Unimproved,9.327460438500000,world,World,total,617836793.0322000
+2006,Drinking water,Unimproved,16.2558265004,world,World,rural,542034989.8816220
+2006,Drinking water,Unimproved,2.3043964579,world,World,urban,75801819.10040950
+2007,Sanitation,Basic service,29.470419589,world,World,total,1976409721.4434600
+2007,Sanitation,Basic service,16.1732625374,world,World,rural,540641485.3499380
+2007,Sanitation,Basic service,42.6853565186,world,World,urban,1435768239.1212300
+2007,Sanitation,Limited service,6.8215137879,world,World,total,457479274.24821700
+2007,Sanitation,Limited service,5.4211953418,world,World,rural,181220276.0689310
+2007,Sanitation,Limited service,8.2131737009,world,World,urban,276259000.83555700
+2007,Sanitation,Open defecation,16.2579208248,world,World,total,1090324237.5478900
+2007,Sanitation,Open defecation,29.0755099432,world,World,rural,971939140.0867960
+2007,Sanitation,Open defecation,3.5195869542,world,World,urban,118385122.57625900
+2007,Sanitation,Safely managed service,33.7836438521,world,World,total,2265672598.702880
+2007,Sanitation,Safely managed service,28.659429488,world,World,rural,958030359.7894250
+2007,Sanitation,Safely managed service,38.8761739509,world,World,urban,1307642254.1517800
+2007,Sanitation,Unimproved,13.6665019462,world,World,total,916532838.0556030
+2007,Sanitation,Unimproved,20.6706026896,world,World,rural,690979035.0178980
+2007,Sanitation,Unimproved,6.7057088754,world,World,urban,225553787.2782520
+2007,Drinking water,Basic service,20.0589936564,world,World,total,1345240095.5865300
+2007,Drinking water,Basic service,30.4954949353,world,World,rural,1019406544.6088100
+2007,Drinking water,Basic service,9.6870246643,world,World,urban,325833575.7023710
+2007,Drinking water,Limited service,2.7835314372,world,World,total,186675271.98964600
+2007,Drinking water,Limited service,4.0851029385,world,World,rural,136557241.64316200
+2007,Drinking water,Limited service,1.4900079793,world,World,urban,50118033.61145520
+2007,Drinking water,Safely managed service,64.88220999880000,world,World,total,4351272644.866860
+2007,Drinking water,Safely managed service,43.5594605944,world,World,rural,1456110133.768000
+2007,Drinking water,Safely managed service,86.0731149206,world,World,urban,2895162527.022100
+2007,Drinking water,Surface water,3.3034872368,world,World,total,221545684.8097580
+2007,Drinking water,Surface water,6.1337348734,world,World,rural,205039120.89655600
+2007,Drinking water,Surface water,0.4907399225,world,World,urban,16506569.274811900
+2007,Drinking water,Unimproved,8.9717776708,world,World,total,601684972.7452470
+2007,Drinking water,Unimproved,15.7262066584,world,World,rural,525697255.3964540
+2007,Drinking water,Unimproved,2.2591125133,world,World,urban,75987698.3523402
+2008,Sanitation,Basic service,29.4718178184,world,World,total,2001069000.2376500
+2008,Sanitation,Basic service,16.3219744785,world,World,rural,546794107.6509350
+2008,Sanitation,Basic service,42.2788440964,world,World,urban,1454274893.6216600
+2008,Sanitation,Limited service,6.9923409194,world,World,total,474763950.3990470
+2008,Sanitation,Limited service,5.6567679403,world,World,rural,189504485.63555200
+2008,Sanitation,Limited service,8.2930954407,world,World,urban,285259465.9948420
+2008,Sanitation,Open defecation,15.5031831054,world,World,total,1052630662.5665800
+2008,Sanitation,Open defecation,28.0176292252,world,World,rural,938604247.3518130
+2008,Sanitation,Open defecation,3.31498916,world,World,urban,114026426.47996200
+2008,Sanitation,Safely managed service,34.8508283398,world,World,total,2366291507.809130
+2008,Sanitation,Safely managed service,29.9191125234,world,World,rural,1002304865.4738400
+2008,Sanitation,Safely managed service,39.6539740548,world,World,urban,1363986649.4157700
+2008,Sanitation,Unimproved,13.1818298169,world,World,total,895016085.3850930
+2008,Sanitation,Unimproved,20.0845158326,world,World,rural,672841078.5566210
+2008,Sanitation,Unimproved,6.4590972482,world,World,urban,222175018.36380200
+2008,Drinking water,Basic service,20.2464220601,world,World,total,1374685735.3637600
+2008,Drinking water,Basic service,30.9528573731,world,World,rural,1036935822.2477900
+2008,Drinking water,Basic service,9.8191039902,world,World,urban,337749924.7200090
+2008,Drinking water,Limited service,2.7776076587,world,World,total,188593205.03729300
+2008,Drinking water,Limited service,4.1134819111,world,World,rural,137803650.77037500
+2008,Drinking water,Limited service,1.476559707,world,World,urban,50789555.78651430
+2008,Drinking water,Safely managed service,65.1986286396,world,World,total,4426837714.342030
+2008,Drinking water,Safely managed service,43.8296012299,world,World,rural,1468313023.3274300
+2008,Drinking water,Safely managed service,86.01056443440000,world,World,urban,2958524697.5526100
+2008,Drinking water,Surface water,3.1494843848,world,World,total,213842783.9093500
+2008,Drinking water,Surface water,5.8936258613,world,World,rural,197439341.5394050
+2008,Drinking water,Surface water,0.4768828006,world,World,urban,16403444.770894600
+2008,Drinking water,Unimproved,8.6278572568,world,World,total,585811767.75187
+2008,Drinking water,Unimproved,15.2104336246,world,World,rural,509556946.7837610
+2008,Drinking water,Unimproved,2.2168890678,world,World,urban,76254831.04256330
+2009,Sanitation,Basic service,29.4340898793,world,World,total,2023223110.4122100
+2009,Sanitation,Basic service,16.4354574214,world,World,rural,551723085.8890970
+2009,Sanitation,Basic service,41.8416158474,world,World,urban,1471500030.6462400
+2009,Sanitation,Limited service,7.1601485027,world,World,total,492170064.8483080
+2009,Sanitation,Limited service,5.8890303195,world,World,rural,197689294.3994640
+2009,Sanitation,Limited service,8.3734631886,world,World,urban,294480772.05186900
+2009,Sanitation,Open defecation,14.7473592181,world,World,total,1013695280.1993700
+2009,Sanitation,Open defecation,26.9406477973,world,World,rural,904372598.673408
+2009,Sanitation,Open defecation,3.1085543493,world,World,urban,109322685.74290000
+2009,Sanitation,Safely managed service,35.9484867849,world,World,total,2471005882.832050
+2009,Sanitation,Safely managed service,31.2133192722,world,World,rural,1047802223.4584600
+2009,Sanitation,Safely managed service,40.4683247633,world,World,urban,1423203667.529930
+2009,Sanitation,Unimproved,12.709915615,world,World,total,873646683.4580640
+2009,Sanitation,Unimproved,19.5215451896,world,World,rural,655320194.4538350
+2009,Sanitation,Unimproved,6.2080418513,world,World,urban,218326505.5479150
+2009,Drinking water,Basic service,20.084715192,world,World,total,1380571307.2541600
+2009,Drinking water,Basic service,30.6978241476,world,World,rural,1030497529.4902400
+2009,Drinking water,Basic service,9.9542320401,world,World,urban,350073783.1322820
+2009,Drinking water,Limited service,2.7766705192,world,World,total,190861140.51708900
+2009,Drinking water,Limited service,4.1517908256,world,World,rural,139371773.3273140
+2009,Drinking water,Limited service,1.464083118,world,World,urban,51489367.92649030
+2009,Drinking water,Safely managed service,65.85203367380000,world,World,total,4526498252.292620
+2009,Drinking water,Safely managed service,44.8020991047,world,World,rural,1503964978.8006100
+2009,Drinking water,Safely managed service,85.9447326368,world,World,urban,3022533287.6763800
+2009,Drinking water,Surface water,3.0057525967,world,World,total,206607649.25168400
+2009,Drinking water,Surface water,5.669397425900000,world,World,rural,190316421.54823600
+2009,Drinking water,Surface water,0.463235687,world,World,urban,16291228.572600400
+2009,Drinking water,Unimproved,8.280828018400000,world,World,total,569202672.4413290
+2009,Drinking water,Unimproved,14.6788884962,world,World,rural,492756693.70786400
+2009,Drinking water,Unimproved,2.1737165181,world,World,urban,76445994.21461280
+2010,Sanitation,Basic service,29.374795194,world,World,total,2043947974.9580800
+2010,Sanitation,Basic service,16.520710734,world,World,rural,555642086.5722070
+2010,Sanitation,Basic service,41.4009064206,world,World,urban,1488305901.65035
+2010,Sanitation,Limited service,7.3245943723,world,World,total,509657675.4247420
+2010,Sanitation,Limited service,6.1165679866,world,World,rural,205718909.64356300
+2010,Sanitation,Limited service,8.454807925,world,World,urban,303938768.9791380
+2010,Sanitation,Open defecation,13.9901149567,world,World,total,973455881.0138840
+2010,Sanitation,Open defecation,25.8441685003,world,World,rural,869218518.6486530
+2010,Sanitation,Open defecation,2.8996199653,world,World,urban,104237367.72951100
+2010,Sanitation,Safely managed service,37.0579857012,world,World,total,2578557376.4771100
+2010,Sanitation,Safely managed service,32.5361715808,world,World,rural,1094291072.4186400
+2010,Sanitation,Safely managed service,41.2885354795,world,World,urban,1484266320.1708000
+2010,Sanitation,Unimproved,12.2525097758,world,World,total,852550371.1261870
+2010,Sanitation,Unimproved,18.9823811982,world,World,rural,638435601.645761
+2010,Sanitation,Unimproved,5.9561302096,world,World,urban,214114726.18229600
+2010,Drinking water,Basic service,19.9283371797,world,World,total,1386647435.4534200
+2010,Drinking water,Basic service,30.4362574191,world,World,rural,1023664529.455920
+2010,Drinking water,Basic service,10.0972667226,world,World,urban,362982913.9756660
+2010,Drinking water,Limited service,2.7744651473,world,World,total,193051981.5359910
+2010,Drinking water,Limited service,4.189117688900000,world,World,rural,140892854.49242700
+2010,Drinking water,Limited service,1.4509350406,world,World,urban,52159128.157681900
+2010,Drinking water,Safely managed service,66.49626009250000,world,World,total,4626922341.440270
+2010,Drinking water,Safely managed service,45.7851707623,world,World,rural,1539895481.8616100
+2010,Drinking water,Safely managed service,85.8732813022,world,World,urban,3087026889.1637600
+2010,Drinking water,Surface water,2.8632669186,world,World,total,199230959.10579500
+2010,Drinking water,Surface water,5.4433379197,world,World,rural,183076121.13776300
+2010,Drinking water,Surface water,0.4493867688,world,World,urban,16154839.0591717
+2010,Drinking water,Unimproved,7.9376706619,world,World,total,552316561.4645220
+2010,Drinking water,Unimproved,14.1461162101,world,World,rural,475777201.9878330
+2010,Drinking water,Unimproved,2.1291301658,world,World,urban,76539314.35581370
+2011,Sanitation,Basic service,29.2864247513,world,World,total,2062645367.3652400
+2011,Sanitation,Basic service,16.5803031601,world,World,rural,559017097.2495070
+2011,Sanitation,Basic service,40.9547833291,world,World,urban,1503628254.2938200
+2011,Sanitation,Limited service,7.4791272666,world,World,total,526755564.71613100
+2011,Sanitation,Limited service,6.3320375065,world,World,rural,213489294.6394890
+2011,Sanitation,Limited service,8.5325292913,world,World,urban,313266267.8225490
+2011,Sanitation,Open defecation,13.2964083462,world,World,total,936467162.2017800
+2011,Sanitation,Open defecation,24.8322014668,world,World,rural,837235908.6709090
+2011,Sanitation,Open defecation,2.7027922527,world,World,urban,99231261.0712443
+2011,Sanitation,Safely managed service,38.1650138398,world,World,total,2687965146.329420
+2011,Sanitation,Safely managed service,33.8742691773,world,World,rural,1142095861.8243100
+2011,Sanitation,Safely managed service,42.1053149302,world,World,urban,1545869274.3224300
+2011,Sanitation,Unimproved,11.7730257961,world,World,total,829175200.6061840
+2011,Sanitation,Unimproved,18.3811886893,world,World,rural,619735275.3968570
+2011,Sanitation,Unimproved,5.7045801967,world,World,urban,209439954.63769000
+2011,Drinking water,Basic service,19.7710089686,world,World,total,1392473830.5726100
+2011,Drinking water,Basic service,30.1410397363,world,World,rural,1016227289.6201300
+2011,Drinking water,Basic service,10.2479424297,world,World,urban,376246546.3887490
+2011,Drinking water,Limited service,2.7838356386,world,World,total,196065779.0162540
+2011,Drinking water,Limited service,4.240606265,world,World,rural,142975154.43162000
+2011,Drinking water,Limited service,1.4460456244,world,World,urban,53090625.345851900
+2011,Drinking water,Safely managed service,67.1290658029,world,World,total,4727905771.009540
+2011,Drinking water,Safely managed service,46.8195629377,world,World,rural,1578555947.6926800
+2011,Drinking water,Safely managed service,85.7798050117,world,World,urban,3149349794.551610
+2011,Drinking water,Surface water,2.7301022966,world,World,total,192281335.203445
+2011,Drinking water,Surface water,5.2225824545,world,World,rural,176083202.8021370
+2011,Drinking water,Surface water,0.4411935389,world,World,urban,16198134.058508200
+2011,Drinking water,Unimproved,7.585987293300000,world,World,total,534281725.4169010
+2011,Drinking water,Unimproved,13.5762086064,world,World,rural,457731843.2311300
+2011,Drinking water,Unimproved,2.0850133953,world,World,urban,76549911.80301450
+2012,Hygiene,Basic service,47.6015923538,world,World,rural,1609087316.5815600
+2012,Hygiene,Limited service,29.6043792963,world,World,rural,1000723481.8299800
+2012,Hygiene,No handwashing facility,22.7940283499,world,World,rural,770511659.3373070
+2012,Sanitation,Basic service,29.1926890893,world,World,total,2080906513.1460600
+2012,Sanitation,Basic service,16.6316148,world,World,rural,562202210.1706800
+2012,Sanitation,Basic service,40.5219662884,world,World,urban,1518704301.1432900
+2012,Sanitation,Limited service,7.6358928666,world,World,total,544299949.5931150
+2012,Sanitation,Limited service,6.5461400546,world,World,rural,221280642.38133600
+2012,Sanitation,Limited service,8.6187794335,world,World,urban,323019305.2109820
+2012,Sanitation,Open defecation,12.5408878285,world,World,total,893936666.2362360
+2012,Sanitation,Open defecation,23.6848342557,world,World,rural,800623771.4260170
+2012,Sanitation,Open defecation,2.4897680731,world,World,urban,93312882.5623806
+2012,Sanitation,Safely managed service,39.2872562045,world,World,total,2800465111.984040
+2012,Sanitation,Safely managed service,35.2573939451,world,World,rural,1191813605.543200
+2012,Sanitation,Safely managed service,42.9219312827,world,World,urban,1608651495.0552500
+2012,Sanitation,Unimproved,11.3432740111,world,World,total,808568635.040548
+2012,Sanitation,Unimproved,17.8800169446,world,World,rural,604402228.2276120
+2012,Sanitation,Unimproved,5.4475549222,world,World,urban,204166427.46745900
+2012,Drinking water,Basic service,19.6262942268,world,World,total,1398996966.6904800
+2012,Drinking water,Basic service,29.8329983312,world,World,rural,1008451542.4093900
+2012,Drinking water,Basic service,10.4205064351,world,World,urban,390545410.122609
+2012,Drinking water,Limited service,2.7820788812,world,World,total,198311503.4817780
+2012,Drinking water,Limited service,4.2792815181,world,World,rural,144653514.1866300
+2012,Drinking water,Limited service,1.4316988166,world,World,urban,53657987.25652200
+2012,Drinking water,Safely managed service,67.7430493777,world,World,total,4828844380.838470
+2012,Drinking water,Safely managed service,47.8540238881,world,World,rural,1617620316.425940
+2012,Drinking water,Safely managed service,85.6816647931,world,World,urban,3211224053.746100
+2012,Drinking water,Surface water,2.589834146,world,World,total,184607958.72192400
+2012,Drinking water,Surface water,4.990688484900000,world,World,rural,168701363.65136000
+2012,Drinking water,Surface water,0.4244186332,world,World,urban,15906592.467372800
+2012,Drinking water,Unimproved,7.2587433684,world,World,total,517416066.2744720
+2012,Drinking water,Unimproved,13.0430077777,world,World,rural,440895721.075521
+2012,Drinking water,Unimproved,2.041711322,world,World,urban,76520367.85051050
+2013,Hygiene,Basic service,62.14086710620000,world,World,total,4482485804.938840
+2013,Hygiene,Basic service,47.44589875400000,world,World,rural,1607673556.5535300
+2013,Hygiene,Limited service,20.1103262193,world,World,total,1450643610.3738800
+2013,Hygiene,Limited service,29.5030025145,world,World,rural,999690136.0730420
+2013,Hygiene,No handwashing facility,17.7488066746,world,World,total,1280297132.602460
+2013,Hygiene,No handwashing facility,23.0510987315,world,World,rural,781071554.1986220
+2013,Sanitation,Basic service,29.0872670532,world,World,total,2098188643.6764100
+2013,Sanitation,Basic service,16.6705825865,world,World,rural,564871896.2120690
+2013,Sanitation,Basic service,40.0868036294,world,World,urban,1533316740.2862300
+2013,Sanitation,Limited service,7.7708917549,world,World,total,560547568.8571470
+2013,Sanitation,Limited service,6.7165332723,world,World,rural,227585380.76335500
+2013,Sanitation,Limited service,8.704913603,world,World,urban,332962185.60155200
+2013,Sanitation,Open defecation,11.7840984411,world,World,total,850037285.3819150
+2013,Sanitation,Open defecation,22.5184440734,world,World,rural,763022896.0197050
+2013,Sanitation,Open defecation,2.2748910067,world,World,urban,87014382.46728890
+2013,Sanitation,Safely managed service,40.4293860664,world,World,total,2916344067.6699000
+2013,Sanitation,Safely managed service,36.6856292187,world,World,rural,1243068790.9660300
+2013,Sanitation,Safely managed service,43.7458583315,world,World,urban,1673275263.3009800
+2013,Sanitation,Unimproved,10.9283566844,world,World,total,788308982.3225840
+2013,Sanitation,Unimproved,17.4088108491,world,World,rural,589886282.864033
+2013,Sanitation,Unimproved,5.1875334294,world,World,urban,198422700.93741900
+2013,Drinking water,Basic service,19.4894781313,world,World,total,1405859189.5719100
+2013,Drinking water,Basic service,29.5239540492,world,World,rural,1000400065.2595700
+2013,Drinking water,Basic service,10.6002624833,world,World,urban,405459114.8582250
+2013,Drinking water,Limited service,2.7764372349,world,World,total,200276260.58827800
+2013,Drinking water,Limited service,4.3129021852,world,World,rural,146139897.80441100
+2013,Drinking water,Limited service,1.4153329394,world,World,urban,54136361.41019070
+2013,Drinking water,Safely managed service,68.3462761949,world,World,total,4930108431.549410
+2013,Drinking water,Safely managed service,48.8929256343,world,World,rural,1656705125.3966500
+2013,Drinking water,Safely managed service,85.5793661615,world,World,urban,3273403286.818190
+2013,Drinking water,Surface water,2.4482535366,world,World,total,176602970.56920000
+2013,Drinking water,Surface water,4.7546969662,world,World,rural,161109827.88244900
+2013,Drinking water,Surface water,0.4050503683,world,World,urban,15493141.23708270
+2013,Drinking water,Unimproved,6.9395549022,world,World,total,500579695.62194300
+2013,Drinking water,Unimproved,12.515521165,world,World,rural,424080330.4787270
+2013,Drinking water,Unimproved,1.9999880475,world,World,urban,76499368.26978770
+2014,Hygiene,Basic service,62.1397869216,world,World,total,4535243059.594410
+2014,Hygiene,Basic service,47.472461866,world,World,rural,1611985203.5304900
+2014,Hygiene,Limited service,20.2078589043,world,World,total,1474861057.3869300
+2014,Hygiene,Limited service,29.6461388854,world,World,rural,1006670717.0141800
+2014,Hygiene,No handwashing facility,17.6523541741,world,World,total,1288348749.1612400
+2014,Hygiene,No handwashing facility,22.8813992486,world,World,rural,776965751.8274560
+2014,Sanitation,Basic service,28.9619242807,world,World,total,2113772392.7547900
+2014,Sanitation,Basic service,16.6836942864,world,World,rural,566515138.9413100
+2014,Sanitation,Basic service,39.6444830119,world,World,urban,1547257262.1358900
+2014,Sanitation,Limited service,7.906370878600000,world,World,total,577042751.997044
+2014,Sanitation,Limited service,6.8828966488,world,World,rural,233717130.29362800
+2014,Sanitation,Limited service,8.7968350409,world,World,urban,343325624.8229640
+2014,Sanitation,Open defecation,11.0349962392,world,World,total,805383999.2986180
+2014,Sanitation,Open defecation,21.3538583794,world,World,rural,725096243.0185590
+2014,Sanitation,Open defecation,2.0571672278,world,World,urban,80287764.92522490
+2014,Sanitation,Safely managed service,41.5764100729,world,World,total,3034434692.604760
+2014,Sanitation,Safely managed service,38.1314347475,world,World,rural,1294799262.2725500
+2014,Sanitation,Safely managed service,44.573678619,world,World,urban,1739635447.4507100
+2014,Sanitation,Unimproved,10.5202985286,world,World,total,767819029.4873620
+2014,Sanitation,Unimproved,16.9481159379,world,World,rural,575493897.8460880
+2014,Sanitation,Unimproved,4.9278361005,world,World,urban,192325126.06673000
+2014,Drinking water,Basic service,19.3597874174,world,World,total,1412964959.6443400
+2014,Drinking water,Basic service,29.2148524154,world,World,rural,992025860.1688550
+2014,Drinking water,Basic service,10.7854807784,world,World,urban,420939111.6286530
+2014,Drinking water,Limited service,2.7651207745,world,World,total,201811036.41879900
+2014,Drinking water,Limited service,4.3410489893,world,World,rural,147405600.28896200
+2014,Drinking water,Limited service,1.3939992479,world,World,urban,54405437.928849100
+2014,Drinking water,Safely managed service,68.9426621254,world,World,total,5031747699.8862500
+2014,Drinking water,Safely managed service,49.9376389289,world,World,rural,1695693290.1406700
+2014,Drinking water,Safely managed service,85.4778042045,world,World,urban,3336054433.27746
+2014,Drinking water,Surface water,2.3099468663,world,World,total,168590383.269843
+2014,Drinking water,Surface water,4.5151142975,world,World,rural,153316199.6182830
+2014,Drinking water,Surface water,0.3913616704,world,World,urban,15274185.47660890
+2014,Drinking water,Unimproved,6.6224828164,world,World,total,483338786.9233460
+2014,Drinking water,Unimproved,11.9913453688,world,World,rural,407180722.15196500
+2014,Drinking water,Unimproved,1.9513540987,world,World,urban,76158057.08213980
+2015,Hygiene,Basic service,62.1977489143,world,World,total,4592065219.45571
+2015,Hygiene,Basic service,47.3963852098,world,World,rural,1612194346.229460
+2015,Hygiene,Limited service,20.2315552179,world,World,total,1493697483.8048600
+2015,Hygiene,Limited service,29.8111098187,world,World,rural,1014028865.1083900
+2015,Hygiene,No handwashing facility,17.5706958678,world,World,total,1297246006.2394300
+2015,Hygiene,No handwashing facility,22.7925049715,world,World,rural,775290087.8158380
+2015,Sanitation,Basic service,28.8148171349,world,World,total,2127400458.6961700
+2015,Sanitation,Basic service,16.6759450624,world,World,rural,567234489.0570990
+2015,Sanitation,Basic service,39.1854267486,world,World,urban,1560165961.54961
+2015,Sanitation,Limited service,8.0399513809,world,World,total,593590310.6914120
+2015,Sanitation,Limited service,7.044504749700000,world,World,rural,239619765.92055900
+2015,Sanitation,Limited service,8.890391858300000,world,World,urban,353970542.44542600
+2015,Sanitation,Open defecation,10.2908063458,world,World,total,759771128.7881930
+2015,Sanitation,Open defecation,20.1847217397,world,World,rural,686585994.3730610
+2015,Sanitation,Open defecation,1.8381317533,world,World,urban,73185131.11368940
+2015,Sanitation,Safely managed service,42.7285263519,world,World,total,3154650822.0017800
+2015,Sanitation,Safely managed service,39.5888341847,world,World,rural,1346619459.7724700
+2015,Sanitation,Safely managed service,45.4108612566,world,World,urban,1808031349.8112000
+2015,Sanitation,Unimproved,10.1258987866,world,World,total,747595989.3298330
+2015,Sanitation,Unimproved,16.5059942635,world,World,rural,561453590.0304970
+2015,Sanitation,Unimproved,4.6751883832,world,World,urban,186142410.18981400
+2015,Drinking water,Basic service,19.2265509214,world,World,total,1419497929.0634100
+2015,Drinking water,Basic service,28.8738629036,world,World,rural,982148286.6453570
+2015,Drinking water,Basic service,10.9845571352,world,World,urban,437349636.5111860
+2015,Drinking water,Limited service,2.7567985076,world,World,total,203534673.91947400
+2015,Drinking water,Limited service,4.3940955918,world,World,rural,149465745.9326030
+2015,Drinking water,Limited service,1.3580055171,world,World,urban,54068927.128672700
+2015,Drinking water,Safely managed service,69.53273860360000,world,World,total,5133608147.057660
+2015,Drinking water,Safely managed service,50.9864800523,world,World,rural,1734311899.7493300
+2015,Drinking water,Safely managed service,85.3773743318,world,World,urban,3399296227.486220
+2015,Drinking water,Surface water,2.1695856974,world,World,total,160180700.9991080
+2015,Drinking water,Surface water,4.2699520593,world,World,rural,145242987.16457600
+2015,Drinking water,Surface water,0.3751784607,world,World,urban,14937713.136214100
+2015,Drinking water,Unimproved,6.31432627,world,World,total,466187258.46034600
+2015,Drinking water,Unimproved,11.475609393,world,World,rural,390344379.66182500
+2015,Drinking water,Unimproved,1.9048845551,world,World,urban,75842890.84346320
+2016,Hygiene,Basic service,62.1797996625,world,World,total,4642943474.94374
+2016,Hygiene,Basic service,47.2426461732,world,World,rural,1609233763.957990
+2016,Hygiene,Limited service,20.361728666,world,World,total,1520403020.9411400
+2016,Hygiene,Limited service,30.0721792258,world,World,rural,1024353419.758400
+2016,Hygiene,No handwashing facility,17.4584716715,world,World,total,1303617856.114880
+2016,Hygiene,No handwashing facility,22.6851746011,world,World,rural,772728707.3534300
+2016,Sanitation,Basic service,28.6738496944,world,World,total,2141066135.026840
+2016,Sanitation,Basic service,16.6588267399,world,World,rural,567452262.5064340
+2016,Sanitation,Basic service,38.7527728526,world,World,urban,1573613864.2516400
+2016,Sanitation,Limited service,8.1662226479,world,World,total,609768934.0236240
+2016,Sanitation,Limited service,7.1793098377,world,World,rural,244549971.8704690
+2016,Sanitation,Limited service,8.9941044661,world,World,urban,365218962.22022100
+2016,Sanitation,Open defecation,9.550212202400000,world,World,total,713110940.6935390
+2016,Sanitation,Open defecation,19.0045834731,world,World,rural,647356146.8751850
+2016,Sanitation,Open defecation,1.6193178384,world,World,urban,65754804.458212400
+2016,Sanitation,Safely managed service,43.8607357128,world,World,total,3275065500.199600
+2016,Sanitation,Safely managed service,41.0511815997,world,World,rural,1398332922.3011100
+2016,Sanitation,Safely managed service,46.2175588682,world,World,urban,1876732580.7496700
+2016,Sanitation,Unimproved,9.7489797425,world,World,total,727952842.0561530
+2016,Sanitation,Unimproved,16.1060983497,world,World,rural,548624587.5166150
+2016,Sanitation,Unimproved,4.4162459747,world,World,urban,179328223.04526200
+2016,Drinking water,Basic service,19.0858537967,world,World,total,1425133899.2743800
+2016,Drinking water,Basic service,28.5124819656,world,World,rural,971225204.1316760
+2016,Drinking water,Basic service,11.1782321046,world,World,urban,453908706.98536800
+2016,Drinking water,Limited service,2.7539952389,world,World,total,205639842.74443400
+2016,Drinking water,Limited service,4.4502214539,world,World,rural,151588600.57184200
+2016,Drinking water,Limited service,1.3310988401,world,World,urban,54051244.21516340
+2016,Drinking water,Safely managed service,70.1035572232,world,World,total,5234607627.340090
+2016,Drinking water,Safely managed service,52.0242007419,world,World,rural,1772108617.071630
+2016,Drinking water,Safely managed service,85.26960796920000,world,World,urban,3462499001.2974700
+2016,Drinking water,Surface water,2.0333281791,world,World,total,151827890.29256300
+2016,Drinking water,Surface water,4.0281955207,world,World,rural,137213064.14482900
+2016,Drinking water,Surface water,0.3599136599,world,World,urban,14614828.397090800
+2016,Drinking water,Unimproved,6.023265562100000,world,World,total,449755092.3482850
+2016,Drinking water,Unimproved,10.984900318,world,World,rural,374180405.1498380
+2016,Drinking water,Unimproved,1.8611474263,world,World,urban,75574653.83397570
+2017,Hygiene,Basic service,60.1050349188,world,World,total,4538087632.747770
+2017,Hygiene,Basic service,45.464006947,world,World,rural,1550354472.5030100
+2017,Hygiene,Limited service,21.558353435,world,World,total,1627712174.8277700
+2017,Hygiene,Limited service,31.2064497149,world,World,rural,1064161787.2097400
+2017,Hygiene,No handwashing facility,18.3366116462,world,World,total,1384462227.674220
+2017,Hygiene,No handwashing facility,23.3295433381,world,World,rural,795553764.0542860
+2017,Sanitation,Basic service,28.5146064308,world,World,total,2152927503.845580
+2017,Sanitation,Basic service,16.6092615511,world,World,rural,566387449.3231240
+2017,Sanitation,Basic service,38.3204464489,world,World,urban,1586540049.6870900
+2017,Sanitation,Limited service,8.2995663537,world,World,total,626639007.4937740
+2017,Sanitation,Limited service,7.327831407800000,world,World,rural,249884182.22957300
+2017,Sanitation,Limited service,9.0999360586,world,World,urban,376754822.6718270
+2017,Sanitation,Open defecation,8.9159398175,world,World,total,673176819.1264190
+2017,Sanitation,Open defecation,18.0368576306,world,World,rural,615069475.2906270
+2017,Sanitation,Open defecation,1.4034937643,world,World,urban,58107336.2367353
+2017,Sanitation,Safely managed service,44.9869300408,world,World,total,3396631099.6948900
+2017,Sanitation,Safely managed service,42.5133787477,world,World,rural,1449735984.7658600
+2017,Sanitation,Safely managed service,47.0242710982,world,World,urban,1946895099.568420
+2017,Sanitation,Unimproved,9.2829573572,world,World,total,700887605.0890960
+2017,Sanitation,Unimproved,15.5126706628,world,World,rural,528992932.15784500
+2017,Sanitation,Unimproved,4.1518526299,world,World,urban,171894669.508061
+2017,Drinking water,Basic service,18.9598917654,world,World,total,1431521509.8874400
+2017,Drinking water,Basic service,28.1619917369,world,World,rural,960343638.3157750
+2017,Drinking water,Basic service,11.3805800018,world,World,urban,471177860.24755300
+2017,Drinking water,Limited service,2.7345522667,world,World,total,206465861.62671200
+2017,Drinking water,Limited service,4.4805702121,world,World,rural,152790581.69665700
+2017,Drinking water,Limited service,1.2964441839,world,World,urban,53675278.09687840
+2017,Drinking water,Safely managed service,70.644880085,world,World,total,5333873560.90547
+2017,Drinking water,Safely managed service,53.0371646301,world,World,rural,1808604452.5070100
+2017,Drinking water,Safely managed service,85.1474789042,world,World,urban,3525269090.7852800
+2017,Drinking water,Surface water,1.9033735273,world,World,total,143709688.82072600
+2017,Drinking water,Surface water,3.8028980391,world,World,rural,129681486.06577300
+2017,Drinking water,Surface water,0.3388297265,world,World,urban,14028201.154535400
+2017,Drinking water,Unimproved,5.7573023556,world,World,total,434691414.00940700
+2017,Drinking water,Unimproved,10.5173753819,world,World,rural,358649865.185225
+2017,Drinking water,Unimproved,1.8366671836,world,World,urban,76041547.39201990
