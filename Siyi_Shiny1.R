@@ -40,11 +40,11 @@ ui <- fluidPage(
                         , selected = "safe")
     ),
     column(6, align="left", style='padding-left:30px; padding-top: 10px; padding-bottom: 0px; padding-right: 10px;',
-                  sliderInput("year", "Year",
-                              min = min(water_income$year), max = max(water_income$year),
-                              value = min(water_income$year), animate = TRUE, step = 1)
+           sliderInput("year", "Year",
+                       min = min(water_income$year), max = max(water_income$year),
+                       value = min(water_income$year), animate = TRUE, step = 1)
     )
-  
+    
   ),
   plotlyOutput('plot'),
   hr(),
@@ -71,15 +71,15 @@ server <- function(input, output, session){
               hoverinfo = 'text',
               fill = ~'',
               text = ~ paste('</br> Country:', country,
-                            '</br> Water Service Coverage(%):', yy,
-                            '</br> GDP per capita($):', gdp,
-                            '</br> Gini:', gini)) %>%
+                             '</br> Water Service Coverage(%):', yy,
+                             '</br> GDP per capita($):', gdp,
+                             '</br> Gini:', gini)) %>%
       layout(title = "World Water Service Coverage by GDP per capita",
              yaxis = list(title = "Water Service Coverage (%)", range = c(0, 115)),
              xaxis = list(title = "GDP per capita (log) ($)", range = c(min(water_income$loggdp)-0.2, max(water_income$loggdp)+0.1)),
              legend = list(orientation = 'h', y = -0.2, title=list(text='<b> Region </b>'))) %>%
       highlight(on = "plotly_hover", off = "plotly_doubleclick", opacityDim = 0.4)
- })
+  })
 }
 
 ####################
