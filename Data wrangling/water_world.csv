@@ -1,0 +1,109 @@
+residence_type,year,service_type,basic_service,limited_service,open_defecation,safely_managed_service,unimproved,surface_water
+total,2000,Sanitation,27.9,5.5,21.5,28.2,16.9,NA
+rural,2000,Sanitation,14.1,3.6,36.1,21.8,24.5,NA
+urban,2000,Sanitation,43.8,7.6,4.8,35.6,8.3,NA
+total,2000,Drinking water,20.2,2.8,NA,61.3,11.5,4.2
+rural,2000,Drinking water,29.9,3.9,NA,39.4,19.5,7.3
+urban,2000,Drinking water,9.2,1.6,NA,86.2,2.5,0.6
+total,2001,Sanitation,28.4,5.7,20.6,28.4,16.9,NA
+rural,2001,Sanitation,14.5,3.9,34.9,22.1,24.7,NA
+urban,2001,Sanitation,44.1,7.7,4.6,35.5,8.1,NA
+total,2001,Drinking water,20.1,2.8,NA,61.7,11.3,4.1
+rural,2001,Drinking water,29.8,3.9,NA,39.9,19.1,7.2
+urban,2001,Drinking water,9.2,1.6,NA,86.1,2.5,0.6
+total,2002,Sanitation,29.2,5.9,19.9,28.7,16.3,NA
+rural,2002,Sanitation,15.4,4.1,34,22.5,23.9,NA
+urban,2002,Sanitation,44.5,7.8,4.4,35.4,7.9,NA
+total,2002,Drinking water,19.5,2.8,NA,62.8,10.8,4
+rural,2002,Drinking water,29,4,NA,41.5,18.5,7.1
+urban,2002,Drinking water,9.1,1.6,NA,86.3,2.4,0.6
+total,2003,Sanitation,29.4,6.1,19.2,29.6,15.8,NA
+rural,2003,Sanitation,15.6,4.4,33.1,23.7,23.2,NA
+urban,2003,Sanitation,44.2,7.9,4.3,35.9,7.7,NA
+total,2003,Drinking water,19.3,2.8,NA,63.6,10.4,3.9
+rural,2003,Drinking water,28.7,4,NA,42.6,17.9,6.9
+urban,2003,Drinking water,9.2,1.6,NA,86.3,2.4,0.5
+total,2004,Sanitation,29.4,6.3,18.5,30.6,15.2,NA
+rural,2004,Sanitation,15.7,4.7,32.1,25,22.6,NA
+urban,2004,Sanitation,43.9,8,4.1,36.5,7.5,NA
+total,2004,Drinking water,19.5,2.8,NA,63.9,10,3.7
+rural,2004,Drinking water,29.1,4,NA,42.8,17.3,6.8
+urban,2004,Drinking water,9.3,1.5,NA,86.2,2.4,0.5
+total,2005,Sanitation,29.7,6.5,17.8,31.5,14.7,NA
+rural,2005,Sanitation,16,4.9,31.1,26.1,21.9,NA
+urban,2005,Sanitation,43.8,8.1,3.9,37,7.2,NA
+total,2005,Drinking water,19.7,2.8,NA,64.2,9.7,3.6
+rural,2005,Drinking water,29.6,4,NA,43,16.8,6.6
+urban,2005,Drinking water,9.4,1.5,NA,86.2,2.3,0.5
+total,2006,Sanitation,29.4,6.6,17,32.7,14.2,NA
+rural,2006,Sanitation,16,5.2,30.1,27.4,21.3,NA
+urban,2006,Sanitation,43.1,8.1,3.7,38.1,7,NA
+total,2006,Drinking water,19.9,2.8,NA,64.6,9.3,3.4
+rural,2006,Drinking water,30,4.1,NA,43.3,16.3,6.3
+urban,2006,Drinking water,9.6,1.5,NA,86.1,2.3,0.5
+total,2007,Sanitation,29.5,6.8,16.3,33.8,13.7,NA
+rural,2007,Sanitation,16.2,5.4,29.1,28.7,20.7,NA
+urban,2007,Sanitation,42.7,8.2,3.5,38.9,6.7,NA
+total,2007,Drinking water,20.1,2.8,NA,64.9,9,3.3
+rural,2007,Drinking water,30.5,4.1,NA,43.6,15.7,6.1
+urban,2007,Drinking water,9.7,1.5,NA,86.1,2.3,0.5
+total,2008,Sanitation,29.5,7,15.5,34.9,13.2,NA
+rural,2008,Sanitation,16.3,5.7,28,29.9,20.1,NA
+urban,2008,Sanitation,42.3,8.3,3.3,39.7,6.5,NA
+total,2008,Drinking water,20.2,2.8,NA,65.2,8.6,3.1
+rural,2008,Drinking water,31,4.1,NA,43.8,15.2,5.9
+urban,2008,Drinking water,9.8,1.5,NA,86,2.2,0.5
+total,2009,Sanitation,29.4,7.2,14.7,35.9,12.7,NA
+rural,2009,Sanitation,16.4,5.9,26.9,31.2,19.5,NA
+urban,2009,Sanitation,41.8,8.4,3.1,40.5,6.2,NA
+total,2009,Drinking water,20.1,2.8,NA,65.9,8.3,3
+rural,2009,Drinking water,30.7,4.2,NA,44.8,14.7,5.7
+urban,2009,Drinking water,10,1.5,NA,85.9,2.2,0.5
+total,2010,Sanitation,29.4,7.3,14,37.1,12.3,NA
+rural,2010,Sanitation,16.5,6.1,25.8,32.5,19,NA
+urban,2010,Sanitation,41.4,8.5,2.9,41.3,6,NA
+total,2010,Drinking water,19.9,2.8,NA,66.5,7.9,2.9
+rural,2010,Drinking water,30.4,4.2,NA,45.8,14.1,5.4
+urban,2010,Drinking water,10.1,1.5,NA,85.9,2.1,0.4
+total,2011,Sanitation,29.3,7.5,13.3,38.2,11.8,NA
+rural,2011,Sanitation,16.6,6.3,24.8,33.9,18.4,NA
+urban,2011,Sanitation,41,8.5,2.7,42.1,5.7,NA
+total,2011,Drinking water,19.8,2.8,NA,67.1,7.6,2.7
+rural,2011,Drinking water,30.1,4.2,NA,46.8,13.6,5.2
+urban,2011,Drinking water,10.2,1.4,NA,85.8,2.1,0.4
+total,2012,Sanitation,29.2,7.6,12.5,39.3,11.3,NA
+rural,2012,Sanitation,16.6,6.5,23.7,35.3,17.9,NA
+urban,2012,Sanitation,40.5,8.6,2.5,42.9,5.4,NA
+total,2012,Drinking water,19.6,2.8,NA,67.7,7.3,2.6
+rural,2012,Drinking water,29.8,4.3,NA,47.9,13,5
+urban,2012,Drinking water,10.4,1.4,NA,85.7,2,0.4
+total,2013,Sanitation,29.1,7.8,11.8,40.4,10.9,NA
+rural,2013,Sanitation,16.7,6.7,22.5,36.7,17.4,NA
+urban,2013,Sanitation,40.1,8.7,2.3,43.7,5.2,NA
+total,2013,Drinking water,19.5,2.8,NA,68.3,6.9,2.4
+rural,2013,Drinking water,29.5,4.3,NA,48.9,12.5,4.8
+urban,2013,Drinking water,10.6,1.4,NA,85.6,2,0.4
+total,2014,Sanitation,29,7.9,11,41.6,10.5,NA
+rural,2014,Sanitation,16.7,6.9,21.4,38.1,16.9,NA
+urban,2014,Sanitation,39.6,8.8,2.1,44.6,4.9,NA
+total,2014,Drinking water,19.4,2.8,NA,68.9,6.6,2.3
+rural,2014,Drinking water,29.2,4.3,NA,49.9,12,4.5
+urban,2014,Drinking water,10.8,1.4,NA,85.5,2,0.4
+total,2015,Sanitation,28.8,8,10.3,42.7,10.1,NA
+rural,2015,Sanitation,16.7,7,20.2,39.6,16.5,NA
+urban,2015,Sanitation,39.2,8.9,1.8,45.4,4.7,NA
+total,2015,Drinking water,19.2,2.8,NA,69.5,6.3,2.2
+rural,2015,Drinking water,28.9,4.4,NA,51,11.5,4.3
+urban,2015,Drinking water,11,1.4,NA,85.4,1.9,0.4
+total,2016,Sanitation,28.7,8.2,9.6,43.9,9.7,NA
+rural,2016,Sanitation,16.7,7.2,19,41.1,16.1,NA
+urban,2016,Sanitation,38.8,9,1.6,46.2,4.4,NA
+total,2016,Drinking water,19.1,2.8,NA,70.1,6,2
+rural,2016,Drinking water,28.5,4.5,NA,52,11,4
+urban,2016,Drinking water,11.2,1.3,NA,85.3,1.9,0.4
+total,2017,Sanitation,28.5,8.3,8.9,45,9.3,NA
+rural,2017,Sanitation,16.6,7.3,18,42.5,15.5,NA
+urban,2017,Sanitation,38.3,9.1,1.4,47,4.2,NA
+total,2017,Drinking water,19,2.7,NA,70.6,5.8,1.9
+rural,2017,Drinking water,28.2,4.5,NA,53,10.5,3.8
+urban,2017,Drinking water,11.4,1.3,NA,85.1,1.8,0.3
