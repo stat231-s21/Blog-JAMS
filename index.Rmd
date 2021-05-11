@@ -92,13 +92,13 @@ tweets_sentiment <- tweets_final %>%
 
 First, we examine the word cloud addressing all the words except the ones displaced through data wrangling in order to get a sense about what are some of the most common words utilized in the focal tweets.
 
-```{r, echo=FALSE}
-# set.seed(73)
-# wordcloud(tweets_final$word, 
-#           max.words = 50, 
-#           scale = c(8, 1), 
-#           colors = topo.colors(n = 30), 
-#           random.color = TRUE)
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+set.seed(73)
+wordcloud(tweets_final$word, 
+          max.words = 50, 
+          scale = c(8, 1), 
+          colors = topo.colors(n = 30), 
+          random.color = TRUE)
 ```
 
 In the above word cloud, "https" stands out in its size, which implies that a lot of tweets related to water access advocacy refer to or cite other web resources. Also, "clean" is displayed largely in the visualization, which should be partly because "access to clean water" is one of the phrases we actively searched for when scraping tweets. However, given that we also looked for "access to drinking water" when gathering text while the word "drinking" does not have equally big size in the display as "clean," it seems like that the word "clean" possesses a particularly great importance for arguments for greater water access across the earth. Paying attention to other words displayed with smaller sizes, it can be seen that the cloud includes a lot of words related to potential use of water or implication of access to water: "sanitation," "healthcare," "health," "food," and "hygiene." Also, one of the interesting words to be observed in the cloud is "india," whose presence may be attributable to the socioeconomic standing of India as a country or the nation's especially large population.
