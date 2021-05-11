@@ -15,9 +15,16 @@ library(dplyr)
 path_in <- "~/Desktop/Blog-JAMS/Data wrangling/"
 
 water_deaths <- read_csv(paste0(path_in,"Deaths Due to Unsafe Water by Country.csv")) %>%
+#Selects only the observations that record the number of deaths  
   filter(metric %in% "Number") %>%
   select(location, val) %>%
-  rename(country = location, deaths = val)
+#Renames variables for clarity  
+  rename(country = location, deaths = val) %>%
+#Removes scientific notation and rounds to nearest integer-- number of deaths should be a number
+  mutate(deaths = round(deaths, digits = 0))
+
+  
+  
 
 ###################################################
 #Data wrangling for drinking water access by country
@@ -49,5 +56,11 @@ water_access <- water_access %>%
 
 water_acess_deaths <-
   inner_join(water_access, water_deaths, by = "country")
+
+
+#Shows which countries are missing from data the water_access data set
+#Needed to hard code a couple of countries
+diff <- water_deaths %>%
+  anti_join(water_acess_deaths, by= "country")
 
 
