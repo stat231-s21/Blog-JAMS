@@ -1,0 +1,986 @@
+ISO3,Country,SchoolType,Service Type,Year,Coverage,School-age population,ServiceLevel
+AFG,Afghanistan,primary,Drinking water,2019,58.15,3693760.106,Basic service
+AFG,Afghanistan,secondary,Drinking water,2019,74.06667,4187024.959,Basic service
+ALB,Albania,primary,Drinking water,2019,55.84374,89032.22515,Basic service
+ALB,Albania,secondary,Drinking water,2019,66.25047,178415.1568,Basic service
+AND,Andorra,primary,Drinking water,2019,100,7343,Basic service
+AND,Andorra,secondary,Drinking water,2019,100,8000,Basic service
+ARE,United Arab Emirates,primary,Drinking water,2019,100,483932,Basic service
+ARE,United Arab Emirates,secondary,Drinking water,2019,100,544496,Basic service
+ARM,Armenia,secondary,Drinking water,2019,94.93,273323.4053,Basic service
+ATG,Antigua and Barbuda,primary,Drinking water,2019,99.19355,9648.55661,Basic service
+ATG,Antigua and Barbuda,secondary,Drinking water,2019,100,6970,Basic service
+AUS,Australia,primary,Drinking water,2019,100,2270078,Basic service
+AUS,Australia,secondary,Drinking water,2019,100,1828813,Basic service
+AZE,Azerbaijan,primary,Drinking water,2019,100,490466,Basic service
+AZE,Azerbaijan,secondary,Drinking water,2019,100,892424,Basic service
+BDI,Burundi,primary,Drinking water,2019,44.52999,828209.7641,Basic service
+BDI,Burundi,secondary,Drinking water,2019,52.00391,860578.9052,Basic service
+BEL,Belgium,primary,Drinking water,2019,100,802098,Basic service
+BEL,Belgium,secondary,Drinking water,2019,100,764858,Basic service
+BEN,Benin,primary,Drinking water,2019,44.61415,833690.3445,Basic service
+BFA,Burkina Faso,secondary,Drinking water,2019,42.12309,1368523.506,Basic service
+BGD,Bangladesh,primary,Drinking water,2019,78.23459,11578665.36,Basic service
+BGD,Bangladesh,secondary,Drinking water,2019,93.00136,20137535.86,Basic service
+BHR,Bahrain,primary,Drinking water,2019,100,118149,Basic service
+BHR,Bahrain,secondary,Drinking water,2019,100,105036,Basic service
+BLR,Belarus,primary,Drinking water,2019,100,439718,Basic service
+BLR,Belarus,secondary,Drinking water,2019,100,645882,Basic service
+BRB,Barbados,primary,Drinking water,2019,100,19828,Basic service
+BRB,Barbados,secondary,Drinking water,2019,100,18617,Basic service
+BTN,Bhutan,primary,Drinking water,2019,58.29073,52640.02526,Basic service
+BTN,Bhutan,secondary,Drinking water,2019,63.08835,52637.13353,Basic service
+CAF,Central African Republic,primary,Drinking water,2019,15.95,130419.641,Basic service
+CHE,Switzerland,primary,Drinking water,2019,100,492580,Basic service
+CHE,Switzerland,secondary,Drinking water,2019,100,592793,Basic service
+CMR,Cameroon,primary,Drinking water,2019,34.09698,1418688.258,Basic service
+COK,Cook Islands,primary,Drinking water,2019,100,1626,Basic service
+COK,Cook Islands,secondary,Drinking water,2019,100,1889,Basic service
+CRI,Costa Rica,primary,Drinking water,2019,86.03497,368085.1329,Basic service
+CRI,Costa Rica,secondary,Drinking water,2019,75.64865,269876.5493,Basic service
+CUB,Cuba,primary,Drinking water,2019,100,729647,Basic service
+CUB,Cuba,secondary,Drinking water,2019,100,769386,Basic service
+CYM,Cayman Islands,primary,Drinking water,2019,100,6182,Basic service
+CYM,Cayman Islands,secondary,Drinking water,2019,100,6735,Basic service
+DEU,Germany,primary,Drinking water,2019,100,2923401,Basic service
+DEU,Germany,secondary,Drinking water,2019,100,7098011,Basic service
+DMA,Dominica,primary,Drinking water,2019,100,6121,Basic service
+DMA,Dominica,secondary,Drinking water,2019,100,4812,Basic service
+DNK,Denmark,primary,Drinking water,2019,100,460641,Basic service
+DNK,Denmark,secondary,Drinking water,2019,100,406488,Basic service
+DZA,Algeria,primary,Drinking water,2019,85.3,3589466.65,Basic service
+DZA,Algeria,secondary,Drinking water,2019,98.2,4244652.774,Basic service
+ECU,Ecuador,primary,Drinking water,2019,87,1637203.41,Basic service
+ECU,Ecuador,secondary,Drinking water,2019,95.5,1782807.37,Basic service
+ESP,Spain,primary,Drinking water,2019,100,2967048,Basic service
+ESP,Spain,secondary,Drinking water,2019,100,2716948,Basic service
+EST,Estonia,primary,Drinking water,2019,100,91514,Basic service
+EST,Estonia,secondary,Drinking water,2019,100,74420,Basic service
+ETH,Ethiopia,primary,Drinking water,2019,14.868,2502908.261,Basic service
+ETH,Ethiopia,secondary,Drinking water,2019,22.0248,3411623.68,Basic service
+FIN,Finland,primary,Drinking water,2019,100,371416,Basic service
+FIN,Finland,secondary,Drinking water,2019,100,354271,Basic service
+FRA,France,primary,Drinking water,2019,100,4245645,Basic service
+FRA,France,secondary,Drinking water,2019,100,5761170,Basic service
+GHA,Ghana,primary,Drinking water,2019,76.38602,3314976.816,Basic service
+GHA,Ghana,secondary,Drinking water,2019,79.12117,3493555.701,Basic service
+GIB,Gibraltar,primary,Drinking water,2019,100,2681,Basic service
+GIB,Gibraltar,secondary,Drinking water,2019,100,1855,Basic service
+GIN,Guinea,primary,Drinking water,2019,9.49871,194950.2002,Basic service
+GRD,Grenada,primary,Drinking water,2019,100,12533,Basic service
+GRD,Grenada,secondary,Drinking water,2019,98.6,7521.208,Basic service
+HKG,"China, Hong Kong Special Administrative Region",primary,Drinking water,2019,100,344220,Basic service
+HKG,"China, Hong Kong Special Administrative Region",secondary,Drinking water,2019,100,316862,Basic service
+HND,Honduras,primary,Drinking water,2019,64.63,780155.193,Basic service
+HND,Honduras,secondary,Drinking water,2019,51.54,535494.4152,Basic service
+HUN,Hungary,primary,Drinking water,2019,100,381632,Basic service
+HUN,Hungary,secondary,Drinking water,2019,100,777827,Basic service
+IDN,Indonesia,primary,Drinking water,2019,72.02755,19980289.93,Basic service
+IDN,Indonesia,secondary,Drinking water,2019,74.94953,20992477.63,Basic service
+IND,India,primary,Drinking water,2019,66.85601,82899101.45,Basic service
+IND,India,secondary,Drinking water,2019,75.49179,133947081.8,Basic service
+ISR,Israel,primary,Drinking water,2019,100,915685,Basic service
+ISR,Israel,secondary,Drinking water,2019,100,807267,Basic service
+ITA,Italy,primary,Drinking water,2019,100,2807694,Basic service
+ITA,Italy,secondary,Drinking water,2019,100,4585680,Basic service
+JAM,Jamaica,primary,Drinking water,2019,93.92449,256934.1994,Basic service
+JAM,Jamaica,secondary,Drinking water,2019,95.88538,228174.5957,Basic service
+KHM,Cambodia,primary,Drinking water,2019,80.10435,1627401.63,Basic service
+KHM,Cambodia,secondary,Drinking water,2019,76.0469,1357081.286,Basic service
+KNA,Saint Kitts and Nevis,primary,Drinking water,2019,78.79,3908.7719,Basic service
+KNA,Saint Kitts and Nevis,secondary,Drinking water,2019,100,3672,Basic service
+KOR,Republic of Korea,primary,Drinking water,2019,100,2730011,Basic service
+KOR,Republic of Korea,secondary,Drinking water,2019,100,2937860,Basic service
+KWT,Kuwait,primary,Drinking water,2019,100,313976,Basic service
+KWT,Kuwait,secondary,Drinking water,2019,100,342532,Basic service
+LBN,Lebanon,primary,Drinking water,2019,59.7,389590.857,Basic service
+LBN,Lebanon,secondary,Drinking water,2019,60.6,430818.126,Basic service
+LBR,Liberia,primary,Drinking water,2019,44.18011,341476.0226,Basic service
+LBR,Liberia,secondary,Drinking water,2019,64.81037,437170.5736,Basic service
+LCA,Saint Lucia,primary,Drinking water,2019,99.16667,15207.20833,Basic service
+LCA,Saint Lucia,secondary,Drinking water,2019,100,12679,Basic service
+LKA,Sri Lanka,primary,Drinking water,2019,84.44383,1441067.793,Basic service
+LKA,Sri Lanka,secondary,Drinking water,2019,87.81625,2398612.981,Basic service
+LVA,Latvia,primary,Drinking water,2019,100,118488,Basic service
+LVA,Latvia,secondary,Drinking water,2019,100,51163,Basic service
+MAC,"China, Macao Special Administrative Region",primary,Drinking water,2019,100,32099,Basic service
+MAC,"China, Macao Special Administrative Region",secondary,Drinking water,2019,100,25755,Basic service
+MAR,Morocco,primary,Drinking water,2019,73.99082,2857536.438,Basic service
+MAR,Morocco,secondary,Drinking water,2019,90.6,3259490.832,Basic service
+MCO,Monaco,primary,Drinking water,2019,100,3709,Basic service
+MCO,Monaco,secondary,Drinking water,2019,100,4041,Basic service
+MDV,Maldives,primary,Drinking water,2019,100,50361,Basic service
+MDV,Maldives,secondary,Drinking water,2019,100,26182,Basic service
+MEX,Mexico,secondary,Drinking water,2019,49.04,6610314.434,Basic service
+MHL,Marshall Islands,primary,Drinking water,2019,3.19,290.0667,Basic service
+MLI,Mali,primary,Drinking water,2019,70.07705,2368689.245,Basic service
+MMR,Myanmar,primary,Drinking water,2019,71.87072,3336217.416,Basic service
+MMR,Myanmar,secondary,Drinking water,2019,81.6782,4931255.293,Basic service
+MNG,Mongolia,primary,Drinking water,2019,72.7,229889.759,Basic service
+MNG,Mongolia,secondary,Drinking water,2019,73.4,236381.03,Basic service
+MSR,Montserrat,primary,Drinking water,2019,100,415,Basic service
+MSR,Montserrat,secondary,Drinking water,2019,100,329,Basic service
+MUS,Mauritius,primary,Drinking water,2019,100,86143,Basic service
+MUS,Mauritius,secondary,Drinking water,2019,100,125673,Basic service
+MWI,Malawi,primary,Drinking water,2019,87.27,2801223.005,Basic service
+MWI,Malawi,secondary,Drinking water,2019,81.7,2255183.074,Basic service
+MYS,Malaysia,primary,Drinking water,2019,97.13521,2934402.14,Basic service
+MYS,Malaysia,secondary,Drinking water,2019,98.90087,3373544.139,Basic service
+NER,Niger,primary,Drinking water,2019,16.13193,647737.9252,Basic service
+NGA,Nigeria,primary,Drinking water,2019,32.05479,10498609.18,Basic service
+NGA,Nigeria,secondary,Drinking water,2019,53.33333,14382354.3,Basic service
+NIU,Niue,primary,Drinking water,2019,100,160,Basic service
+NIU,Niue,secondary,Drinking water,2019,100,181,Basic service
+NLD,Netherlands,primary,Drinking water,2019,100,1102937,Basic service
+NLD,Netherlands,secondary,Drinking water,2019,100,1208345,Basic service
+NOR,Norway,primary,Drinking water,2019,100,447691,Basic service
+NOR,Norway,secondary,Drinking water,2019,100,382478,Basic service
+NPL,Nepal,primary,Drinking water,2019,39.01146,1089576.034,Basic service
+NPL,Nepal,secondary,Drinking water,2019,76.48106,3303972.782,Basic service
+PAK,Pakistan,primary,Drinking water,2019,52.00761,12847739.46,Basic service
+PAK,Pakistan,secondary,Drinking water,2019,80.62726,25498079,Basic service
+PER,Peru,primary,Drinking water,2019,79.40345,2599588.787,Basic service
+PER,Peru,secondary,Drinking water,2019,76.03,1974061.928,Basic service
+PHL,Philippines,primary,Drinking water,2019,45.3509,6014479.895,Basic service
+PHL,Philippines,secondary,Drinking water,2019,53.96065,5363158.177,Basic service
+PNG,Papua New Guinea,primary,Drinking water,2019,45.84034,652068.2701,Basic service
+PNG,Papua New Guinea,secondary,Drinking water,2019,65.18519,729444.3852,Basic service
+POL,Poland,primary,Drinking water,2019,100,2379791,Basic service
+POL,Poland,secondary,Drinking water,2019,100,2112951,Basic service
+PRT,Portugal,primary,Drinking water,2019,100,570522,Basic service
+PRT,Portugal,secondary,Drinking water,2019,100,627514,Basic service
+PRY,Paraguay,primary,Drinking water,2019,66.73418,546366.7458,Basic service
+PSE,West Bank and Gaza Strip,primary,Drinking water,2019,80.60837,385718.2814,Basic service
+PSE,West Bank and Gaza Strip,secondary,Drinking water,2019,85.90604,781086.9262,Basic service
+QAT,Qatar,primary,Drinking water,2019,100,153672,Basic service
+QAT,Qatar,secondary,Drinking water,2019,100,93932,Basic service
+ROU,Romania,primary,Drinking water,2019,63.52,676134.1936,Basic service
+ROU,Romania,secondary,Drinking water,2019,84.71,1387437.983,Basic service
+RWA,Rwanda,primary,Drinking water,2019,53.02252,1014510.072,Basic service
+RWA,Rwanda,secondary,Drinking water,2019,64.90381,1072142.805,Basic service
+SAU,Saudi Arabia,primary,Drinking water,2019,100,3366594,Basic service
+SAU,Saudi Arabia,secondary,Drinking water,2019,100,2826033,Basic service
+SEN,Senegal,primary,Drinking water,2019,42.4764,1124077.185,Basic service
+SEN,Senegal,secondary,Drinking water,2019,78.77214,1958856.689,Basic service
+SGP,Singapore,primary,Drinking water,2019,100,234158,Basic service
+SGP,Singapore,secondary,Drinking water,2019,100,162711,Basic service
+SLB,Solomon Islands,primary,Drinking water,2019,19.56,20090.4672,Basic service
+SLB,Solomon Islands,secondary,Drinking water,2019,18.73,18823.65,Basic service
+SLE,Sierra Leone,primary,Drinking water,2019,55.02094,677733.0422,Basic service
+SLE,Sierra Leone,secondary,Drinking water,2019,71.16302,878519.5317,Basic service
+SLV,El Salvador,primary,Drinking water,2019,80.03266,555010.4854,Basic service
+SLV,El Salvador,secondary,Drinking water,2019,83.90898,596307.5693,Basic service
+SMR,San Marino,primary,Drinking water,2019,100,1583,Basic service
+SMR,San Marino,secondary,Drinking water,2019,100,2463,Basic service
+SRB,Serbia,primary,Drinking water,2019,63.404,163054.7987,Basic service
+SRB,Serbia,secondary,Drinking water,2019,91.48,478977.3876,Basic service
+SSD,South Sudan,primary,Drinking water,2019,50.75758,905318.2878,Basic service
+SVK,Slovakia,primary,Drinking water,2019,100,229829,Basic service
+SVK,Slovakia,secondary,Drinking water,2019,100,485315,Basic service
+SVN,Slovenia,primary,Drinking water,2019,100,128676,Basic service
+SVN,Slovenia,secondary,Drinking water,2019,100,129746,Basic service
+SYC,Seychelles,primary,Drinking water,2019,100,9349,Basic service
+SYC,Seychelles,secondary,Drinking water,2019,100,9318,Basic service
+SYR,Syrian Arab Republic,primary,Drinking water,2019,49.16201,1066656.358,Basic service
+SYR,Syrian Arab Republic,secondary,Drinking water,2019,49.39189,963079.1642,Basic service
+TCA,Turks and Caicos Islands,primary,Drinking water,2019,100,3636,Basic service
+TCA,Turks and Caicos Islands,secondary,Drinking water,2019,100,3961,Basic service
+TCD,Chad,primary,Drinking water,2019,19.33626,535221.7671,Basic service
+TGO,Togo,primary,Drinking water,2019,20.20506,257502.9831,Basic service
+TLS,Timor-Leste,primary,Drinking water,2019,69.1099,127571.3518,Basic service
+TLS,Timor-Leste,secondary,Drinking water,2019,62.09229,115717.0452,Basic service
+TUN,Tunisia,primary,Drinking water,2019,69.5,748668.595,Basic service
+UGA,Uganda,primary,Drinking water,2019,70.04405,6418318.678,Basic service
+URY,Uruguay,primary,Drinking water,2019,100,280462,Basic service
+URY,Uruguay,secondary,Drinking water,2019,100,290117,Basic service
+USA,United States of America,primary,Drinking water,2019,100,24476828,Basic service
+USA,United States of America,secondary,Drinking water,2019,100,25422892,Basic service
+UZB,Uzbekistan,primary,Drinking water,2019,90.44566,2217249.126,Basic service
+UZB,Uzbekistan,secondary,Drinking water,2019,89.02338,3722022.116,Basic service
+VCT,Saint Vincent and the Grenadines,primary,Drinking water,2019,100,11570,Basic service
+VCT,Saint Vincent and the Grenadines,secondary,Drinking water,2019,98.76543,8867.1606,Basic service
+VEN,Venezuela (Bolivarian Republic of),primary,Drinking water,2019,97.49,3207654.976,Basic service
+VGB,British Virgin Islands,primary,Drinking water,2019,100,2342,Basic service
+VGB,British Virgin Islands,secondary,Drinking water,2019,84.27697,1835.55245,Basic service
+WSM,Samoa,primary,Drinking water,2019,100,29399,Basic service
+WSM,Samoa,secondary,Drinking water,2019,100,29342,Basic service
+YEM,Yemen,secondary,Drinking water,2019,45.98,1794365.362,Basic service
+ZMB,Zambia,primary,Drinking water,2019,78.06883,2722587.875,Basic service
+ZMB,Zambia,secondary,Drinking water,2019,94,1997569.56,Basic service
+ZWE,Zimbabwe,primary,Drinking water,2019,64.44365,1850705.713,Basic service
+ZWE,Zimbabwe,secondary,Drinking water,2019,68.96297,1383303.357,Basic service
+AFG,Afghanistan,primary,Drinking water,2019,0,0,Insufficient data
+AFG,Afghanistan,secondary,Drinking water,2019,25.93333,1466024.041,Insufficient data
+AGO,Angola,primary,Drinking water,2019,18.5,1054271.525,Insufficient data
+AGO,Angola,secondary,Drinking water,2019,48.24201,2186688.915,Insufficient data
+ALB,Albania,primary,Drinking water,2019,44.15627,70398.77485,Insufficient data
+ALB,Albania,secondary,Drinking water,2019,33.74953,90888.84318,Insufficient data
+AND,Andorra,primary,Drinking water,2019,0,0,Insufficient data
+AND,Andorra,secondary,Drinking water,2019,0,0,Insufficient data
+ARE,United Arab Emirates,primary,Drinking water,2019,0,0,Insufficient data
+ARE,United Arab Emirates,secondary,Drinking water,2019,0,0,Insufficient data
+ARG,Argentina,primary,Drinking water,2019,89.92481,3941667.092,Insufficient data
+ARG,Argentina,secondary,Drinking water,2019,100,4268654,Insufficient data
+ARM,Armenia,primary,Drinking water,2019,100,168119,Insufficient data
+ARM,Armenia,secondary,Drinking water,2019,5.07,14597.5947,Insufficient data
+ATG,Antigua and Barbuda,primary,Drinking water,2019,0,0,Insufficient data
+ATG,Antigua and Barbuda,secondary,Drinking water,2019,0,0,Insufficient data
+AUS,Australia,primary,Drinking water,2019,0,0,Insufficient data
+AUS,Australia,secondary,Drinking water,2019,0,0,Insufficient data
+AZE,Azerbaijan,primary,Drinking water,2019,0,0,Insufficient data
+AZE,Azerbaijan,secondary,Drinking water,2019,0,0,Insufficient data
+BDI,Burundi,primary,Drinking water,2019,0,0,Insufficient data
+BDI,Burundi,secondary,Drinking water,2019,0,0,Insufficient data
+BEL,Belgium,primary,Drinking water,2019,0,0,Insufficient data
+BEL,Belgium,secondary,Drinking water,2019,0,0,Insufficient data
+BEN,Benin,primary,Drinking water,2019,0,0,Insufficient data
+BEN,Benin,secondary,Drinking water,2019,73.08571,1327906.037,Insufficient data
+BFA,Burkina Faso,primary,Drinking water,2019,59.18286,2024468.586,Insufficient data
+BFA,Burkina Faso,secondary,Drinking water,2019,0,0,Insufficient data
+BGD,Bangladesh,primary,Drinking water,2019,0,0,Insufficient data
+BGD,Bangladesh,secondary,Drinking water,2019,0,0,Insufficient data
+BHR,Bahrain,primary,Drinking water,2019,0,0,Insufficient data
+BHR,Bahrain,secondary,Drinking water,2019,0,0,Insufficient data
+BLR,Belarus,primary,Drinking water,2019,0,0,Insufficient data
+BLR,Belarus,secondary,Drinking water,2019,0,0,Insufficient data
+BLZ,Belize,primary,Drinking water,2019,100,45604,Insufficient data
+BLZ,Belize,secondary,Drinking water,2019,100,47046,Insufficient data
+BMU,Bermuda,primary,Drinking water,2019,100,3716,Insufficient data
+BMU,Bermuda,secondary,Drinking water,2019,100,4913,Insufficient data
+BOL,Bolivia (Plurinational State of),primary,Drinking water,2019,100,1407263,Insufficient data
+BOL,Bolivia (Plurinational State of),secondary,Drinking water,2019,100,1379790,Insufficient data
+BRA,Brazil,primary,Drinking water,2019,82.19243,11563485.77,Insufficient data
+BRA,Brazil,secondary,Drinking water,2019,93.53829,22047551.75,Insufficient data
+BRB,Barbados,primary,Drinking water,2019,0,0,Insufficient data
+BRB,Barbados,secondary,Drinking water,2019,0,0,Insufficient data
+BRN,Brunei Darussalam,primary,Drinking water,2019,100,39197,Insufficient data
+BRN,Brunei Darussalam,secondary,Drinking water,2019,100,46342,Insufficient data
+BTN,Bhutan,primary,Drinking water,2019,0,0,Insufficient data
+BTN,Bhutan,secondary,Drinking water,2019,0,0,Insufficient data
+BWA,Botswana,primary,Drinking water,2019,100,357186,Insufficient data
+BWA,Botswana,secondary,Drinking water,2019,100,229743,Insufficient data
+CAF,Central African Republic,primary,Drinking water,2019,0,0,Insufficient data
+CAF,Central African Republic,secondary,Drinking water,2019,42.29392,355342.096,Insufficient data
+CHE,Switzerland,primary,Drinking water,2019,0,0,Insufficient data
+CHE,Switzerland,secondary,Drinking water,2019,0,0,Insufficient data
+CHL,Chile,primary,Drinking water,2019,96.33009,1461283.146,Insufficient data
+CHL,Chile,secondary,Drinking water,2019,100,1482882,Insufficient data
+CHN,China,primary,Drinking water,2019,99.40642,101746632.9,Insufficient data
+CHN,China,secondary,Drinking water,2019,99.59921,98716676.94,Insufficient data
+CIV,Côte d’Ivoire,primary,Drinking water,2019,43.75497,1746391.301,Insufficient data
+CIV,Côte d’Ivoire,secondary,Drinking water,2019,86.18227,3514552.465,Insufficient data
+CMR,Cameroon,primary,Drinking water,2019,0,0,Insufficient data
+CMR,Cameroon,secondary,Drinking water,2019,100,4016393,Insufficient data
+COD,Democratic Republic of the Congo,primary,Drinking water,2019,48.67495,7147656.813,Insufficient data
+COD,Democratic Republic of the Congo,secondary,Drinking water,2019,43.5,5066463.705,Insufficient data
+COG,Congo,primary,Drinking water,2019,39.6,340091.136,Insufficient data
+COG,Congo,secondary,Drinking water,2019,68.12597,549126.6886,Insufficient data
+COK,Cook Islands,primary,Drinking water,2019,0,0,Insufficient data
+COK,Cook Islands,secondary,Drinking water,2019,0,0,Insufficient data
+COL,Colombia,primary,Drinking water,2019,73.51029,2749511.254,Insufficient data
+COL,Colombia,secondary,Drinking water,2019,100,4869102,Insufficient data
+COM,Comoros,primary,Drinking water,2019,10.8295,13811.83601,Insufficient data
+COM,Comoros,secondary,Drinking water,2019,12.27,15522.5316,Insufficient data
+CPV,Cabo Verde,primary,Drinking water,2019,100,62045,Insufficient data
+CPV,Cabo Verde,secondary,Drinking water,2019,100,60249,Insufficient data
+CRI,Costa Rica,primary,Drinking water,2019,0,0,Insufficient data
+CRI,Costa Rica,secondary,Drinking water,2019,0,0,Insufficient data
+CUB,Cuba,primary,Drinking water,2019,0,0,Insufficient data
+CUB,Cuba,secondary,Drinking water,2019,0,0,Insufficient data
+CYM,Cayman Islands,primary,Drinking water,2019,0,0,Insufficient data
+CYM,Cayman Islands,secondary,Drinking water,2019,0,0,Insufficient data
+DEU,Germany,primary,Drinking water,2019,0,0,Insufficient data
+DEU,Germany,secondary,Drinking water,2019,0,0,Insufficient data
+DJI,Djibouti,primary,Drinking water,2019,86.83,79233.2433,Insufficient data
+DJI,Djibouti,secondary,Drinking water,2019,75.74737,95465.16589,Insufficient data
+DMA,Dominica,primary,Drinking water,2019,0,0,Insufficient data
+DMA,Dominica,secondary,Drinking water,2019,0,0,Insufficient data
+DNK,Denmark,primary,Drinking water,2019,0,0,Insufficient data
+DNK,Denmark,secondary,Drinking water,2019,0,0,Insufficient data
+DOM,Dominican Republic,primary,Drinking water,2019,89.84564,1040899.494,Insufficient data
+DOM,Dominican Republic,secondary,Drinking water,2019,100,1152781,Insufficient data
+DZA,Algeria,primary,Drinking water,2019,0,0,Insufficient data
+DZA,Algeria,secondary,Drinking water,2019,0,0,Insufficient data
+ECU,Ecuador,primary,Drinking water,2019,0,0,Insufficient data
+ECU,Ecuador,secondary,Drinking water,2019,0,0,Insufficient data
+EGY,Egypt,primary,Drinking water,2019,100,12466019,Insufficient data
+EGY,Egypt,secondary,Drinking water,2019,100,10520481,Insufficient data
+ERI,Eritrea,primary,Drinking water,2019,64.59643,327114.3764,Insufficient data
+ERI,Eritrea,secondary,Drinking water,2019,80.08214,457998.584,Insufficient data
+ESP,Spain,primary,Drinking water,2019,0,0,Insufficient data
+ESP,Spain,secondary,Drinking water,2019,0,0,Insufficient data
+EST,Estonia,primary,Drinking water,2019,0,0,Insufficient data
+EST,Estonia,secondary,Drinking water,2019,0,0,Insufficient data
+ETH,Ethiopia,primary,Drinking water,2019,0,0,Insufficient data
+ETH,Ethiopia,secondary,Drinking water,2019,0,0,Insufficient data
+FIN,Finland,primary,Drinking water,2019,0,0,Insufficient data
+FIN,Finland,secondary,Drinking water,2019,0,0,Insufficient data
+FJI,Fiji,primary,Drinking water,2019,100,104471,Insufficient data
+FJI,Fiji,secondary,Drinking water,2019,100,107856,Insufficient data
+FRA,France,primary,Drinking water,2019,0,0,Insufficient data
+FRA,France,secondary,Drinking water,2019,0,0,Insufficient data
+GAB,Gabon,primary,Drinking water,2019,100,250029,Insufficient data
+GAB,Gabon,secondary,Drinking water,2019,100,281095,Insufficient data
+GEO,Georgia,primary,Drinking water,2019,99.91342,318501.0029,Insufficient data
+GEO,Georgia,secondary,Drinking water,2019,100,266170,Insufficient data
+GHA,Ghana,primary,Drinking water,2019,0,0,Insufficient data
+GHA,Ghana,secondary,Drinking water,2019,0,0,Insufficient data
+GIB,Gibraltar,primary,Drinking water,2019,0,0,Insufficient data
+GIB,Gibraltar,secondary,Drinking water,2019,0,0,Insufficient data
+GIN,Guinea,primary,Drinking water,2019,0,0,Insufficient data
+GIN,Guinea,secondary,Drinking water,2019,100,2067540,Insufficient data
+GMB,Gambia,primary,Drinking water,2019,85.04028,313424.4478,Insufficient data
+GMB,Gambia,secondary,Drinking water,2019,88.6819,270343.2264,Insufficient data
+GNB,Guinea-Bissau,primary,Drinking water,2019,100,306306,Insufficient data
+GNB,Guinea-Bissau,secondary,Drinking water,2019,100,254296,Insufficient data
+GNQ,Equatorial Guinea,primary,Drinking water,2019,25.85,45845.2335,Insufficient data
+GNQ,Equatorial Guinea,secondary,Drinking water,2019,51.5,73947.82,Insufficient data
+GRD,Grenada,primary,Drinking water,2019,0,0,Insufficient data
+GRD,Grenada,secondary,Drinking water,2019,0,0,Insufficient data
+GTM,Guatemala,primary,Drinking water,2019,81.05418,1882314.714,Insufficient data
+GTM,Guatemala,secondary,Drinking water,2019,100,1953851,Insufficient data
+GUY,Guyana,primary,Drinking water,2019,100,85191,Insufficient data
+GUY,Guyana,secondary,Drinking water,2019,100,74974,Insufficient data
+HKG,"China, Hong Kong Special Administrative Region",primary,Drinking water,2019,0,0,Insufficient data
+HKG,"China, Hong Kong Special Administrative Region",secondary,Drinking water,2019,0,0,Insufficient data
+HND,Honduras,primary,Drinking water,2019,35.37,426954.807,Insufficient data
+HND,Honduras,secondary,Drinking water,2019,48.46,503493.5848,Insufficient data
+HRV,Croatia,primary,Drinking water,2019,100,170919,Insufficient data
+HRV,Croatia,secondary,Drinking water,2019,100,325706,Insufficient data
+HTI,Haiti,primary,Drinking water,2019,48.42973,711449.7356,Insufficient data
+HTI,Haiti,secondary,Drinking water,2019,100,1619282,Insufficient data
+HUN,Hungary,primary,Drinking water,2019,0,0,Insufficient data
+HUN,Hungary,secondary,Drinking water,2019,0,0,Insufficient data
+IDN,Indonesia,primary,Drinking water,2019,0,0,Insufficient data
+IDN,Indonesia,secondary,Drinking water,2019,0,0,Insufficient data
+IND,India,primary,Drinking water,2019,0,0,Insufficient data
+IND,India,secondary,Drinking water,2019,0,0,Insufficient data
+IRN,Iran (Islamic Republic of),primary,Drinking water,2019,100,7738447,Insufficient data
+IRN,Iran (Islamic Republic of),secondary,Drinking water,2019,100,6725422,Insufficient data
+IRQ,Iraq,primary,Drinking water,2019,80.72,4612973.645,Insufficient data
+IRQ,Iraq,secondary,Drinking water,2019,91.36204,4605605.93,Insufficient data
+ISR,Israel,primary,Drinking water,2019,0,0,Insufficient data
+ISR,Israel,secondary,Drinking water,2019,0,0,Insufficient data
+ITA,Italy,primary,Drinking water,2019,0,0,Insufficient data
+ITA,Italy,secondary,Drinking water,2019,0,0,Insufficient data
+JAM,Jamaica,primary,Drinking water,2019,6.07551,16619.80063,Insufficient data
+JAM,Jamaica,secondary,Drinking water,2019,4.11462,9791.40435,Insufficient data
+JOR,Jordan,primary,Drinking water,2019,100,1402461,Insufficient data
+JOR,Jordan,secondary,Drinking water,2019,100,1277394,Insufficient data
+KEN,Kenya,primary,Drinking water,2019,100,8295076,Insufficient data
+KEN,Kenya,secondary,Drinking water,2019,100,7506670,Insufficient data
+KGZ,Kyrgyzstan,primary,Drinking water,2019,100,519775,Insufficient data
+KGZ,Kyrgyzstan,secondary,Drinking water,2019,100,724083,Insufficient data
+KHM,Cambodia,primary,Drinking water,2019,0,0,Insufficient data
+KHM,Cambodia,secondary,Drinking water,2019,0,0,Insufficient data
+KIR,Kiribati,primary,Drinking water,2019,100,17019,Insufficient data
+KIR,Kiribati,secondary,Drinking water,2019,100,15328,Insufficient data
+KNA,Saint Kitts and Nevis,primary,Drinking water,2019,21.21,1052.2281,Insufficient data
+KNA,Saint Kitts and Nevis,secondary,Drinking water,2019,0,0,Insufficient data
+KOR,Republic of Korea,primary,Drinking water,2019,0,0,Insufficient data
+KOR,Republic of Korea,secondary,Drinking water,2019,0,0,Insufficient data
+KWT,Kuwait,primary,Drinking water,2019,0,0,Insufficient data
+KWT,Kuwait,secondary,Drinking water,2019,0,0,Insufficient data
+LAO,Lao People's Democratic Republic,primary,Drinking water,2019,67.325,518607.8413,Insufficient data
+LAO,Lao People's Democratic Republic,secondary,Drinking water,2019,100,1012875,Insufficient data
+LBN,Lebanon,primary,Drinking water,2019,0,0,Insufficient data
+LBN,Lebanon,secondary,Drinking water,2019,0,0,Insufficient data
+LBR,Liberia,primary,Drinking water,2019,0,0,Insufficient data
+LBR,Liberia,secondary,Drinking water,2019,0,0,Insufficient data
+LBY,Libya,primary,Drinking water,2019,100,766337,Insufficient data
+LBY,Libya,secondary,Drinking water,2019,100,681192,Insufficient data
+LCA,Saint Lucia,primary,Drinking water,2019,0,0,Insufficient data
+LCA,Saint Lucia,secondary,Drinking water,2019,0,0,Insufficient data
+LKA,Sri Lanka,primary,Drinking water,2019,15.55617,265472.2066,Insufficient data
+LKA,Sri Lanka,secondary,Drinking water,2019,12.18375,332787.0192,Insufficient data
+LSO,Lesotho,primary,Drinking water,2019,100,304142,Insufficient data
+LSO,Lesotho,secondary,Drinking water,2019,100,217958,Insufficient data
+LVA,Latvia,primary,Drinking water,2019,0,0,Insufficient data
+LVA,Latvia,secondary,Drinking water,2019,0,0,Insufficient data
+MAC,"China, Macao Special Administrative Region",primary,Drinking water,2019,0,0,Insufficient data
+MAC,"China, Macao Special Administrative Region",secondary,Drinking water,2019,0,0,Insufficient data
+MAR,Morocco,primary,Drinking water,2019,0,0,Insufficient data
+MAR,Morocco,secondary,Drinking water,2019,0,0,Insufficient data
+MCO,Monaco,primary,Drinking water,2019,0,0,Insufficient data
+MCO,Monaco,secondary,Drinking water,2019,0,0,Insufficient data
+MDA,Republic of Moldova,primary,Drinking water,2019,100,122576,Insufficient data
+MDA,Republic of Moldova,secondary,Drinking water,2019,100,214696,Insufficient data
+MDG,Madagascar,primary,Drinking water,2019,36.8,1276045.152,Insufficient data
+MDG,Madagascar,secondary,Drinking water,2019,25.9,1118875.856,Insufficient data
+MDV,Maldives,primary,Drinking water,2019,0,0,Insufficient data
+MDV,Maldives,secondary,Drinking water,2019,0,0,Insufficient data
+MEX,Mexico,primary,Drinking water,2019,83.35327,11160490.72,Insufficient data
+MEX,Mexico,secondary,Drinking water,2019,0,0,Insufficient data
+MHL,Marshall Islands,primary,Drinking water,2019,96.81,8802.9333,Insufficient data
+MHL,Marshall Islands,secondary,Drinking water,2019,100,9014,Insufficient data
+MLI,Mali,primary,Drinking water,2019,0,0,Insufficient data
+MLI,Mali,secondary,Drinking water,2019,100,2658163,Insufficient data
+MMR,Myanmar,primary,Drinking water,2019,28.12928,1305752.584,Insufficient data
+MMR,Myanmar,secondary,Drinking water,2019,18.3218,1106163.707,Insufficient data
+MNG,Mongolia,primary,Drinking water,2019,0,0,Insufficient data
+MNG,Mongolia,secondary,Drinking water,2019,0,0,Insufficient data
+MOZ,Mozambique,primary,Drinking water,2019,100,5963908,Insufficient data
+MOZ,Mozambique,secondary,Drinking water,2019,100,3657186,Insufficient data
+MRT,Mauritania,primary,Drinking water,2019,18.1,122120.881,Insufficient data
+MRT,Mauritania,secondary,Drinking water,2019,41.925,276464.3505,Insufficient data
+MSR,Montserrat,primary,Drinking water,2019,0,0,Insufficient data
+MSR,Montserrat,secondary,Drinking water,2019,0,0,Insufficient data
+MUS,Mauritius,primary,Drinking water,2019,0,0,Insufficient data
+MUS,Mauritius,secondary,Drinking water,2019,0,0,Insufficient data
+MWI,Malawi,primary,Drinking water,2019,0,0,Insufficient data
+MWI,Malawi,secondary,Drinking water,2019,0,0,Insufficient data
+MYS,Malaysia,primary,Drinking water,2019,0,0,Insufficient data
+MYS,Malaysia,secondary,Drinking water,2019,0,0,Insufficient data
+NAM,Namibia,primary,Drinking water,2019,100,405849,Insufficient data
+NAM,Namibia,secondary,Drinking water,2019,100,245419,Insufficient data
+NER,Niger,primary,Drinking water,2019,0,0,Insufficient data
+NER,Niger,secondary,Drinking water,2019,55.01603,1948206.136,Insufficient data
+NGA,Nigeria,primary,Drinking water,2019,0,0,Insufficient data
+NGA,Nigeria,secondary,Drinking water,2019,0,0,Insufficient data
+NIC,Nicaragua,primary,Drinking water,2019,68.4573,536729.1559,Insufficient data
+NIC,Nicaragua,secondary,Drinking water,2019,100,619484,Insufficient data
+NIU,Niue,primary,Drinking water,2019,0,0,Insufficient data
+NIU,Niue,secondary,Drinking water,2019,0,0,Insufficient data
+NLD,Netherlands,primary,Drinking water,2019,0,0,Insufficient data
+NLD,Netherlands,secondary,Drinking water,2019,0,0,Insufficient data
+NOR,Norway,primary,Drinking water,2019,0,0,Insufficient data
+NOR,Norway,secondary,Drinking water,2019,0,0,Insufficient data
+NPL,Nepal,primary,Drinking water,2019,60.98854,1703387.966,Insufficient data
+NPL,Nepal,secondary,Drinking water,2019,23.51894,1016015.218,Insufficient data
+NRU,Nauru,primary,Drinking water,2019,100,1525,Insufficient data
+NRU,Nauru,secondary,Drinking water,2019,100,1244,Insufficient data
+OMN,Oman,primary,Drinking water,2019,100,281762,Insufficient data
+OMN,Oman,secondary,Drinking water,2019,100,407671,Insufficient data
+PAK,Pakistan,primary,Drinking water,2019,0,0,Insufficient data
+PAK,Pakistan,secondary,Drinking water,2019,0,0,Insufficient data
+PAN,Panama,primary,Drinking water,2019,80.27349,363291.339,Insufficient data
+PAN,Panama,secondary,Drinking water,2019,100,431496,Insufficient data
+PER,Peru,primary,Drinking water,2019,0,0,Insufficient data
+PER,Peru,secondary,Drinking water,2019,0,0,Insufficient data
+PHL,Philippines,primary,Drinking water,2019,0,0,Insufficient data
+PHL,Philippines,secondary,Drinking water,2019,0,0,Insufficient data
+PNG,Papua New Guinea,primary,Drinking water,2019,0,0,Insufficient data
+PNG,Papua New Guinea,secondary,Drinking water,2019,0,0,Insufficient data
+POL,Poland,primary,Drinking water,2019,0,0,Insufficient data
+POL,Poland,secondary,Drinking water,2019,0,0,Insufficient data
+PRK,Democratic People's Republic of Korea,primary,Drinking water,2019,100,1381659,Insufficient data
+PRK,Democratic People's Republic of Korea,secondary,Drinking water,2019,100,2324048,Insufficient data
+PRT,Portugal,primary,Drinking water,2019,0,0,Insufficient data
+PRT,Portugal,secondary,Drinking water,2019,0,0,Insufficient data
+PRY,Paraguay,primary,Drinking water,2019,0,0,Insufficient data
+PRY,Paraguay,secondary,Drinking water,2019,100,796500,Insufficient data
+PSE,West Bank and Gaza Strip,primary,Drinking water,2019,0,0,Insufficient data
+PSE,West Bank and Gaza Strip,secondary,Drinking water,2019,0,0,Insufficient data
+QAT,Qatar,primary,Drinking water,2019,0,0,Insufficient data
+QAT,Qatar,secondary,Drinking water,2019,0,0,Insufficient data
+ROU,Romania,primary,Drinking water,2019,36.48,388308.8064,Insufficient data
+ROU,Romania,secondary,Drinking water,2019,15.29,250430.0172,Insufficient data
+RUS,Russian Federation,primary,Drinking water,2019,100,6838010,Insufficient data
+RUS,Russian Federation,secondary,Drinking water,2019,100,10176469,Insufficient data
+RWA,Rwanda,primary,Drinking water,2019,46.97748,898846.9275,Insufficient data
+RWA,Rwanda,secondary,Drinking water,2019,35.09619,579752.1949,Insufficient data
+SAU,Saudi Arabia,primary,Drinking water,2019,0,0,Insufficient data
+SAU,Saudi Arabia,secondary,Drinking water,2019,0,0,Insufficient data
+SDN,Sudan,primary,Drinking water,2019,86.3,5682416.596,Insufficient data
+SDN,Sudan,secondary,Drinking water,2019,95.3645,4704094.281,Insufficient data
+SEN,Senegal,primary,Drinking water,2019,0,0,Insufficient data
+SEN,Senegal,secondary,Drinking water,2019,0,0,Insufficient data
+SGP,Singapore,primary,Drinking water,2019,0,0,Insufficient data
+SGP,Singapore,secondary,Drinking water,2019,0,0,Insufficient data
+SLB,Solomon Islands,primary,Drinking water,2019,80.44,82621.5328,Insufficient data
+SLB,Solomon Islands,secondary,Drinking water,2019,81.27,81676.35,Insufficient data
+SLE,Sierra Leone,primary,Drinking water,2019,0,0,Insufficient data
+SLE,Sierra Leone,secondary,Drinking water,2019,0,0,Insufficient data
+SLV,El Salvador,primary,Drinking water,2019,0,0,Insufficient data
+SLV,El Salvador,secondary,Drinking water,2019,0,0,Insufficient data
+SMR,San Marino,primary,Drinking water,2019,0,0,Insufficient data
+SMR,San Marino,secondary,Drinking water,2019,0,0,Insufficient data
+SOM,Somalia,primary,Drinking water,2019,53.99469,1437804.495,Insufficient data
+SOM,Somalia,secondary,Drinking water,2019,63.04686,1409316.806,Insufficient data
+SRB,Serbia,primary,Drinking water,2019,36.596,94113.20128,Insufficient data
+SRB,Serbia,secondary,Drinking water,2019,8.52,44609.6124,Insufficient data
+SSD,South Sudan,primary,Drinking water,2019,0,0,Insufficient data
+SSD,South Sudan,secondary,Drinking water,2019,92,1404480.28,Insufficient data
+STP,Sao Tome and Principe,primary,Drinking water,2019,90.49674,32372.49315,Insufficient data
+STP,Sao Tome and Principe,secondary,Drinking water,2019,95.42381,29577.564,Insufficient data
+SVK,Slovakia,primary,Drinking water,2019,0,0,Insufficient data
+SVK,Slovakia,secondary,Drinking water,2019,0,0,Insufficient data
+SVN,Slovenia,primary,Drinking water,2019,0,0,Insufficient data
+SVN,Slovenia,secondary,Drinking water,2019,0,0,Insufficient data
+SWZ,Eswatini,primary,Drinking water,2019,83.15423,171459.0346,Insufficient data
+SWZ,Eswatini,secondary,Drinking water,2019,91.19698,122653.5499,Insufficient data
+SYC,Seychelles,primary,Drinking water,2019,0,0,Insufficient data
+SYC,Seychelles,secondary,Drinking water,2019,0,0,Insufficient data
+SYR,Syrian Arab Republic,primary,Drinking water,2019,0,0,Insufficient data
+SYR,Syrian Arab Republic,secondary,Drinking water,2019,0,0,Insufficient data
+TCA,Turks and Caicos Islands,primary,Drinking water,2019,0,0,Insufficient data
+TCA,Turks and Caicos Islands,secondary,Drinking water,2019,0,0,Insufficient data
+TCD,Chad,primary,Drinking water,2019,0,0,Insufficient data
+TCD,Chad,secondary,Drinking water,2019,49.98574,1306819.791,Insufficient data
+TGO,Togo,primary,Drinking water,2019,0,0,Insufficient data
+TGO,Togo,secondary,Drinking water,2019,51.41,643673.764,Insufficient data
+TJK,Tajikistan,primary,Drinking water,2019,100,838709,Insufficient data
+TJK,Tajikistan,secondary,Drinking water,2019,100,1180485,Insufficient data
+TLS,Timor-Leste,primary,Drinking water,2019,0,0,Insufficient data
+TLS,Timor-Leste,secondary,Drinking water,2019,0,0,Insufficient data
+TUN,Tunisia,primary,Drinking water,2019,0,0,Insufficient data
+TUN,Tunisia,secondary,Drinking water,2019,100,1109134,Insufficient data
+TZA,United Republic of Tanzania,primary,Drinking water,2019,72.4,7975459.472,Insufficient data
+TZA,United Republic of Tanzania,secondary,Drinking water,2019,100,7584570,Insufficient data
+UGA,Uganda,primary,Drinking water,2019,0,0,Insufficient data
+UGA,Uganda,secondary,Drinking water,2019,100,6417643,Insufficient data
+UKR,Ukraine,primary,Drinking water,2019,100,1530444,Insufficient data
+UKR,Ukraine,secondary,Drinking water,2019,100,2319342,Insufficient data
+URY,Uruguay,primary,Drinking water,2019,0,0,Insufficient data
+URY,Uruguay,secondary,Drinking water,2019,0,0,Insufficient data
+USA,United States,primary,Drinking water,2019,0,0,Insufficient data
+USA,United States,secondary,Drinking water,2019,0,0,Insufficient data
+UZB,Uzbekistan,primary,Drinking water,2019,9.55434,234221.8743,Insufficient data
+UZB,Uzbekistan,secondary,Drinking water,2019,10.97662,458926.8841,Insufficient data
+VCT,Saint Vincent and the Grenadines,primary,Drinking water,2019,0,0,Insufficient data
+VCT,Saint Vincent and the Grenadines,secondary,Drinking water,2019,0,0,Insufficient data
+VEN,Venezuela (Bolivarian Republic of),primary,Drinking water,2019,2.51,82585.024,Insufficient data
+VEN,Venezuela (Bolivarian Republic of),secondary,Drinking water,2019,100,2637904,Insufficient data
+VGB,British Virgin Islands,primary,Drinking water,2019,0,0,Insufficient data
+VGB,British Virgin Islands,secondary,Drinking water,2019,15.72303,342.44755,Insufficient data
+VNM,Viet Nam,primary,Drinking water,2019,100,7369125,Insufficient data
+VNM,Viet Nam,secondary,Drinking water,2019,100,9288978,Insufficient data
+VUT,Vanuatu,primary,Drinking water,2019,48.9226,22605.17778,Insufficient data
+VUT,Vanuatu,secondary,Drinking water,2019,41.88427,18437.87282,Insufficient data
+WSM,Samoa,primary,Drinking water,2019,0,0,Insufficient data
+WSM,Samoa,secondary,Drinking water,2019,0,0,Insufficient data
+YEM,Yemen,primary,Drinking water,2019,100,4408880,Insufficient data
+YEM,Yemen,secondary,Drinking water,2019,54.02,2108125.638,Insufficient data
+ZAF,South Africa,primary,Drinking water,2019,100,7815423,Insufficient data
+ZAF,South Africa,secondary,Drinking water,2019,100,4911133,Insufficient data
+ZMB,Zambia,primary,Drinking water,2019,0,0,Insufficient data
+ZMB,Zambia,secondary,Drinking water,2019,0,0,Insufficient data
+ZWE,Zimbabwe,primary,Drinking water,2019,0,0,Insufficient data
+ZWE,Zimbabwe,secondary,Drinking water,2019,0,0,Insufficient data
+AFG,Afghanistan,primary,Drinking water,2019,17.35,1102093.514,Limited service
+AND,Andorra,primary,Drinking water,2019,0,0,Limited service
+AND,Andorra,secondary,Drinking water,2019,0,0,Limited service
+ARE,United Arab Emirates,primary,Drinking water,2019,0,0,Limited service
+ARE,United Arab Emirates,secondary,Drinking water,2019,0,0,Limited service
+ATG,Antigua and Barbuda,primary,Drinking water,2019,0.80645,78.44339,Limited service
+ATG,Antigua and Barbuda,secondary,Drinking water,2019,0,0,Limited service
+AUS,Australia,primary,Drinking water,2019,0,0,Limited service
+AUS,Australia,secondary,Drinking water,2019,0,0,Limited service
+AZE,Azerbaijan,primary,Drinking water,2019,0,0,Limited service
+AZE,Azerbaijan,secondary,Drinking water,2019,0,0,Limited service
+BDI,Burundi,primary,Drinking water,2019,7.56981,140790.2935,Limited service
+BDI,Burundi,secondary,Drinking water,2019,33.45971,553702.9807,Limited service
+BEL,Belgium,primary,Drinking water,2019,0,0,Limited service
+BEL,Belgium,secondary,Drinking water,2019,0,0,Limited service
+BEN,Benin,primary,Drinking water,2019,36.6682,685206.9745,Limited service
+BFA,Burkina Faso,secondary,Drinking water,2019,13.76421,447181.0715,Limited service
+BGD,Bangladesh,primary,Drinking water,2019,13.13606,1944127.524,Limited service
+BGD,Bangladesh,secondary,Drinking water,2019,6.99864,1515412.142,Limited service
+BHR,Bahrain,primary,Drinking water,2019,0,0,Limited service
+BHR,Bahrain,secondary,Drinking water,2019,0,0,Limited service
+BLR,Belarus,primary,Drinking water,2019,0,0,Limited service
+BLR,Belarus,secondary,Drinking water,2019,0,0,Limited service
+BRB,Barbados,primary,Drinking water,2019,0,0,Limited service
+BRB,Barbados,secondary,Drinking water,2019,0,0,Limited service
+BTN,Bhutan,primary,Drinking water,2019,30.67174,27698.42507,Limited service
+BTN,Bhutan,secondary,Drinking water,2019,29.14466,24316.55579,Limited service
+CAF,Central African Republic,primary,Drinking water,2019,2.66715,21808.72622,Limited service
+CHE,Switzerland,primary,Drinking water,2019,0,0,Limited service
+CHE,Switzerland,secondary,Drinking water,2019,0,0,Limited service
+CMR,Cameroon,primary,Drinking water,2019,22.80477,948848.0739,Limited service
+COK,Cook Islands,primary,Drinking water,2019,0,0,Limited service
+COK,Cook Islands,secondary,Drinking water,2019,0,0,Limited service
+CRI,Costa Rica,primary,Drinking water,2019,0.90045,3852.41839,Limited service
+CRI,Costa Rica,secondary,Drinking water,2019,18.20262,64937.86416,Limited service
+CUB,Cuba,primary,Drinking water,2019,0,0,Limited service
+CUB,Cuba,secondary,Drinking water,2019,0,0,Limited service
+CYM,Cayman Islands,primary,Drinking water,2019,0,0,Limited service
+CYM,Cayman Islands,secondary,Drinking water,2019,0,0,Limited service
+DEU,Germany,primary,Drinking water,2019,0,0,Limited service
+DEU,Germany,secondary,Drinking water,2019,0,0,Limited service
+DMA,Dominica,primary,Drinking water,2019,0,0,Limited service
+DMA,Dominica,secondary,Drinking water,2019,0,0,Limited service
+DNK,Denmark,primary,Drinking water,2019,0,0,Limited service
+DNK,Denmark,secondary,Drinking water,2019,0,0,Limited service
+DZA,Algeria,primary,Drinking water,2019,0,0,Limited service
+DZA,Algeria,secondary,Drinking water,2019,0.66,28528.2162,Limited service
+ECU,Ecuador,primary,Drinking water,2019,6.2371,117372.4304,Limited service
+ECU,Ecuador,secondary,Drinking water,2019,0.5,9334.07,Limited service
+ESP,Spain,primary,Drinking water,2019,0,0,Limited service
+ESP,Spain,secondary,Drinking water,2019,0,0,Limited service
+EST,Estonia,primary,Drinking water,2019,0,0,Limited service
+EST,Estonia,secondary,Drinking water,2019,0,0,Limited service
+ETH,Ethiopia,primary,Drinking water,2019,5.60718,943923.8453,Limited service
+ETH,Ethiopia,secondary,Drinking water,2019,31.11513,4819708.588,Limited service
+FIN,Finland,primary,Drinking water,2019,0,0,Limited service
+FIN,Finland,secondary,Drinking water,2019,0,0,Limited service
+FRA,France,primary,Drinking water,2019,0,0,Limited service
+FRA,France,secondary,Drinking water,2019,0,0,Limited service
+GHA,Ghana,primary,Drinking water,2019,7.61514,330479.5275,Limited service
+GHA,Ghana,secondary,Drinking water,2019,14.47071,638946.8302,Limited service
+GIB,Gibraltar,primary,Drinking water,2019,0,0,Limited service
+GIB,Gibraltar,secondary,Drinking water,2019,0,0,Limited service
+GIN,Guinea,primary,Drinking water,2019,25.31277,519515.5483,Limited service
+GRD,Grenada,primary,Drinking water,2019,0,0,Limited service
+GRD,Grenada,secondary,Drinking water,2019,1.4,106.792,Limited service
+HKG,"China, Hong Kong Special Administrative Region",primary,Drinking water,2019,0,0,Limited service
+HKG,"China, Hong Kong Special Administrative Region",secondary,Drinking water,2019,0,0,Limited service
+HUN,Hungary,primary,Drinking water,2019,0,0,Limited service
+HUN,Hungary,secondary,Drinking water,2019,0,0,Limited service
+IDN,Indonesia,primary,Drinking water,2019,10.90951,3026273.751,Limited service
+IDN,Indonesia,secondary,Drinking water,2019,11.16367,3126813.014,Limited service
+IND,India,primary,Drinking water,2019,25.36419,31450705.47,Limited service
+IND,India,secondary,Drinking water,2019,18.26031,32399745.13,Limited service
+ISR,Israel,primary,Drinking water,2019,0,0,Limited service
+ISR,Israel,secondary,Drinking water,2019,0,0,Limited service
+ITA,Italy,primary,Drinking water,2019,0,0,Limited service
+ITA,Italy,secondary,Drinking water,2019,0,0,Limited service
+KHM,Cambodia,primary,Drinking water,2019,2.14197,43516.39599,Limited service
+KHM,Cambodia,secondary,Drinking water,2019,0,0,Limited service
+KNA,Saint Kitts and Nevis,secondary,Drinking water,2019,0,0,Limited service
+KOR,Republic of Korea,primary,Drinking water,2019,0,0,Limited service
+KOR,Republic of Korea,secondary,Drinking water,2019,0,0,Limited service
+KWT,Kuwait,primary,Drinking water,2019,0,0,Limited service
+KWT,Kuwait,secondary,Drinking water,2019,0,0,Limited service
+LBN,Lebanon,primary,Drinking water,2019,3.1,20230.011,Limited service
+LBN,Lebanon,secondary,Drinking water,2019,2.6,18483.946,Limited service
+LBR,Liberia,primary,Drinking water,2019,13.41989,103724.7454,Limited service
+LBR,Liberia,secondary,Drinking water,2019,10.72837,72366.95492,Limited service
+LCA,Saint Lucia,primary,Drinking water,2019,0.83333,127.79167,Limited service
+LCA,Saint Lucia,secondary,Drinking water,2019,0,0,Limited service
+LVA,Latvia,primary,Drinking water,2019,0,0,Limited service
+LVA,Latvia,secondary,Drinking water,2019,0,0,Limited service
+MAC,"China, Macao Special Administrative Region",primary,Drinking water,2019,0,0,Limited service
+MAC,"China, Macao Special Administrative Region",secondary,Drinking water,2019,0,0,Limited service
+MAR,Morocco,primary,Drinking water,2019,9.65918,373039.1092,Limited service
+MAR,Morocco,secondary,Drinking water,2019,0,0,Limited service
+MCO,Monaco,primary,Drinking water,2019,0,0,Limited service
+MCO,Monaco,secondary,Drinking water,2019,0,0,Limited service
+MDV,Maldives,primary,Drinking water,2019,0,0,Limited service
+MDV,Maldives,secondary,Drinking water,2019,0,0,Limited service
+MEX,Mexico,secondary,Drinking water,2019,36.6417,4939093.874,Limited service
+MLI,Mali,primary,Drinking water,2019,27.85609,941569.5603,Limited service
+MNG,Mongolia,primary,Drinking water,2019,23.8,75259.646,Limited service
+MNG,Mongolia,secondary,Drinking water,2019,25.35,81638.4075,Limited service
+MSR,Montserrat,primary,Drinking water,2019,0,0,Limited service
+MSR,Montserrat,secondary,Drinking water,2019,0,0,Limited service
+MUS,Mauritius,primary,Drinking water,2019,0,0,Limited service
+MUS,Mauritius,secondary,Drinking water,2019,0,0,Limited service
+MWI,Malawi,primary,Drinking water,2019,4.24111,136132.6688,Limited service
+MWI,Malawi,secondary,Drinking water,2019,13.18611,363979.1259,Limited service
+MYS,Malaysia,primary,Drinking water,2019,2.86479,86543.85961,Limited service
+MYS,Malaysia,secondary,Drinking water,2019,1.09913,37491.86143,Limited service
+NER,Niger,primary,Drinking water,2019,1.63428,65620.53414,Limited service
+NGA,Nigeria,primary,Drinking water,2019,27.42201,8981278.211,Limited service
+NGA,Nigeria,secondary,Drinking water,2019,18.20514,4909364.811,Limited service
+NIU,Niue,primary,Drinking water,2019,0,0,Limited service
+NIU,Niue,secondary,Drinking water,2019,0,0,Limited service
+NLD,Netherlands,primary,Drinking water,2019,0,0,Limited service
+NLD,Netherlands,secondary,Drinking water,2019,0,0,Limited service
+NOR,Norway,primary,Drinking water,2019,0,0,Limited service
+NOR,Norway,secondary,Drinking water,2019,0,0,Limited service
+PAK,Pakistan,primary,Drinking water,2019,10.92096,2697868.006,Limited service
+PAK,Pakistan,secondary,Drinking water,2019,4.27154,1350860.482,Limited service
+PER,Peru,primary,Drinking water,2019,5.36665,175698.8513,Limited service
+PER,Peru,secondary,Drinking water,2019,9.39841,244022.6019,Limited service
+PHL,Philippines,primary,Drinking water,2019,19.85243,2632848.767,Limited service
+PHL,Philippines,secondary,Drinking water,2019,18.35268,1824076.316,Limited service
+PNG,Papua New Guinea,primary,Drinking water,2019,6.29018,89476.43411,Limited service
+PNG,Papua New Guinea,secondary,Drinking water,2019,23.27467,260451.5006,Limited service
+POL,Poland,primary,Drinking water,2019,0,0,Limited service
+POL,Poland,secondary,Drinking water,2019,0,0,Limited service
+PRT,Portugal,primary,Drinking water,2019,0,0,Limited service
+PRT,Portugal,secondary,Drinking water,2019,0,0,Limited service
+PRY,Paraguay,primary,Drinking water,2019,29.83161,244237.6495,Limited service
+PSE,West Bank and Gaza Strip,primary,Drinking water,2019,19.39163,92790.71863,Limited service
+PSE,West Bank and Gaza Strip,secondary,Drinking water,2019,14.09396,128147.0738,Limited service
+QAT,Qatar,primary,Drinking water,2019,0,0,Limited service
+QAT,Qatar,secondary,Drinking water,2019,0,0,Limited service
+SAU,Saudi Arabia,primary,Drinking water,2019,0,0,Limited service
+SAU,Saudi Arabia,secondary,Drinking water,2019,0,0,Limited service
+SEN,Senegal,primary,Drinking water,2019,31.98719,846495.1606,Limited service
+SEN,Senegal,secondary,Drinking water,2019,16.2604,404353.5645,Limited service
+SGP,Singapore,primary,Drinking water,2019,0,0,Limited service
+SGP,Singapore,secondary,Drinking water,2019,0,0,Limited service
+SLE,Sierra Leone,primary,Drinking water,2019,37.44406,461225.8622,Limited service
+SLE,Sierra Leone,secondary,Drinking water,2019,26.45698,326615.9637,Limited service
+SLV,El Salvador,primary,Drinking water,2019,14.81318,102726.4451,Limited service
+SLV,El Salvador,secondary,Drinking water,2019,11.77658,83691.44866,Limited service
+SMR,San Marino,primary,Drinking water,2019,0,0,Limited service
+SMR,San Marino,secondary,Drinking water,2019,0,0,Limited service
+SSD,South Sudan,primary,Drinking water,2019,9.34343,166650.5387,Limited service
+SVK,Slovakia,primary,Drinking water,2019,0,0,Limited service
+SVK,Slovakia,secondary,Drinking water,2019,0,0,Limited service
+SVN,Slovenia,primary,Drinking water,2019,0,0,Limited service
+SVN,Slovenia,secondary,Drinking water,2019,0,0,Limited service
+SYC,Seychelles,primary,Drinking water,2019,0,0,Limited service
+SYC,Seychelles,secondary,Drinking water,2019,0,0,Limited service
+SYR,Syrian Arab Republic,primary,Drinking water,2019,48.49592,1052204.283,Limited service
+SYR,Syrian Arab Republic,secondary,Drinking water,2019,48.81757,951880.5693,Limited service
+TCA,Turks and Caicos Islands,primary,Drinking water,2019,0,0,Limited service
+TCA,Turks and Caicos Islands,secondary,Drinking water,2019,0,0,Limited service
+TCD,Chad,primary,Drinking water,2019,10.94645,302994.4009,Limited service
+TGO,Togo,primary,Drinking water,2019,15.03994,191676.2145,Limited service
+TLS,Timor-Leste,primary,Drinking water,2019,3.32794,6143.10448,Limited service
+TLS,Timor-Leste,secondary,Drinking water,2019,13.9923,26076.46761,Limited service
+TUN,Tunisia,primary,Drinking water,2019,17.2717,186054.3286,Limited service
+UGA,Uganda,primary,Drinking water,2019,23.34217,2138903.478,Limited service
+URY,Uruguay,primary,Drinking water,2019,0,0,Limited service
+URY,Uruguay,secondary,Drinking water,2019,0,0,Limited service
+USA,United States of America,primary,Drinking water,2019,0,0,Limited service
+USA,United States of America,secondary,Drinking water,2019,0,0,Limited service
+VCT,Saint Vincent and the Grenadines,primary,Drinking water,2019,0,0,Limited service
+VCT,Saint Vincent and the Grenadines,secondary,Drinking water,2019,1.23457,110.8394,Limited service
+VGB,British Virgin Islands,primary,Drinking water,2019,0,0,Limited service
+WSM,Samoa,primary,Drinking water,2019,0,0,Limited service
+WSM,Samoa,secondary,Drinking water,2019,0,0,Limited service
+ZMB,Zambia,primary,Drinking water,2019,3.43661,119849.1276,Limited service
+ZMB,Zambia,secondary,Drinking water,2019,0.98899,21016.69011,Limited service
+ZWE,Zimbabwe,primary,Drinking water,2019,21.68661,622800.4632,Limited service
+ZWE,Zimbabwe,secondary,Drinking water,2019,18.79227,376947.3541,Limited service
+AFG,Afghanistan,primary,Drinking water,2019,24.5,1556270.38,No service
+AGO,Angola,primary,Drinking water,2019,81.5,4644493.475,No service
+AGO,Angola,secondary,Drinking water,2019,51.75799,2346059.085,No service
+AND,Andorra,primary,Drinking water,2019,0,0,No service
+AND,Andorra,secondary,Drinking water,2019,0,0,No service
+ARE,United Arab Emirates,primary,Drinking water,2019,0,0,No service
+ARE,United Arab Emirates,secondary,Drinking water,2019,0,0,No service
+ARG,Argentina,primary,Drinking water,2019,10.07519,441624.9083,No service
+ATG,Antigua and Barbuda,primary,Drinking water,2019,0,0,No service
+ATG,Antigua and Barbuda,secondary,Drinking water,2019,0,0,No service
+AUS,Australia,primary,Drinking water,2019,0,0,No service
+AUS,Australia,secondary,Drinking water,2019,0,0,No service
+AZE,Azerbaijan,primary,Drinking water,2019,0,0,No service
+AZE,Azerbaijan,secondary,Drinking water,2019,0,0,No service
+BDI,Burundi,primary,Drinking water,2019,47.9002,890891.9424,No service
+BDI,Burundi,secondary,Drinking water,2019,14.53638,240553.1141,No service
+BEL,Belgium,primary,Drinking water,2019,0,0,No service
+BEL,Belgium,secondary,Drinking water,2019,0,0,No service
+BEN,Benin,primary,Drinking water,2019,18.71765,349770.6809,No service
+BEN,Benin,secondary,Drinking water,2019,26.91429,489009.9634,No service
+BFA,Burkina Faso,primary,Drinking water,2019,40.81714,1396232.414,No service
+BFA,Burkina Faso,secondary,Drinking water,2019,44.1127,1433163.423,No service
+BGD,Bangladesh,primary,Drinking water,2019,8.62935,1277138.113,No service
+BGD,Bangladesh,secondary,Drinking water,2019,0,0,No service
+BHR,Bahrain,primary,Drinking water,2019,0,0,No service
+BHR,Bahrain,secondary,Drinking water,2019,0,0,No service
+BLR,Belarus,primary,Drinking water,2019,0,0,No service
+BLR,Belarus,secondary,Drinking water,2019,0,0,No service
+BRA,Brazil,primary,Drinking water,2019,17.80757,2505311.233,No service
+BRA,Brazil,secondary,Drinking water,2019,6.46171,1523064.247,No service
+BRB,Barbados,primary,Drinking water,2019,0,0,No service
+BRB,Barbados,secondary,Drinking water,2019,0,0,No service
+BTN,Bhutan,primary,Drinking water,2019,11.03753,9967.54967,No service
+BTN,Bhutan,secondary,Drinking water,2019,7.76699,6480.31068,No service
+BWA,Botswana,primary,Drinking water,2019,0,0,No service
+BWA,Botswana,secondary,Drinking water,2019,0,0,No service
+CAF,Central African Republic,primary,Drinking water,2019,81.38285,665449.6328,No service
+CAF,Central African Republic,secondary,Drinking water,2019,57.70608,484830.904,No service
+CHE,Switzerland,primary,Drinking water,2019,0,0,No service
+CHE,Switzerland,secondary,Drinking water,2019,0,0,No service
+CHL,Chile,primary,Drinking water,2019,3.66991,55670.85369,No service
+CHN,China,primary,Drinking water,2019,0.59359,607559.1306,No service
+CHN,China,secondary,Drinking water,2019,0.40079,397235.0623,No service
+CIV,Côte d’Ivoire,primary,Drinking water,2019,56.24503,2244906.699,No service
+CIV,Côte d’Ivoire,secondary,Drinking water,2019,13.81773,563493.535,No service
+CMR,Cameroon,primary,Drinking water,2019,43.09825,1793207.668,No service
+COD,Democratic Republic of the Congo,primary,Drinking water,2019,51.32505,7536810.187,No service
+COD,Democratic Republic of the Congo,secondary,Drinking water,2019,56.5,6580579.295,No service
+COG,Congo,primary,Drinking water,2019,60.4,518724.864,No service
+COG,Congo,secondary,Drinking water,2019,31.87403,256919.3114,No service
+COK,Cook Islands,primary,Drinking water,2019,0,0,No service
+COK,Cook Islands,secondary,Drinking water,2019,0,0,No service
+COL,Colombia,primary,Drinking water,2019,26.48971,990796.7461,No service
+COM,Comoros,primary,Drinking water,2019,89.1705,113727.164,No service
+COM,Comoros,secondary,Drinking water,2019,87.73,110985.4684,No service
+CPV,Cabo Verde,primary,Drinking water,2019,0,0,No service
+CPV,Cabo Verde,secondary,Drinking water,2019,0,0,No service
+CRI,Costa Rica,primary,Drinking water,2019,13.06458,55894.44876,No service
+CRI,Costa Rica,secondary,Drinking water,2019,6.14873,21935.58656,No service
+CUB,Cuba,primary,Drinking water,2019,0,0,No service
+CUB,Cuba,secondary,Drinking water,2019,0,0,No service
+CYM,Cayman Islands,primary,Drinking water,2019,0,0,No service
+CYM,Cayman Islands,secondary,Drinking water,2019,0,0,No service
+DEU,Germany,primary,Drinking water,2019,0,0,No service
+DEU,Germany,secondary,Drinking water,2019,0,0,No service
+DJI,Djibouti,primary,Drinking water,2019,13.17,12017.7567,No service
+DJI,Djibouti,secondary,Drinking water,2019,24.25263,30565.83411,No service
+DMA,Dominica,primary,Drinking water,2019,0,0,No service
+DMA,Dominica,secondary,Drinking water,2019,0,0,No service
+DNK,Denmark,primary,Drinking water,2019,0,0,No service
+DNK,Denmark,secondary,Drinking water,2019,0,0,No service
+DOM,Dominican Republic,primary,Drinking water,2019,10.15436,117642.5064,No service
+DZA,Algeria,primary,Drinking water,2019,14.7,618583.35,No service
+DZA,Algeria,secondary,Drinking water,2019,1.14,49276.0098,No service
+ECU,Ecuador,primary,Drinking water,2019,6.7629,127267.1596,No service
+ECU,Ecuador,secondary,Drinking water,2019,4,74672.56,No service
+ERI,Eritrea,primary,Drinking water,2019,35.40357,179282.6236,No service
+ERI,Eritrea,secondary,Drinking water,2019,19.91786,113912.416,No service
+ESP,Spain,primary,Drinking water,2019,0,0,No service
+ESP,Spain,secondary,Drinking water,2019,0,0,No service
+EST,Estonia,primary,Drinking water,2019,0,0,No service
+EST,Estonia,secondary,Drinking water,2019,0,0,No service
+ETH,Ethiopia,primary,Drinking water,2019,79.52482,13387363.89,No service
+ETH,Ethiopia,secondary,Drinking water,2019,46.86007,7258586.732,No service
+FIN,Finland,primary,Drinking water,2019,0,0,No service
+FIN,Finland,secondary,Drinking water,2019,0,0,No service
+FRA,France,primary,Drinking water,2019,0,0,No service
+FRA,France,secondary,Drinking water,2019,0,0,No service
+GEO,Georgia,primary,Drinking water,2019,0.08658,275.99713,No service
+GEO,Georgia,secondary,Drinking water,2019,0,0,No service
+GHA,Ghana,primary,Drinking water,2019,15.99884,694312.6562,No service
+GHA,Ghana,secondary,Drinking water,2019,6.40812,282947.469,No service
+GIB,Gibraltar,primary,Drinking water,2019,0,0,No service
+GIB,Gibraltar,secondary,Drinking water,2019,0,0,No service
+GIN,Guinea,primary,Drinking water,2019,65.18851,1337919.251,No service
+GMB,Gambia,primary,Drinking water,2019,14.95972,55135.55222,No service
+GMB,Gambia,secondary,Drinking water,2019,11.3181,34502.77357,No service
+GNQ,Equatorial Guinea,primary,Drinking water,2019,74.15,131505.7665,No service
+GNQ,Equatorial Guinea,secondary,Drinking water,2019,48.5,69640.18,No service
+GRD,Grenada,primary,Drinking water,2019,0,0,No service
+GRD,Grenada,secondary,Drinking water,2019,0,0,No service
+GTM,Guatemala,primary,Drinking water,2019,18.94582,439977.2865,No service
+HKG,"China, Hong Kong Special Administrative Region",primary,Drinking water,2019,0,0,No service
+HKG,"China, Hong Kong Special Administrative Region",secondary,Drinking water,2019,0,0,No service
+HTI,Haiti,primary,Drinking water,2019,51.57027,757585.2644,No service
+HUN,Hungary,primary,Drinking water,2019,0,0,No service
+HUN,Hungary,secondary,Drinking water,2019,0,0,No service
+IDN,Indonesia,primary,Drinking water,2019,17.06294,4733224.316,No service
+IDN,Indonesia,secondary,Drinking water,2019,13.8868,3889529.36,No service
+IND,India,primary,Drinking water,2019,7.7798,9646673.079,No service
+IND,India,secondary,Drinking water,2019,6.2479,11085813.08,No service
+IRQ,Iraq,primary,Drinking water,2019,19.28,1101810.355,No service
+IRQ,Iraq,secondary,Drinking water,2019,8.63796,435444.0699,No service
+ISR,Israel,primary,Drinking water,2019,0,0,No service
+ISR,Israel,secondary,Drinking water,2019,0,0,No service
+ITA,Italy,primary,Drinking water,2019,0,0,No service
+ITA,Italy,secondary,Drinking water,2019,0,0,No service
+KHM,Cambodia,primary,Drinking water,2019,17.75367,360683.9745,No service
+KHM,Cambodia,secondary,Drinking water,2019,23.9531,427450.7136,No service
+KNA,Saint Kitts and Nevis,secondary,Drinking water,2019,0,0,No service
+KOR,Republic of Korea,primary,Drinking water,2019,0,0,No service
+KOR,Republic of Korea,secondary,Drinking water,2019,0,0,No service
+KWT,Kuwait,primary,Drinking water,2019,0,0,No service
+KWT,Kuwait,secondary,Drinking water,2019,0,0,No service
+LAO,Lao People's Democratic Republic,primary,Drinking water,2019,32.675,251697.1588,No service
+LBN,Lebanon,primary,Drinking water,2019,37.2,242760.132,No service
+LBN,Lebanon,secondary,Drinking water,2019,36.8,261618.928,No service
+LBR,Liberia,primary,Drinking water,2019,42.4,327717.232,No service
+LBR,Liberia,secondary,Drinking water,2019,24.46126,165000.4715,No service
+LCA,Saint Lucia,primary,Drinking water,2019,0,0,No service
+LCA,Saint Lucia,secondary,Drinking water,2019,0,0,No service
+LVA,Latvia,primary,Drinking water,2019,0,0,No service
+LVA,Latvia,secondary,Drinking water,2019,0,0,No service
+MAC,"China, Macao Special Administrative Region",primary,Drinking water,2019,0,0,No service
+MAC,"China, Macao Special Administrative Region",secondary,Drinking water,2019,0,0,No service
+MAR,Morocco,primary,Drinking water,2019,16.35,631439.4525,No service
+MAR,Morocco,secondary,Drinking water,2019,9.4,338181.168,No service
+MCO,Monaco,primary,Drinking water,2019,0,0,No service
+MCO,Monaco,secondary,Drinking water,2019,0,0,No service
+MDA,Republic of Moldova,primary,Drinking water,2019,0,0,No service
+MDA,Republic of Moldova,secondary,Drinking water,2019,0,0,No service
+MDG,Madagascar,primary,Drinking water,2019,63.2,2191468.848,No service
+MDG,Madagascar,secondary,Drinking water,2019,74.1,3201108.144,No service
+MDV,Maldives,primary,Drinking water,2019,0,0,No service
+MDV,Maldives,secondary,Drinking water,2019,0,0,No service
+MEX,Mexico,primary,Drinking water,2019,16.64673,2228894.275,No service
+MEX,Mexico,secondary,Drinking water,2019,14.3183,1930025.692,No service
+MLI,Mali,primary,Drinking water,2019,2.06685,69862.19444,No service
+MNG,Mongolia,primary,Drinking water,2019,3.5,11067.595,No service
+MNG,Mongolia,secondary,Drinking water,2019,1.25,4025.5625,No service
+MRT,Mauritania,primary,Drinking water,2019,81.9,552580.119,No service
+MRT,Mauritania,secondary,Drinking water,2019,58.075,382961.6495,No service
+MSR,Montserrat,primary,Drinking water,2019,0,0,No service
+MSR,Montserrat,secondary,Drinking water,2019,0,0,No service
+MUS,Mauritius,primary,Drinking water,2019,0,0,No service
+MUS,Mauritius,secondary,Drinking water,2019,0,0,No service
+MWI,Malawi,primary,Drinking water,2019,8.48889,272479.3267,No service
+MWI,Malawi,secondary,Drinking water,2019,5.11389,141159.8001,No service
+MYS,Malaysia,primary,Drinking water,2019,0,0,No service
+MYS,Malaysia,secondary,Drinking water,2019,0,0,No service
+NER,Niger,primary,Drinking water,2019,82.23379,3301896.541,No service
+NER,Niger,secondary,Drinking water,2019,44.98397,1592954.864,No service
+NGA,Nigeria,primary,Drinking water,2019,40.5232,13272188.61,No service
+NGA,Nigeria,secondary,Drinking water,2019,28.46153,7675196.887,No service
+NIC,Nicaragua,primary,Drinking water,2019,31.5427,247305.8441,No service
+NIU,Niue,primary,Drinking water,2019,0,0,No service
+NIU,Niue,secondary,Drinking water,2019,0,0,No service
+NLD,Netherlands,primary,Drinking water,2019,0,0,No service
+NLD,Netherlands,secondary,Drinking water,2019,0,0,No service
+NOR,Norway,primary,Drinking water,2019,0,0,No service
+NOR,Norway,secondary,Drinking water,2019,0,0,No service
+PAK,Pakistan,primary,Drinking water,2019,37.07143,9157968.531,No service
+PAK,Pakistan,secondary,Drinking water,2019,15.10119,4775696.52,No service
+PAN,Panama,primary,Drinking water,2019,19.72651,89275.66102,No service
+PER,Peru,primary,Drinking water,2019,15.22989,498611.3613,No service
+PER,Peru,secondary,Drinking water,2019,14.57159,378340.4706,No service
+PHL,Philippines,primary,Drinking water,2019,34.79667,4614767.338,No service
+PHL,Philippines,secondary,Drinking water,2019,27.68667,2751782.507,No service
+PNG,Papua New Guinea,primary,Drinking water,2019,47.86948,680932.2958,No service
+PNG,Papua New Guinea,secondary,Drinking water,2019,11.54014,129138.1142,No service
+POL,Poland,primary,Drinking water,2019,0,0,No service
+POL,Poland,secondary,Drinking water,2019,0,0,No service
+PRT,Portugal,primary,Drinking water,2019,0,0,No service
+PRT,Portugal,secondary,Drinking water,2019,0,0,No service
+PRY,Paraguay,primary,Drinking water,2019,3.43421,28116.60471,No service
+PSE,West Bank and Gaza Strip,primary,Drinking water,2019,0,0,No service
+PSE,West Bank and Gaza Strip,secondary,Drinking water,2019,0,0,No service
+QAT,Qatar,primary,Drinking water,2019,0,0,No service
+QAT,Qatar,secondary,Drinking water,2019,0,0,No service
+SAU,Saudi Arabia,primary,Drinking water,2019,0,0,No service
+SAU,Saudi Arabia,secondary,Drinking water,2019,0,0,No service
+SDN,Sudan,primary,Drinking water,2019,13.7,902075.404,No service
+SDN,Sudan,secondary,Drinking water,2019,4.6355,228657.719,No service
+SEN,Senegal,primary,Drinking water,2019,25.53641,675784.6546,No service
+SEN,Senegal,secondary,Drinking water,2019,4.96746,123527.7467,No service
+SGP,Singapore,primary,Drinking water,2019,0,0,No service
+SGP,Singapore,secondary,Drinking water,2019,0,0,No service
+SLE,Sierra Leone,primary,Drinking water,2019,7.535,92814.09555,No service
+SLE,Sierra Leone,secondary,Drinking water,2019,2.38,29381.5046,No service
+SLV,El Salvador,primary,Drinking water,2019,5.15416,35743.06952,No service
+SLV,El Salvador,secondary,Drinking water,2019,4.31444,30660.98202,No service
+SMR,San Marino,primary,Drinking water,2019,0,0,No service
+SMR,San Marino,secondary,Drinking water,2019,0,0,No service
+SOM,Somalia,primary,Drinking water,2019,46.00531,1225058.505,No service
+SOM,Somalia,secondary,Drinking water,2019,36.95314,826031.1936,No service
+SSD,South Sudan,primary,Drinking water,2019,39.89899,711643.1735,No service
+SSD,South Sudan,secondary,Drinking water,2019,8,122128.72,No service
+STP,Sao Tome and Principe,primary,Drinking water,2019,9.50326,3399.50685,No service
+STP,Sao Tome and Principe,secondary,Drinking water,2019,4.57619,1418.436,No service
+SVK,Slovakia,primary,Drinking water,2019,0,0,No service
+SVK,Slovakia,secondary,Drinking water,2019,0,0,No service
+SVN,Slovenia,primary,Drinking water,2019,0,0,No service
+SVN,Slovenia,secondary,Drinking water,2019,0,0,No service
+SWZ,Eswatini,primary,Drinking water,2019,16.84577,34734.96541,No service
+SWZ,Eswatini,secondary,Drinking water,2019,8.80302,11839.45007,No service
+SYC,Seychelles,primary,Drinking water,2019,0,0,No service
+SYC,Seychelles,secondary,Drinking water,2019,0,0,No service
+SYR,Syrian Arab Republic,primary,Drinking water,2019,2.34207,50815.35969,No service
+SYR,Syrian Arab Republic,secondary,Drinking water,2019,1.79054,34913.26655,No service
+TCA,Turks and Caicos Islands,primary,Drinking water,2019,0,0,No service
+TCA,Turks and Caicos Islands,secondary,Drinking water,2019,0,0,No service
+TCD,Chad,primary,Drinking water,2019,69.7173,1929753.832,No service
+TCD,Chad,secondary,Drinking water,2019,50.01426,1307565.209,No service
+TGO,Togo,primary,Drinking water,2019,64.755,825268.8024,No service
+TGO,Togo,secondary,Drinking water,2019,48.59,608366.236,No service
+TLS,Timor-Leste,primary,Drinking water,2019,27.56216,50877.54376,No service
+TLS,Timor-Leste,secondary,Drinking water,2019,23.91542,44569.48724,No service
+TUN,Tunisia,primary,Drinking water,2019,13.2283,142498.0764,No service
+TUN,Tunisia,secondary,Drinking water,2019,0,0,No service
+TZA,United Republic of Tanzania,primary,Drinking water,2019,27.6,3040368.528,No service
+UGA,Uganda,primary,Drinking water,2019,6.61378,606037.8432,No service
+URY,Uruguay,primary,Drinking water,2019,0,0,No service
+URY,Uruguay,secondary,Drinking water,2019,0,0,No service
+USA,United States of America,primary,Drinking water,2019,0,0,No service
+USA,United States of America,secondary,Drinking water,2019,0,0,No service
+VCT,Saint Vincent and the Grenadines,primary,Drinking water,2019,0,0,No service
+VCT,Saint Vincent and the Grenadines,secondary,Drinking water,2019,0,0,No service
+VGB,British Virgin Islands,primary,Drinking water,2019,0,0,No service
+VUT,Vanuatu,primary,Drinking water,2019,51.0774,23600.82222,No service
+VUT,Vanuatu,secondary,Drinking water,2019,58.11573,25583.12718,No service
+WSM,Samoa,primary,Drinking water,2019,0,0,No service
+WSM,Samoa,secondary,Drinking water,2019,0,0,No service
+ZMB,Zambia,primary,Drinking water,2019,18.49456,644982.9975,No service
+ZMB,Zambia,secondary,Drinking water,2019,5.01101,106487.7499,No service
+ZWE,Zimbabwe,primary,Drinking water,2019,13.86974,398313.8243,No service
+ZWE,Zimbabwe,secondary,Drinking water,2019,12.24476,245613.2894,No service

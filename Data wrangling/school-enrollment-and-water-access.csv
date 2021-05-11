@@ -1,0 +1,178 @@
+country,schoolType,grossSchoolEnrollmentRatio,coverage
+Afghanistan,secondary,55.65615845,74.06667
+Afghanistan,primary,111.744133,58.15
+Albania,secondary,96.42608643,66.250470000000007
+Albania,primary,112.4866409,55.84374
+Algeria,secondary,99.86019135,98.2
+Algeria,primary,118.7494736,85.3
+Andorra,secondary,49.39144135,100
+Andorra,primary,114.375618,100
+Antigua and Barbuda,secondary,102.318222,100
+Antigua and Barbuda,primary,97.10739899,99.19355
+Armenia,secondary,96.63288116,94.93
+Australia,secondary,137.5815125,100
+Australia,primary,106.5677719,100
+Azerbaijan,primary,106.0598907,100
+Azerbaijan,secondary,102.7957382,100
+Bahrain,secondary,99.37625885,100
+Bahrain,primary,104.3917313,100
+Bangladesh,primary,111.8765564,78.23459
+Bangladesh,secondary,58.30926132,93.00136
+Barbados,secondary,109.2475662,100
+Barbados,primary,93.62728119,100
+Belarus,secondary,107.0317993,100
+Belarus,primary,98.96627808,100
+Belgium,primary,104.8543167,100
+Belgium,secondary,164.8117371,100
+Benin,primary,125.561203,44.61415
+Bhutan,primary,102.13169859999999,58.29073
+Bhutan,secondary,84.19769287,63.08835
+Burkina Faso,secondary,30.33526993,42.12309
+Burundi,secondary,37.88898087,52.00391
+Burundi,primary,127.6357727,44.52999
+Cambodia,secondary,45.05133057,76.0469
+Cambodia,primary,116.3896408,80.10435
+Cameroon,primary,113.5502396,34.09698
+Central African Republic,primary,93.45572662,15.95
+Chad,primary,101.404068,19.33626
+Costa Rica,primary,110.7868729,86.03497
+Costa Rica,secondary,120.3266525,75.64865
+Cuba,primary,98.11347198,100
+Cuba,secondary,99.66513062,100
+Denmark,primary,101.3319931,100
+Denmark,secondary,129.8680267,100
+Dominica,primary,117.9491119,100
+Dominica,secondary,96.729599,100
+Ecuador,primary,113.2722626,87
+Ecuador,secondary,104.203743,95.5
+El Salvador,secondary,81.1161499,83.90898
+El Salvador,primary,112.1894226,80.03266
+Estonia,primary,100.6962128,100
+Estonia,secondary,108.5829391,100
+Ethiopia,primary,100.1229095,14.868
+Ethiopia,secondary,36.23122025,22.0248
+Finland,primary,101.4284363,100
+Finland,secondary,145.4836884,100
+France,secondary,110.6440125,100
+France,primary,105.3583603,100
+Germany,primary,103.33461,100
+Germany,secondary,102.429863,100
+Ghana,primary,109.9253998,76.38602
+Ghana,secondary,71.03627777,79.12117
+Grenada,primary,103.1267319,100
+Grenada,secondary,100.8493881,98.6
+Guinea,primary,91.25817871,9.49871
+Honduras,primary,109.1496277,64.63
+Honduras,secondary,68.38008881,51.54
+Hungary,primary,101.5117493,100
+Hungary,secondary,106.9843597,100
+India,secondary,68.89720917,75.49179
+India,primary,110.5846481,66.85601
+Indonesia,primary,105.7409592,72.02755
+Indonesia,secondary,82.46869659,74.94953
+Israel,secondary,101.8636475,100
+Israel,primary,104.1763687,100
+Italy,secondary,102.3979874,100
+Italy,primary,101.8940277,100
+Jamaica,secondary,68.83704376,95.88538
+Jamaica,primary,97.24514008,93.92449
+Kuwait,secondary,93.60362244,100
+Kuwait,primary,102.6835098,100
+Latvia,secondary,115.3598022,100
+Latvia,primary,100.4082108,100
+Lebanon,secondary,68.20027161,60.6
+Lebanon,primary,97.14633179,59.7
+Liberia,secondary,37.87348175,64.81037
+Liberia,primary,95.64746857,44.18011
+Malawi,secondary,39.49206924,81.7
+Malawi,primary,146.5065308,87.27
+Malaysia,secondary,79.0068512,98.90087
+Malaysia,primary,106.8787689,97.13521
+Maldives,secondary,69.81939697,100
+Maldives,primary,102.428009,100
+Mali,primary,77.19281006,70.07705
+Marshall Islands,primary,105.4020691,3.19
+Mauritius,primary,102.6977768,100
+Mauritius,secondary,97.93816376,100
+Mexico,secondary,90.54969025,49.04
+Mongolia,secondary,90.71871185,73.4
+Mongolia,primary,101.6784286,72.7
+Morocco,secondary,69.06295013,90.6
+Morocco,primary,116.1342468,73.99082
+Myanmar,secondary,51.29608917,81.6782
+Myanmar,primary,99.65828705,71.87072
+Nepal,primary,135.4335022,39.01146
+Nepal,secondary,67.16985321,76.48106
+Netherlands,primary,104.4383926,100
+Netherlands,secondary,132.3171082,100
+Niger,primary,70.60041809,16.13193
+Nigeria,secondary,43.83671188,53.33333
+Nigeria,primary,84.7188797,32.05479
+Norway,secondary,112.5950012,100
+Norway,primary,100.1427231,100
+Pakistan,secondary,41.63825989,80.62726
+Pakistan,primary,93.5630722,52.00761
+Papua New Guinea,secondary,40.34632111,65.18519
+Papua New Guinea,primary,114.7354126,45.84034
+Paraguay,primary,105.9861679,66.73418
+Peru,secondary,95.62184143,76.03
+Peru,primary,101.4220963,79.40345
+Philippines,secondary,88.38892365,53.96065
+Philippines,primary,116.8188705,45.3509
+Poland,secondary,108.7026215,100
+Poland,primary,101.3105621,100
+Portugal,secondary,116.395401,100
+Portugal,primary,108.5115585,100
+Qatar,primary,101.3638306,100
+Qatar,secondary,109.411087,100
+Romania,secondary,94.77507782,84.71
+Romania,primary,95.54051971,63.52
+Rwanda,secondary,39.11576843,64.903809999999993
+Rwanda,primary,133.5823212,53.02252
+Saint Kitts and Nevis,secondary,91.51831818,100
+Saint Kitts and Nevis,primary,83.71916962,78.79
+Saint Lucia,secondary,86.4571991,100
+Saint Lucia,primary,100.2959518,99.16667
+Saint Vincent and the Grenadines,primary,104.710289,100
+Saint Vincent and the Grenadines,secondary,104.6867065,98.76543
+Samoa,primary,106.1592102,100
+Samoa,secondary,86.85121918,100
+San Marino,secondary,94.6519928,100
+San Marino,primary,93.30171967,100
+Saudi Arabia,secondary,108.2878799,100
+Saudi Arabia,primary,108.7161484,100
+Senegal,secondary,40.06776047,78.77214
+Senegal,primary,80.87622833,42.4764
+Serbia,secondary,94.34441376,91.48
+Serbia,primary,101.1311569,63.404
+Seychelles,secondary,74.59213257,100
+Seychelles,primary,104.1484528,100
+Sierra Leone,secondary,43.4242897,71.16302
+Sierra Leone,primary,130.0459595,55.02094
+Slovakia,secondary,91.92215729,100
+Slovakia,primary,100.9806824,100
+Slovenia,primary,99.30357361,100
+Slovenia,secondary,110.6707535,100
+Solomon Islands,secondary,48.43679047,18.73
+Solomon Islands,primary,113.8727264,19.56
+South Sudan,primary,84.24507141,50.75758
+Spain,secondary,130.1646576,100
+Spain,primary,104.6902313,100
+Sri Lanka,secondary,99.72451019,87.81625
+Sri Lanka,primary,101.2704468,84.44383
+Switzerland,secondary,99.76940918,100
+Switzerland,primary,103.2310028,100
+Togo,primary,125.1124802,20.20506
+Tunisia,primary,113.0734863,69.5
+Uganda,primary,109.886467,70.04405
+United Arab Emirates,primary,106.7116699,100
+United Arab Emirates,secondary,83.36691284,100
+Uruguay,primary,109.7259674,100
+Uruguay,secondary,94.06330109,100
+Uzbekistan,primary,96.86116791,90.44566
+Uzbekistan,secondary,95.41349792,89.02338
+Yemen,secondary,48.62466049,45.98
+Zambia,primary,103.652977,78.06883
+Zambia,secondary,19.68644905,94
+Zimbabwe,primary,99.93785858,64.44365
+Zimbabwe,secondary,47.57019043,68.96297
