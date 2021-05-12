@@ -40,7 +40,7 @@ library(slam)
 
 ## tab within tab if needed
 
-# Add Tab Name (Jamie) {.tabset .tabset-fade .tabset-pills}
+# Water Access in Schools (Jamie) {.tabset .tabset-fade .tabset-pills}
 
 ## Background
 Add more here.
@@ -196,7 +196,9 @@ In other words, this study has revealed that the tweets arguing for water access
 
 However, we also acknowledge that these findings generated with word clouds do have limitations. The word cloud, bar chart, and comparison cloud here are all generated after cutting the tweets into words. In other words, we are not really analyzing the sentences, which is to say that we are not strictly distinguishing between the two following phrases: “today’s effort for greater water access can improve sanitation around the world,” and “today’s effort for greater water access does not improve sanitation around the world.” The two phrases include almost identical set of words, and moreover, since the negative connotation of the latter text is almost entirely due to the word “not,” which would have been removed as a stop word at the beginning of the data wrangling, our data analysis is not capable of distinguishing the sentiments between the two above phrases. Our findings indeed raise some common words among the tweets of interest, point to positive, joy, and trust as common sentiments, and reach potential explanations about people's rhetoric which also resonate with what visualizations exhibit here. In short, as a blog project, we are confident that the text analysis using tweets have given substantial new perspectives upon people's discourses for greater water access around the world. However, we also believe that we definitely need to exploit more techniques of text analysis to generate more accurate and meaningful findings, and future research may not only analyze these tweets as a set of words but also see them as a collection of bigrams or larger unit of English words in order to build upon and expand the discovery here. 
 
-# {-}
+# Conclusion
+
+# Bibliography
 
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For example, you can include **Bold** and _Italic_ and `Code` text.  For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
