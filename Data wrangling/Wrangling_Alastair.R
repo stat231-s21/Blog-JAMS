@@ -57,10 +57,51 @@ water_access <- water_access %>%
 water_acess_deaths <-
   inner_join(water_access, water_deaths, by = "country")
 
+#############################################
+#Figure out what is missing in order to map
+#############################################
 
 #Shows which countries are missing from data the water_access data set
 #Needed to hard code a couple of countries
 diff <- water_deaths %>%
   anti_join(water_acess_deaths, by= "country")
 
+#Shows which countries don't appear in the world map
+world_map <- map_data(map = "world"
+                      , region = ".")
 
+missing_world_map <- water_acess_deaths %>%
+  anti_join(world_map, by=c("country" = "region"))
+
+#Corrects this in my data set
+water_acess_deaths1 <- water_acess_deaths %>%
+  mutate(country = case_when(country == "Antigua and Barbuda" ~ "Antigua"
+                            , country == "Bolivia (Plurinational State of)" ~ "Bolivia"
+                            , country == "Brunei Darussalam" ~ "Brunei"
+                            , country == "Côte d'Ivoire" ~ "Ivory Coast"
+                            , country == "Congo" ~ "Democratic Republic of the Congo"
+                            , country == "Cabo Verde" ~ "Cape Verde"
+                            , country == "Czechia" ~ "Czech Republic"
+                            , country == "Micronesia (Federal States of)" ~ "Micronesia"
+                            , country == "United Kingdom" ~ "UK"
+                            , country == "Iran (Islamic Republic of)" ~ "Iran"
+                            , country == "Republic of Korea" ~ "South Korea"
+                            , country == "Lao People's Democratic Republic" ~ "Laos"
+                            , country == "Republic of Maldova" ~ "Maldova"
+                            , country == "North Macedonia" ~ "Macedonia"
+                            , country == "Democratic People's Republic of Korea" ~ "North Korea"
+                            , country == "Russian Federation" ~ "Russia"
+                            , country == "Eswatini" ~ "Swaziland"
+                            , country == "Syrian Arab Republic" ~ "Syria"
+                            , country == "Trinidad and Tobago" ~ "Tobago"
+                            , country == "United Republic of Tanzania" ~ "Tanzania"
+                            , country == "United States of America" ~ "USA"
+                            , country == "Saint Vincent and the Grenadines" ~ "Grenadines"
+                            , country == "Venezuela (Bolivarian Republic of)" ~ "Venezuela"
+                            , country == "United States Virgin Islands" ~ "Virgin Islands"
+                            , country == "Viet Nam" ~ "Vietnam"
+                            , TRUE ~ country)) %>%
+  add_row(filter(water_acess_deaths, country == "Trinidad and Tobago") %>%
+            mutate(country = "Trinidad")) %>%
+  add_row(filter(water_acess_deaths, country == "Saint Vincent and the Grenadines") %>%
+            mutate(country = "Saint Vincent"))
