@@ -24,7 +24,7 @@ names(school_type_values) <- school_type_names
 ui <- navbarPage(
    
    
-   title="Drinking Water in Schools",
+   title="Overview of Drinking Water Levels in Schools Worldwide",
    
    theme = shinytheme("flatly"), 
    
@@ -32,7 +32,7 @@ ui <- navbarPage(
    # TAB 1: STACKED BAR CHART
    
    tabPanel(
-      title = "Overview of Drinking Water Levels in Schools by Region",
+      title = "Differences by SDG Region",
       sidebarLayout(
          sidebarPanel(
             # choose school type
@@ -50,7 +50,7 @@ ui <- navbarPage(
    # TAB 2: LINE GRAPH  
    
    tabPanel(
-      title = "Supply of Basic Drinking Water in Schools Over Time",
+      title = "Basic Water Access in Schools Over Time",
    sidebarLayout(
       sidebarPanel(
         # choose region
@@ -121,7 +121,8 @@ server <- function(input, output) {
               , title = paste("Percent of Schools with a Basic Water Supply in SDG Regions, 2011-2019\n")) +
          scale_x_continuous(breaks=seq(2011, 2019, 1)) +
          scale_y_continuous(labels = percent, limits=c(.3,1)) + 
-         theme(text = element_text(size=13.5), plot.title = element_text(face = "bold"))
+         theme(text = element_text(size=13.5), plot.title = element_text(face = "bold")) + 
+         guides(col=guide_legend("Region"))
    })
 }
    

@@ -22,15 +22,13 @@ names(scatter_school_type_values) <- scatter_school_type_names
 ############
 ui <- navbarPage(
    
-   title="Drinking Water in Schools",
+   title = "Effect of Basic Water Access in Schools on Enrollment Rates",
    
    theme = shinytheme("flatly"), 
    
 # SCATTERPLOT (incorporating enrollment rates data)
 
-tabPanel(
-   title = "Basic Drinking Water in Schools vs. School Enrollment Rates",
-   sidebarLayout(
+      sidebarLayout(
       
       sidebarPanel(
          # choose school type
@@ -50,7 +48,7 @@ tabPanel(
       )
    )
 )
-)
+
 
 
 ############
@@ -68,13 +66,15 @@ server <- function(input, output) {
    })
   
     output$scatter <- renderPlot({
-         ggplot(data_for_scatter_reactive(), aes_string(x="coverage", y="grossSchoolEnrollmentRatio")) +
+         ggplot(data_for_scatter_reactive(), aes_string(x="coverage/100", y="grossSchoolEnrollmentRatio/100")) +
          geom_point(color = "#2c7fb8") +
          geom_smooth(method = "lm") +
          labs(x = "\nPercent of Schools in Country with Basic Water Supply", y = "School Enrollment Rates (Gross Ratios)\n"
               , title = "School Enrollment Rates (Gross Ratios) vs. Percent of Schools with Basic Water Supply\n") +
          geom_label_repel(data = filter(data_for_scatter_reactive(), country %in% input$country_name), aes(label = country), show.legend = FALSE)  + 
-         theme(text = element_text(size=13.5), plot.title = element_text(face = "bold")) 
+         theme(text = element_text(size=13.5), plot.title = element_text(face = "bold")) +
+         scale_x_continuous(labels = scales::percent) + 
+         scale_y_continuous(labels = scales::percent)  
  
 }
 )
