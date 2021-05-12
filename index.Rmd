@@ -3,7 +3,7 @@ title: "The Global Water Access Gap"
 author: "Alastair Poole, Jamie Dailey, Masahiro Nishikawa, and Siyi Li"
 date: "May 19, 2021"
 output:
-  rmdformats::readthedown:
+  rmdformats::material:
     thumbnails: false
     highlight: NULL
 ---

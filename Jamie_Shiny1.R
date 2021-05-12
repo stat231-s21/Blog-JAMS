@@ -3,12 +3,9 @@ library(shiny)
 library(tidyverse)
 library(scales)
 library(shinythemes)
-library(ggrepel)
-
 
 # importing data
 school_water_data <- read_csv("Data Wrangling/school-water-access-regional.csv")
-scatter_data <- read_csv("Data Wrangling/school-enrollment-and-water-access.csv")
 
 # defining choice values and labels for user inputs
 region_choices <- c("Australia and New Zealand", "Central and Southern Asia", 
@@ -16,17 +13,10 @@ region_choices <- c("Australia and New Zealand", "Central and Southern Asia",
                                  "Latin America and the Caribbean", "Northern Africa and Western Asia",
                                  "Oceania", "Sub-Saharan Africa")
 
-country_choices <- unique(scatter_data$country)
-
 # for bar chart and line graph                            
 school_type_values <- c("primary","secondary","total")
 school_type_names <- c("Primary Schools", "Secondary Schools", "All Schools")
 names(school_type_values) <- school_type_names 
-
-# for scatter plot
-scatter_school_type_values <- c("primary","secondary")
-scatter_school_type_names <- c("Primary Schools", "Secondary Schools")
-names(scatter_school_type_values) <- scatter_school_type_names 
 
 ############
 #    ui    #
@@ -80,33 +70,8 @@ ui <- navbarPage(
       )
    )
    )
-,
-
-# TAB 3: SCATTERPLOT (incorporating enrollment rates data)
-
-tabPanel(
-   title = "Basic Drinking Water in Schools vs. School Enrollment Rates",
-   sidebarLayout(
-      
-      sidebarPanel(
-         # choose school type
-         radioButtons(inputId = "stat_type_scatter", 
-                      label = "Filter by School Type:",
-                      choices = scatter_school_type_values, 
-                      selected = "primary")
-      ,
-      selectizeInput(inputId = "country_name"
-                     , label = "Identify country(s) in the scatterplot:"
-                     , choices = country_choices
-                     , selected = NULL
-                     , multiple = TRUE)
-      ),
-      mainPanel(
-         plotOutput(outputId = "scatter")
-      )
-   )
 )
-)
+
 
 
 ############
@@ -125,7 +90,7 @@ server <- function(input, output) {
          filter(year == 2018)
       
       ggplot(data = stacked_bars_data, aes(x = region, y = coverage, 
-            fill = factor(serviceLevel, c("Insufficient data", "No service", "Limited service", "Basic service")))) + 
+                                           fill = factor(serviceLevel, c("Insufficient data", "No service", "Limited service", "Basic service")))) + 
          geom_bar(position = "fill", stat = "identity") +
          labs(
             title = paste("Distribution of Drinking Water Levels in Schools by SDG Region, 2018\n"),
@@ -158,26 +123,10 @@ server <- function(input, output) {
          scale_y_continuous(labels = percent, limits=c(.3,1)) + 
          theme(text = element_text(size=13.5), plot.title = element_text(face = "bold"))
    })
-   
-   # TAB 3: SCATTERPLOT
-   
-   data_for_scatter_reactive <- reactive({
-      data_for_scatter <- scatter_data %>%
-         filter(schoolType == input$stat_type_scatter) 
-   })
-  
-    output$scatter <- renderPlot({
-         ggplot(data_for_scatter_reactive(), aes_string(x="coverage", y="grossSchoolEnrollmentRatio")) +
-         geom_point(color = "#2c7fb8") +
-         geom_smooth(method = "lm") +
-         labs(x = "\nPercent of Schools in Country with Basic Water Supply", y = "School Enrollment Rates (Gross Ratios)\n"
-              , title = "School Enrollment Rates (Gross Ratios) vs. Percent of Schools with Basic Water Supply\n") +
-         geom_label_repel(data = filter(data_for_scatter_reactive(), country %in% input$country_name), aes(label = country), show.legend = FALSE)  + 
-         theme(text = element_text(size=13.5), plot.title = element_text(face = "bold")) 
- 
 }
-)
-}
+   
+   
+   
 
 ####################
 # call to shinyApp #
