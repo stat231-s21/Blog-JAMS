@@ -25,8 +25,9 @@ library(slam)
 ```
 
 # Introduction
+This blog analyzes the impact of differential access to drinking water around the world. As water is critical to our survival, water access affects nearly all parts of human life – including life expectancy, socioeconomic status, health and nutrition, and much more. With endless issues to study surrounding water access, we focus our blog on a few key interests of ours, including how water access levels relate to educational outcomes and economic development levels, as well as how social media can be used as a tool for clean water advocacy.
 
-Add intro here.
+We begin this blog with an overview of how drinking water levels and deaths due to unsafe drinking water vary at the global scale. We then analyze the differences in water access across various levels of economic development, and across urban and rural regions. Next, we look at water access in schools, and its effect on primary and secondary school enrollment rates. Finally, in keeping with our shared passion for social justice and equity, we present an analysis of the most common sentiments and words used in tweets regarding clean water advocacy. 
 
 ![Photo: Lys Arango for Action Against Hunger, Philippines](https://actionagainsthunger.ca/cms/wp-content/uploads/2020/03/PH_WASH_2018_LysArango-31-e1584984526677.jpg)
 
