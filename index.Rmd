@@ -19,6 +19,8 @@ library(textdata)
 library(shiny)
 library(tidyverse)
 library(scales)
+library(tm)
+library(slam)
 
 ```
 
@@ -38,7 +40,7 @@ library(scales)
 
 ## tab within tab if needed
 
-# Add Tab Name (Jamie)
+# Add Tab Name (Jamie) {.tabset .tabset-fade .tabset-pills}
 
 ## Introduction
 Add intro here.
@@ -47,7 +49,7 @@ Add intro here.
 
 Click [here](https://jcdailey21.shinyapps.io/school-water-stats/) to view the interactive Shiny app.
 
-### Conclusions??
+## Conclusions??
 
 
 
