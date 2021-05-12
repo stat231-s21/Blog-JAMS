@@ -26,11 +26,11 @@ countries_leaflet <- as.data.frame(countries$names) %>%
 
 #Combines "blank map" with data on water access and deaths
 countries_water <- countries_leaflet %>%
-  left_join(water_access_deaths1, by= c("country2" = "country"))
+  left_join(water_access_deaths1, by= c("country" = "country2"))
 
 #Checks for differences (country names that appear here aren't in the "blank map")
 missing <- water_access_deaths1 %>%
-  anti_join(countries_leaflet, by=c("country" = "country2"))
+  anti_join(countries_leaflet, by=c("country2" = "country"))
 #The "blank map" does not include the island nations of Tokelau and Tuvalu
   
 #########################
@@ -55,15 +55,15 @@ leaflet(data = countries) %>%
                                , "Number of Deaths: ", countries_water$num_deaths, "<br>"
                                , "Percent of Country Relying on Water Service Level:", "<br>",
                                "Surface Water: "
-                               , round(countries_water$surface_water,2), "<br>"
+                               , round(countries_water$surface_water,2), "%", "<br>"
                                , "Unimproved Water Service: "
-                               , round(countries_water$unimproved,2), "<br>"
+                               , round(countries_water$unimproved,2), "%", "<br>"
                                , "Limited Water Service: "
-                               , round(countries_water$limited_service,2), "<br>"
+                               , round(countries_water$limited_service,2), "%", "<br>"
                                , "Basic Water Service: "
-                               , round(countries_water$basic_service,2), "<br>"
+                               , round(countries_water$basic_service,2), "%", "<br>"
                                , "Safely Managed Water Service: "
-                               , round(countries_water$safely_managed_service,2))) %>%
+                               , round(countries_water$safely_managed_service,2), "%")) %>%
 #Add legend explaining fill color
   addLegend(pal = mypal, 
             values = countries_water$prop_deaths, 
