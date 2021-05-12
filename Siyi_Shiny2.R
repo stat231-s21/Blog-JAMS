@@ -47,7 +47,6 @@ ui <- navbarPage(
   ),
   
   tabPanel(title = "SDG Region",
-           #         fluidPage(
            fluidRow(
              column(
                4,
