@@ -35,8 +35,10 @@ We begin this blog with an overview of how drinking water levels and deaths due 
 **Dataset 1:** 
 
 **Dataset 2:** Deaths Caused by Unsafe Drinking Water
-**- Link:** http://ghdx.healthdata.org/gbd-results-tool
-**- Description:** This dataset is from the Global Health Data Exchange (GHDx), accessed through the Institute for Health Metrics and Evaluation at the University of Washington. The data includes the percentage of a country’s deaths that are caused by unsafe drinking water, as well as the number of deaths caused by unsafe drinking water from 1990 through 2019. We were able to directly download a .csv file for data on all countries for the year 2017 (selected to match the most recent year of available data in Dataset 1). 
+
+- **Link:** http://ghdx.healthdata.org/gbd-results-tool
+
+- **Description:** This dataset is from the Global Health Data Exchange (GHDx), accessed through the Institute for Health Metrics and Evaluation at the University of Washington. The data includes the percentage of a country’s deaths that are caused by unsafe drinking water, as well as the number of deaths caused by unsafe drinking water from 1990 through 2019. We were able to directly download a .csv file for data on all countries for the year 2017 (selected to match the most recent year of available data in Dataset 1). 
 
 **Dataset 3:** 
 
@@ -45,6 +47,7 @@ We begin this blog with an overview of how drinking water levels and deaths due 
 **Dataset 5:** 
 
 **Other Datasets:**
+
 - For the text analysis of tweets, Masahiro created a unique dataset using the search_tweets() function through his Twitter development account. The tweets addressed in the dataset are those generated in the period starting from April 27th and ending on May 7th this year. The tweets are selected if they include one of the following phrases: "water access," or "Water access," or "Water Access," or "access to clean water," or "access to drinking water.”
 
 - In addition to our main informational datasets, we also used the ‘maps’ package for spatial visualizations.
