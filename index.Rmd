@@ -32,25 +32,47 @@ We begin this blog with an overview of how drinking water levels and deaths due 
 ![Photo: Lys Arango for Action Against Hunger, Philippines](https://actionagainsthunger.ca/cms/wp-content/uploads/2020/03/PH_WASH_2018_LysArango-31-e1584984526677.jpg)
 
 # Data
-**Dataset 1:** 
+**Dataset 1: Drinking Water Access Worldwide by Households**
 
-**Dataset 2:** Deaths Caused by Unsafe Drinking Water
+- **Link:** https://washdata.org/data/household#!/
+
+- **Description:** This dataset is from the World Health Organization (WHO), accessible through the JMP Global Database. The dataset contains household-level data on the coverage and service levels of water throughout the world. The JMP Database allows users to filter by residence type (urban, rural, and total) and year (2000 to 2017), as well as look at the data by country or by SDG (Sustainable Development Goal) regions. We were able to download this data in the format of a .csv file. 
+- The water service level within this dataset is divided into five possible categories. In order of lowest to highest levels of access, they include Surface Water, Unimproved Service, Limited Service, Basic Service, and Safely Managed Service.
+
+**Dataset 2: Deaths Caused by Unsafe Drinking Water**
 
 - **Link:** http://ghdx.healthdata.org/gbd-results-tool
 
 - **Description:** This dataset is from the Global Health Data Exchange (GHDx), accessed through the Institute for Health Metrics and Evaluation at the University of Washington. The data includes the percentage of a country’s deaths that are caused by unsafe drinking water, as well as the number of deaths caused by unsafe drinking water from 1990 through 2019. We were able to directly download a .csv file for data on all countries for the year 2017 (selected to match the most recent year of available data in Dataset 1). 
 
-**Dataset 3:** 
+**Dataset 3: Drinking Water Access Worldwide in Schools** 
 
-**Dataset 4:** 
+- **Link:** https://washdata.org/data/school#!/
 
-**Dataset 5:** 
+- **Description:** This dataset is from the same source as Dataset 1 (WHO) and was also found through the JMP Global Database. However, rather than household-level data, this dataset focuses on how water services levels vary in schools across the world. The dataset allows users to view country-level data, as well as data by other relevant groupings including the SDG (Sustainable Development Goal) regions, which we choose to focus on, given the importance of our topic in regards to the SDGs. 
+
+- A key difference of importance between this dataset and Dataset 1 is that the water service levels are slightly different between the two. While the household-level dataset breaks water access down into 5 levels, this dataset only includes 3, likely due to data collection constraints. The 3 groupings (in order of lowest to highest levels of water service in schools) are No Service, Limited Service, and Basic Service.
+
+
+**Dataset 4: Primary and Secondary School Enrollment Rates**
+
+- **Link:** https://ourworldindata.org/primary-and-secondary-education#enrolment-in-primary-school
+
+- **Description:** This website presents various statistics on school attendance, completion, and enrollment around the world, using data from the World Bank. We utilized 2 datasets from this site on school enrollment rates by country, one with primary school data and one with secondary school data. The data were measured at a variety of years for each country, and we kept the most recent year of data collection for each country in our analysis.
+
+- It is important to note that these data are reported as gross enrollment ratios, meaning the proportion of individuals enrolled in primary or secondary school over the total eligible population for each level of schooling. Therefore, it is common for some countries to have a gross enrollment ratio above 100%, as over-aged or under-aged students at each schooling level will not be accounted for in the eligible-aged population.
+
+**Dataset 5: Water Services and Economic Development**
+
+- **Link:** https://databank.worldbank.org/home.aspx; 
+
+- **Description:** We used the World Bank’s databank tool to create a dataset that contains GDP per capita ($), water service level, water service type, and gini coefficient of different countries across the world from 2000 to 2007. Since the distribution of GDP per capita is right skewed, we created a `loggdp` variable to better visualize the data. 
 
 **Other Datasets:**
 
 - For the text analysis of tweets, Masahiro created a unique dataset using the search_tweets() function through his Twitter development account. The tweets addressed in the dataset are those generated in the period starting from April 27th and ending on May 7th this year. The tweets are selected if they include one of the following phrases: "water access," or "Water access," or "Water Access," or "access to clean water," or "access to drinking water.”
 
-- In addition to our main informational datasets, we also used the ‘maps’ package for spatial visualizations.
+- In addition to our main informational datasets, we also used the `maps` package for spatial visualizations and the United Nation’s SDG regional grouping dataset (https://unstats.un.org/sdgs/indicators/regional-groups) to complement the data in Dataset 5.
 
 
 # Add Tab Name (Alastair) {.tabset .tabset-fade .tabset-pills}
