@@ -40,23 +40,14 @@ library(scales)
 
 # Add Tab Name (Jamie)
 
-<iframe height="400" width="100%" frameborder="no" src="https://jcdailey21.shinyapps.io/school-water-stats/"> </iframe>
+## Introduction
+Add intro here.
 
+## Shiny App
 
-```{r, echo = FALSE}
-#knitr::include_app("https://jcdailey21.shinyapps.io/school-water-stats/, height = "200px")
-#knitr::include_app("https://jcdailey21.shinyapps.io/school-water-stats/", 
- # height = "600px")
+Click [here](https://jcdailey21.shinyapps.io/school-water-stats/) to view the interactive Shiny app.
 
-```
-
-
-
-## tab within tab if needed
-
-## tab within tab if needed
-
-
+### Conclusions??
 
 
 
