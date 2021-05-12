@@ -26,6 +26,10 @@ library(slam)
 
 # Introduction
 
+Add intro here.
+
+![Photo: Lys Arango for Action Against Hunger, Philippines](https://actionagainsthunger.ca/cms/wp-content/uploads/2020/03/PH_WASH_2018_LysArango-31-e1584984526677.jpg)
+
 # Data
 
 # Add Tab Name (Alastair) {.tabset .tabset-fade .tabset-pills}
