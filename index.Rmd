@@ -247,6 +247,25 @@ However, we also acknowledge that these findings generated with word clouds do h
 
 # Bibliography
 
+# Prof Correia's resources! {.tabset .tabset-fade .tabset-pills}
+
+## Bulleted list
+
+You can make a bulleted list like this:
+
+- item 1
+- item 2
+- item 3
+
+
+## Numbered list
+
+You can make a numbered list like this
+
+1. First thing I want to say
+2. Second thing I want to say
+3. Third thing I want to say
+
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For example, you can include **Bold** and _Italic_ and `Code` text.  For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
@@ -301,24 +320,4 @@ You can include [Links](https://www.datadreaming.org/post/r-markdown-theme-galle
 You can embed a gif.
 
 ![pugs](https://media.giphy.com/media/XHVmD4RyXgSjd8aUMb/giphy.gif)
-
-
-# Prof Correia's resources! {.tabset .tabset-fade .tabset-pills}
-
-## Bulleted list
-
-You can make a bulleted list like this:
-
-- item 1
-- item 2
-- item 3
-
-
-## Numbered list
-
-You can make a numbered list like this
-
-1. First thing I want to say
-2. Second thing I want to say
-3. Third thing I want to say
 
