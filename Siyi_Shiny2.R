@@ -18,12 +18,12 @@ water_w <- read.csv("Data Wrangling/water_world.csv")
 ############
 
 ui <- navbarPage(
-  title = "Water service level vs urban/rural disparity",
+  title = "Water Service Coverage and Urban-Rural Inequality",
   fluid = TRUE,
   tabPanel(title = "World",
            fluidRow(
              column(6, style = 'padding-left:70px; padding-top: 35px; padding-bottom: 0px; padding-right: 0px;',
-                    h4("World Water Service Coverage by Residence Type")
+                    h4("World Water Service Coverage by Residence Type 2000-2017")
              ),
              column(
                6,
@@ -46,7 +46,7 @@ ui <- navbarPage(
            )
   ),
   
-  tabPanel(title = "Region",
+  tabPanel(title = "SDG Region",
            #         fluidPage(
            fluidRow(
              column(
@@ -174,7 +174,7 @@ server <- function(input, output, session) {
         )
       ) %>%
       layout(
-        title = "Region Water Service coverage by Residence Type",
+        title = "Region Water Service Coverage by Residence Type 2000-2017",
         xaxis = list(title = "Water Service coverage (%)", range = c(0, 105)),
         yaxis = list(title = "Region"),
         margin = list(l = 200),
@@ -280,7 +280,7 @@ server <- function(input, output, session) {
       ) %>%
       layout(
         xaxis = list(title = "Residence Type"),
-        yaxis = list(title = "Service Coverage by Drinking Water (%)", range = c(0, 105)),
+        yaxis = list(title = "Coverage by Drinking Water (%)", range = c(0, 105)),
         barmode = 'stack',
         legend = list(y = -0.4, orientation = 'h', title = list(text = '<b> Drinking Water </b>'))
       )
@@ -372,11 +372,10 @@ server <- function(input, output, session) {
       ) %>%
       layout(
         xaxis = list(title = "Residence Type"),
-        yaxis = list(title = "Service coverage by Sanitation (%)", range = c(0, 105)),
+        yaxis = list(title = "Coverage by Sanitation (%)", range = c(0, 105)),
         barmode = 'stack',
         legend = list(y = -0.4, orientation = 'h', title = list(text = '<b> Sanitation </b>'))
       )
-    
     p2
   })
 }

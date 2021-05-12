@@ -10,14 +10,11 @@ library(plotly)
 ###############
 
 water_income <- read.csv("Data Wrangling/water_income.csv")
-water_income <- water_income %>%
-  mutate(loggdp = log(gdp))
 water_income$region <- as.factor(water_income$region)
 
 #############################################################
 # define choice values and labels for widgets (user inputs) #
 #############################################################
-# define vectors to represent the choices given to the user
 
 colors <- c("#3366cc", "#dc3912", "#ff9900", "#109618", "#990099", "#0099c6", "#dd4477")
 
@@ -30,7 +27,7 @@ names(service_values) <- service_names
 ############
 
 ui <- fluidPage(
-  headerPanel('Water service level vs Income'),
+  headerPanel('Water Service Coverage and Economic Development'),
   fluidRow(
     
     column(4, align="left", offset = 0.5, style='padding-left:50px; padding-top: 10px; padding-bottom: 0px; padding-right: 10px;',

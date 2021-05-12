@@ -36,6 +36,10 @@ water_income <- water_income %>%
   mutate(country = country_name, year = time, gini = gini_index__world_bank_estimate_, basic = people_using_at_least_basic_drinking_water_services____of_population_, safe = people_using_safely_managed_drinking_water_services____of_population_, gdp = gdp_per_capita__current_us__) %>%
   select(country, year, gini, gdp, basic, safe)
 
+# Create loggdp since the gdp variable is very right skewed
+water_income <- water_income %>%
+  mutate(loggdp = log(gdp))
+
 # Round the digits
 water_income <- water_income %>% 
   mutate(across(where(is.numeric), ~ round(., 1)))
