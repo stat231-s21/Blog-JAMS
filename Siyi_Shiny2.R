@@ -92,7 +92,6 @@ ui <- navbarPage(
              )
            ),
            plotlyOutput('plot1')
-           # )
   )
 )
 
