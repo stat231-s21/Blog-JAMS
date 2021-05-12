@@ -247,7 +247,20 @@ However, we also acknowledge that these findings generated with word clouds do h
 
 # Bibliography
 
-# Prof Correia's resources! {.tabset .tabset-fade .tabset-pills}
+1. DataBank. The World Bank Group. 2021. https://databank.worldbank.org/home.aspx
+
+2. Global Health Data Exchange. Institute for Health Metrics and Evaluation at the University of Washington. 2019. http://ghdx.healthdata.org/gbd-results-tool
+
+3. Roser, M. and Ortiz-Ospina, E. (2013) "Primary and Secondary Education". Our World In Data. https://ourworldindata.org/primary-and-secondary-education
+
+4. SDG Indicators. United Nations. 2021. https://unstats.un.org/sdgs/indicators/regional-groups
+
+5. Water Supply, Sanitation and Hygiene (WASH) Household Data. WHO/UNICEF Joint Monitoring Programme (JMP). 2017. https://washdata.org/data/household#!/
+
+6. Water Supply, Sanitation and Hygiene (WASH) School Data. WHO/UNICEF Joint Monitoring Programme (JMP). 2019. https://washdata.org/data/school#!/
+
+
+# Prof Correia's resources (to be deleted) {.tabset .tabset-fade .tabset-pills}
 
 ## Bulleted list
 
