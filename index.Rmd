@@ -288,7 +288,7 @@ This Shiny app focuses on two variables as indicators for economic development â
 
 ## Water service access and urban-rural inequality 
 
-## How does access to water services differ across urban and rural regions around the world and how has that changed over time?
+### How does access to water services differ across urban and rural regions around the world and how has that changed over time?
 Click [here](https://sili22.shinyapps.io/water-urban-rural-gap/) to view the interactive Shiny app.
 
 ### Trends - World
