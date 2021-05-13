@@ -26,13 +26,24 @@ countries_leaflet <- as.data.frame(countries$names) %>%
 
 #Combines "blank map" with data on water access and deaths
 countries_water <- countries_leaflet %>%
-  left_join(water_access_deaths1, by= c("country2" = "country"))
+  left_join(water_access_deaths1, by= c("country2" = "country")) %>%
+  #### KAT's TEMPORARY FIX -- NEED TO FIGURE OUT WHICH ROW IS CORRECT FOR DRC
+  filter(!(country == "Democratic Republic of the Congo"& surface_water > 9.2))
 
 #Checks for differences (country names that appear here aren't in the "blank map")
 missing <- water_access_deaths1 %>%
-  anti_join(countries_leaflet, by=c("country2" = "country"))
+  anti_join(countries_leaflet, by=c("country" = "country2"))
 #The "blank map" does not include the island nations of Tokelau and Tuvalu
   
+# note that countries_leaflet has 1,627 obs and countries_water has 1,628 obs
+# so names likely get mis-matched at some point...where?
+test <- countries_water$country == countries$names
+min(which(test==FALSE))
+countries_leaflet[435,]
+countries_water[435,]
+# democratic republic of congo has two different rows in water_access_deaths1?
+water_access_deaths1 %>% filter(country=="Democratic Republic of the Congo")
+
 #########################
 #Creating the Actual Map
 #########################
