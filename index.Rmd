@@ -3,7 +3,7 @@ title: "The Global Water Access Gap"
 author: "Alastair Poole, Jamie Dailey, Masahiro Nishikawa, and Siyi Li"
 date: "May 19, 2021"
 output:
-  rmdformats::readthedown:
+  rmdformats::material:
     thumbnails: false
     highlight: NULL
 ---
@@ -19,46 +19,89 @@ library(textdata)
 library(shiny)
 library(tidyverse)
 library(scales)
+library(tm)
+library(slam)
 
 ```
 
 # Introduction
+This blog analyzes the impact of differential access to drinking water around the world. As water is critical to our survival, water access affects nearly all parts of human life – including life expectancy, socioeconomic status, health and nutrition, and much more. With endless issues to study surrounding water access, we focus our blog on a few key interests of ours, including how water access levels relate to educational outcomes and economic development levels, as well as how social media can be used as a tool for clean water advocacy.
+
+We begin this blog with an overview of how drinking water levels and deaths due to unsafe drinking water vary at the global scale. We then analyze the differences in water access across various levels of economic development, and across urban and rural regions. Next, we look at water access in schools, and its effect on primary and secondary school enrollment rates. Finally, in keeping with our shared passion for social justice and equity, we present an analysis of the most common sentiments and words used in tweets regarding clean water advocacy. 
+
+![Photo: Lys Arango for Action Against Hunger, Philippines](https://actionagainsthunger.ca/cms/wp-content/uploads/2020/03/PH_WASH_2018_LysArango-31-e1584984526677.jpg)
 
 # Data
+**Dataset 1: Drinking Water Access Worldwide by Households**
 
-# Add Tab Name (Alastair)
+- **Link:** https://washdata.org/data/household#!/
+
+- **Description:** This dataset is from the World Health Organization (WHO), accessible through the JMP Global Database. The dataset contains household-level data on the coverage and service levels of water throughout the world. The JMP Database allows users to filter by residence type (urban, rural, and total) and year (2000 to 2017), as well as look at the data by country or by SDG (Sustainable Development Goal) regions. We were able to download this data in the format of a .csv file. 
+- The water service level within this dataset is divided into five possible categories. In order of lowest to highest levels of access, they include Surface Water, Unimproved Service, Limited Service, Basic Service, and Safely Managed Service.
+
+**Dataset 2: Deaths Caused by Unsafe Drinking Water**
+
+- **Link:** http://ghdx.healthdata.org/gbd-results-tool
+
+- **Description:** This dataset is from the Global Health Data Exchange (GHDx), accessed through the Institute for Health Metrics and Evaluation at the University of Washington. The data includes the percentage of a country’s deaths that are caused by unsafe drinking water, as well as the number of deaths caused by unsafe drinking water from 1990 through 2019. We were able to directly download a .csv file for data on all countries for the year 2017 (selected to match the most recent year of available data in Dataset 1). 
+
+**Dataset 3: Drinking Water Access Worldwide in Schools** 
+
+- **Link:** https://washdata.org/data/school#!/
+
+- **Description:** This dataset is from the same source as Dataset 1 (WHO) and was also found through the JMP Global Database. However, rather than household-level data, this dataset focuses on how water services levels vary in schools across the world. The dataset allows users to view country-level data, as well as data by other relevant groupings including the SDG (Sustainable Development Goal) regions, which we choose to focus on, given the importance of our topic in regards to the SDGs. 
+
+- A key difference of importance between this dataset and Dataset 1 is that the water service levels are slightly different between the two. While the household-level dataset breaks water access down into 5 levels, this dataset only includes 3, likely due to data collection constraints. The 3 groupings (in order of lowest to highest levels of water service in schools) are No Service, Limited Service, and Basic Service.
+
+
+**Dataset 4: Primary and Secondary School Enrollment Rates**
+
+- **Link:** https://ourworldindata.org/primary-and-secondary-education#enrolment-in-primary-school
+
+- **Description:** This website presents various statistics on school attendance, completion, and enrollment around the world, using data from the World Bank. We utilized 2 datasets from this site on school enrollment rates by country, one with primary school data and one with secondary school data. The data were measured at a variety of years for each country, and we kept the most recent year of data collection for each country in our analysis.
+
+- It is important to note that these data are reported as gross enrollment ratios, meaning the proportion of individuals enrolled in primary or secondary school over the total eligible population for each level of schooling. Therefore, it is common for some countries to have a gross enrollment ratio above 100%, as over-aged or under-aged students at each schooling level will not be accounted for in the eligible-aged population.
+
+**Dataset 5: Water Services and Economic Development**
+
+- **Link:** https://databank.worldbank.org/home.aspx; 
+
+- **Description:** We used the World Bank’s databank tool to create a dataset that contains GDP per capita ($), water service level, water service type, and gini coefficient of different countries across the world from 2000 to 2007. Since the distribution of GDP per capita is right skewed, we created a `loggdp` variable to better visualize the data. 
+
+**Other Datasets:**
+
+- For the text analysis of tweets, Masahiro created a unique dataset using the search_tweets() function through his Twitter development account. The tweets addressed in the dataset are those generated in the period starting from April 27th and ending on May 7th this year. The tweets are selected if they include one of the following phrases: "water access," or "Water access," or "Water Access," or "access to clean water," or "access to drinking water.”
+
+- In addition to our main informational datasets, we also used the `maps` package for spatial visualizations and the United Nation’s SDG regional grouping dataset (https://unstats.un.org/sdgs/indicators/regional-groups) to complement the data in Dataset 5.
+
+
+# Add Tab Name (Alastair) {.tabset .tabset-fade .tabset-pills}
 
 ## tab within tab if needed
 
 ## tab within tab if needed
 
-# Add Tab Name (Siyi)
+# Add Tab Name (Siyi) {.tabset .tabset-fade .tabset-pills}
 
 ## tab within tab if needed
 
 ## tab within tab if needed
 
-# Add Tab Name (Jamie)
+# Water Access in Schools (Jamie) {.tabset .tabset-fade .tabset-pills}
 
-<iframe height="400" width="100%" frameborder="no" src="https://jcdailey21.shinyapps.io/school-water-stats/"> </iframe>
+## Background
+Add more here.
+Click [here](https://jcdailey21.shinyapps.io/water-in-schools-background/) to view the interactive Shiny app.
 
+## Impact on Enrollment
+Add more here.
+Click [here](https://jcdailey21.shinyapps.io/water-in-schools-and-enrollment/) to view the interactive Shiny app.
 
-```{r, echo = FALSE}
-#knitr::include_app("https://jcdailey21.shinyapps.io/school-water-stats/, height = "200px")
-#knitr::include_app("https://jcdailey21.shinyapps.io/school-water-stats/", 
- # height = "600px")
+## Limitations
+Add limitations.
 
-```
-
-
-
-## tab within tab if needed
-
-## tab within tab if needed
-
-
-
-
+## Conclusions
+Add conclusion.
 
 
 # Advocacies about water access around the world (Masahiro) {.tabset .tabset-fade .tabset-pills}
@@ -200,7 +243,41 @@ In other words, this study has revealed that the tweets arguing for water access
 
 However, we also acknowledge that these findings generated with word clouds do have limitations. The word cloud, bar chart, and comparison cloud here are all generated after cutting the tweets into words. In other words, we are not really analyzing the sentences, which is to say that we are not strictly distinguishing between the two following phrases: “today’s effort for greater water access can improve sanitation around the world,” and “today’s effort for greater water access does not improve sanitation around the world.” The two phrases include almost identical set of words, and moreover, since the negative connotation of the latter text is almost entirely due to the word “not,” which would have been removed as a stop word at the beginning of the data wrangling, our data analysis is not capable of distinguishing the sentiments between the two above phrases. Our findings indeed raise some common words among the tweets of interest, point to positive, joy, and trust as common sentiments, and reach potential explanations about people's rhetoric which also resonate with what visualizations exhibit here. In short, as a blog project, we are confident that the text analysis using tweets have given substantial new perspectives upon people's discourses for greater water access around the world. However, we also believe that we definitely need to exploit more techniques of text analysis to generate more accurate and meaningful findings, and future research may not only analyze these tweets as a set of words but also see them as a collection of bigrams or larger unit of English words in order to build upon and expand the discovery here. 
 
-# {-}
+# Conclusion
+
+# Bibliography
+
+1. DataBank. The World Bank Group. 2021. https://databank.worldbank.org/home.aspx
+
+2. Global Health Data Exchange. Institute for Health Metrics and Evaluation at the University of Washington. 2019. http://ghdx.healthdata.org/gbd-results-tool
+
+3. Roser, M. and Ortiz-Ospina, E. (2013) "Primary and Secondary Education". Our World In Data. https://ourworldindata.org/primary-and-secondary-education
+
+4. SDG Indicators. United Nations. 2021. https://unstats.un.org/sdgs/indicators/regional-groups
+
+5. Water Supply, Sanitation and Hygiene (WASH) Household Data. WHO/UNICEF Joint Monitoring Programme (JMP). 2017. https://washdata.org/data/household#!/
+
+6. Water Supply, Sanitation and Hygiene (WASH) School Data. WHO/UNICEF Joint Monitoring Programme (JMP). 2019. https://washdata.org/data/school#!/
+
+
+# Prof Correia's resources (to be deleted) {.tabset .tabset-fade .tabset-pills}
+
+## Bulleted list
+
+You can make a bulleted list like this:
+
+- item 1
+- item 2
+- item 3
+
+
+## Numbered list
+
+You can make a numbered list like this
+
+1. First thing I want to say
+2. Second thing I want to say
+3. Third thing I want to say
 
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For example, you can include **Bold** and _Italic_ and `Code` text.  For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -256,24 +333,4 @@ You can include [Links](https://www.datadreaming.org/post/r-markdown-theme-galle
 You can embed a gif.
 
 ![pugs](https://media.giphy.com/media/XHVmD4RyXgSjd8aUMb/giphy.gif)
-
-
-# Prof Correia's resources! {.tabset .tabset-fade .tabset-pills}
-
-## Bulleted list
-
-You can make a bulleted list like this:
-
-- item 1
-- item 2
-- item 3
-
-
-## Numbered list
-
-You can make a numbered list like this
-
-1. First thing I want to say
-2. Second thing I want to say
-3. Third thing I want to say
 

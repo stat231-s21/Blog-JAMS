@@ -18,13 +18,16 @@ water_w <- read.csv("Data Wrangling/water_world.csv")
 ############
 
 ui <- navbarPage(
-  title = "Water service level vs urban/rural disparity",
+  title = "Water Service Coverage and Urban-Rural Inequality",
   fluid = TRUE,
   tabPanel(title = "World",
            fluidRow(
+             column(6, style = 'padding-left:70px; padding-top: 35px; padding-bottom: 0px; padding-right: 0px;',
+                    h4("World Water Service Coverage by Residence Type 2000-2017")
+             ),
              column(
-               8,
-               style = 'padding-left:60px; padding-top: 0px; padding-bottom: 0px; padding-right: 0px;',
+               6,
+               style = 'padding-left:80px; padding-top: 0px; padding-bottom: 0px; padding-right: 0px;',
                sliderInput(
                  "year2",
                  "Year",
@@ -34,60 +37,62 @@ ui <- navbarPage(
                  animate = TRUE,
                  step = 1
                )
-             )
-           ),
-           plotlyOutput('plot2'),
+             ),
+             column(6,
+                    plotlyOutput('plot2')
+             ),
+             column(6,      
+                    plotlyOutput('plot3'))
+           )
   ),
   
-  tabPanel(title = "Region",
-  #         fluidPage(
-    fluidRow(
-      column(
-        4,
-        align = "left",
-        style = 'padding-left:50px; padding-top: 10px; padding-bottom: 0px; padding-right: 0px;',
-        radioButtons(
-          inputId = "type1"
-          ,
-          label = "Choose water service type:"
-          ,
-          choices = c("Drinking water", "Sanitation")
-          ,
-          selected = "Drinking water"
-        )
-      ),
-      column(
-        3,
-        align = "left",
-        style = 'padding-left:0px; padding-top: 10px; padding-bottom: 0px; padding-right: 10px;',
-        radioButtons(
-          inputId = "level1"
-          ,
-          label = "Choose water service level:"
-          ,
-          choices = c("Safely managed service", "At least basic")
-          ,
-          selected = "Safely managed service"
-        )
-      ),
-      column(
-        5,
-        align = "left",
-        style = 'padding-left:40px; padding-top: 0px; padding-bottom: 0px; padding-right: 0px;',
-        sliderInput(
-          "year1",
-          "Year",
-          min = min(water_ur$year),
-          max = max(water_ur$year),
-          value = min(water_ur$year),
-          animate = TRUE,
-          step = 1
-        )
-    )
-    ),
-  plotlyOutput('plot1')
- # )
-)
+  tabPanel(title = "SDG Region",
+           fluidRow(
+             column(
+               4,
+               align = "left",
+               style = 'padding-left:50px; padding-top: 10px; padding-bottom: 0px; padding-right: 0px;',
+               radioButtons(
+                 inputId = "type1"
+                 ,
+                 label = "Choose water service type:"
+                 ,
+                 choices = c("Drinking water", "Sanitation")
+                 ,
+                 selected = "Drinking water"
+               )
+             ),
+             column(
+               3,
+               align = "left",
+               style = 'padding-left:0px; padding-top: 10px; padding-bottom: 0px; padding-right: 10px;',
+               radioButtons(
+                 inputId = "level1"
+                 ,
+                 label = "Choose water service level:"
+                 ,
+                 choices = c("Safely managed service", "At least basic")
+                 ,
+                 selected = "Safely managed service"
+               )
+             ),
+             column(
+               5,
+               align = "left",
+               style = 'padding-left:40px; padding-top: 0px; padding-bottom: 0px; padding-right: 0px;',
+               sliderInput(
+                 "year1",
+                 "Year",
+                 min = min(water_ur$year),
+                 max = max(water_ur$year),
+                 value = min(water_ur$year),
+                 animate = TRUE,
+                 step = 1
+               )
+             )
+           ),
+           plotlyOutput('plot1')
+  )
 )
 
 ############
@@ -167,7 +172,7 @@ server <- function(input, output, session) {
         )
       ) %>%
       layout(
-        title = "Region Water Service coverage by Residence Type",
+        title = "Region Water Service Coverage by Residence Type 2000-2017",
         xaxis = list(title = "Water Service coverage (%)", range = c(0, 105)),
         yaxis = list(title = "Region"),
         margin = list(l = 200),
@@ -272,13 +277,15 @@ server <- function(input, output, session) {
         )
       ) %>%
       layout(
-        title = "World Water Service coverage by Residence Type",
         xaxis = list(title = "Residence Type"),
-        yaxis = list(title = "Water Service coverage (%)", range = c(0, 105)),
+        yaxis = list(title = "Coverage by Drinking Water (%)", range = c(0, 105)),
         barmode = 'stack',
-        legend = list(title = list(text = '<b> Drinking Water </b>'))
+        legend = list(y = -0.4, orientation = 'h', title = list(text = '<b> Drinking Water </b>'))
       )
-    
+    p1
+  })
+  
+  output$plot3 <- renderPlotly({
     p2 <- yearData3() %>%
       plot_ly() %>%
       add_trace(
@@ -362,14 +369,12 @@ server <- function(input, output, session) {
         )
       ) %>%
       layout(
-        title = "World Water Service coverage by Residence Type",
         xaxis = list(title = "Residence Type"),
-        yaxis = list(title = "Water Service coverage (%)", range = c(0, 105)),
+        yaxis = list(title = "Coverage by Sanitation (%)", range = c(0, 105)),
         barmode = 'stack',
-        legend = list(title = list(text = '<b> Sanitation </b>'))
+        legend = list(y = -0.4, orientation = 'h', title = list(text = '<b> Sanitation </b>'))
       )
-    
-    subplot(p1, p2, shareY = TRUE, shareX = TRUE)
+    p2
   })
 }
 
