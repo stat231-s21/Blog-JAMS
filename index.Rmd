@@ -80,7 +80,9 @@ We begin this blog with an overview of how drinking water levels and deaths due 
 - In addition to our main informational datasets, we also used the `maps` package for spatial visualizations and the United Nation’s SDG regional grouping dataset (https://unstats.un.org/sdgs/indicators/regional-groups) to complement the data in Dataset 5.
 
 
-# Add Tab Name (Alastair) {.tabset .tabset-fade .tabset-pills}
+# Worldwide Water Service Access and Deaths Caused by Unsafe Drinking Water (Alastair) {.tabset .tabset-fade .tabset-pills}
+
+## Percentage of Deaths and Water Service Levels by Country (Map)
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 ##################################################################
@@ -250,10 +252,22 @@ leaflet(data = countries) %>%
             title = "Percent of Deaths By<br>Unsafe Drinking Water<br>in 2017")
 ```
 
+## Limitations
+Countries without data on water service access level and deaths caused by unsafe drinking water include: Taiwan, Argentina, Dominica, Palestine, Eritrea, Central African Republic, and Saint Kitts and Nevis.
 
-## tab within tab if needed
+The two countries not mapped are: Tokelau and Tuvalu. They are not included in leaflet's world map, although there is data about their access to different water service levels as well as data on deaths related to unsafe drinking water for these two countries.
 
-## tab within tab if needed
+The year 2017 was the most recent year included in the water access dataset, so we are working under the assumption that those conditions are similar enough to the conditions in 2021 to draw meaningful analysis about the current global water access gap.
+
+## Conclusions
+
+Countries in Central/Sub-Sarahan Africa and South/Southeast Asia appear to have the highest percentage of deaths caused by unsafe drinking water in 2017.
+
+Although countries like Chad, Nigeria, and Madagascar all have some of the highest percentage of deaths, the number of deaths in India is most for any country, with over 500,000 deaths caused by unsafe drinking water in 2017.
+
+Interestingly, even counties with 100% safely managed service may still have some deaths, such as New Zealand which had 14 deaths caused by unsafe drinking water in 2017.
+
+There is a high correlation between countries that have few deaths and countries that have a high percentage of their population relying on at least basic service for drinking water. This means that most countries experiencing deaths due to unsafe drinking water have a significant portion of their population relying on either surface water, or an unimproved/limited service.
 
 # Water Service Access, Economic Development, and Inequality (Siyi) {.tabset .tabset-fade .tabset-pills}
 
