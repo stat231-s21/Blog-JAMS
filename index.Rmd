@@ -288,7 +288,7 @@ This Shiny app focuses on two variables as indicators for economic development �
 
 ## Water service access and urban-rural inequality 
 
-## How does access to water services differ across urban and rural regions around the world and how has that changed over time?
+### How does access to water services differ across urban and rural regions around the world and how has that changed over time?
 Click [here](https://sili22.shinyapps.io/water-urban-rural-gap/) to view the interactive Shiny app.
 
 ### Trends - World
@@ -478,6 +478,23 @@ In other words, this study has revealed that the tweets arguing for water access
 However, we also acknowledge that these findings generated with word clouds do have limitations. The word cloud, bar chart, and comparison cloud here are all generated after cutting the tweets into words. In other words, we are not really analyzing the sentences, which is to say that we are not strictly distinguishing between the two following phrases: “today’s effort for greater water access can improve sanitation around the world,” and “today’s effort for greater water access does not improve sanitation around the world.” The two phrases include almost identical set of words, and moreover, since the negative connotation of the latter text is almost entirely due to the word “not,” which would have been removed as a stop word at the beginning of the data wrangling, our data analysis is not capable of distinguishing the sentiments between the two above phrases. Our findings indeed raise some common words among the tweets of interest, point to positive, joy, and trust as common sentiments, and reach potential explanations about people's rhetoric which also resonate with what visualizations exhibit here. In short, as a blog project, we are confident that the text analysis using tweets have given substantial new perspectives upon people's discourses for greater water access around the world. However, we also believe that we definitely need to exploit more techniques of text analysis to generate more accurate and meaningful findings, and future research may not only analyze these tweets as a set of words but also see them as a collection of bigrams or larger unit of English words in order to build upon and expand the discovery here. 
 
 # Conclusion
+
+- Countries in Central/Sub-Sarahan Africa and South/Southeast Asia appear to have the highest percentage of deaths caused by unsafe drinking water in 2017.
+
+- There is a high correlation between countries that have few deaths and countries that have a high percentage of their population relying on at least basic service for drinking water. This means that most countries experiencing deaths due to unsafe drinking water have a significant portion of their population relying on either surface water, or an unimproved/limited service.
+
+- There is a global growth in water service coverage from 2000 to 2017.
+
+- Countries of higher economic development levels tend to have better water service coverage, and countries with very large income disparity tend to be those that rank in the middle in water service coverage.
+
+- There is an urban-rural gap in water service coverage worldwide, although this disparity is decreasing from 2000 to 2017. The scale of this inequality differs across regions, water service types, and time.
+
+- In schools, water access appears to be slighter better in secondary schools versus primary schools across all SDG regions.
+
+- In terms of the impact of water on enrollment rates, there appears to be a positive relationship between the proportion of schools with a basic water supply and secondary school enrollment rates when looking at just secondary schools
+
+- In terms of water advocacy, there is a trend to talk about what humans can enjoy with a greater access to water/how humans can realize that situation with a positive language, rather than focus on the detrimental impacts of poor water access. 
+
 
 # Bibliography
 
