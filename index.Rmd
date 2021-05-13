@@ -167,7 +167,7 @@ water_access_deaths1 <- water_access_deaths %>%
                             , country == "Bolivia (Plurinational State of)" ~ "Bolivia"
                             , country == "Brunei Darussalam" ~ "Brunei"
                             , country == "Côte d'Ivoire" ~ "Ivory Coast"
-                            , country == "Congo" ~ "Democratic Republic of the Congo"
+                            , country == "Congo" ~ "Republic of Congo"
                             , country == "Cabo Verde" ~ "Cape Verde"
                             , country == "Czechia" ~ "Czech Republic"
                             , country == "Micronesia (Federated States of)" ~ "Micronesia"
@@ -201,7 +201,7 @@ water_access_deaths1 <- water_access_deaths %>%
 #Creates "blank map" of world countries
 countries <- map("world", fill = TRUE, plot = FALSE)
 
-#Takes all country names and puts them in a dataframe
+#Takes all country names and puts them in a datafram
 countries_leaflet <- as.data.frame(countries$names) %>%
 #Renames variable for clarity
   rename(country = `countries$names`) %>%
@@ -216,10 +216,10 @@ countries_water <- countries_leaflet %>%
   left_join(water_access_deaths1, by= c("country2" = "country"))
 
 #Checks for differences (country names that appear here aren't in the "blank map")
-#missing <- water_access_deaths1 %>%
- # anti_join(countries_leaflet, by=c("country2" = "country"))
+missing <- water_access_deaths1 %>%
+  anti_join(countries_leaflet, by=c("country" = "country2"))
 #The "blank map" does not include the island nations of Tokelau and Tuvalu
-  
+
 #########################
 #Creating the Actual Map
 #########################
