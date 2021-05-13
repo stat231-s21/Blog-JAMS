@@ -255,11 +255,43 @@ leaflet(data = countries) %>%
 
 ## tab within tab if needed
 
-# Add Tab Name (Siyi) {.tabset .tabset-fade .tabset-pills}
+# Water Service Access, Economic Development, and Inequality (Siyi) {.tabset .tabset-fade .tabset-pills}
 
-## tab within tab if needed
+## How do countries of different economic development levels differ in their access to water services and how has that changed over time? 
+Click [here](https://sili22.shinyapps.io/water-economic-dev/) to view the interactive Shiny app.
 
-## tab within tab if needed
+### Use of Data
+This Shiny app focuses on two variables as indicators for economic development — GDP per capita ($) and Gini coefficient. Despite its limitations, GDP per capita, which is the economic output per person in a country, is generally regarded as an effective indicator of economic development levels. Gini coefficient measures the income inequality of a country, with a value of 0 representing perfect equality and 1 representing maximal inequality. 
+
+### Trends 
+- Countries with higher GDP per capita generally tend to have higher coverage for at least basic and safely managed water service in terms of both drinking water and sanitation from 2000 to 2017. 
+- Countries with high economic inequality (large gini coefficient) tend to have medium-level water service coverage, while countries that have low income disparity tend to either have very high water service coverage and or lag behind in water service coverage.
+- Europe and Northern America countries in general have higher GDP per capita, smaller gini coefficient, and better water service coverage than other countries.
+- Central and Southern Asia and Sub-Saharan Africa countries tend to have lower GDP per capita and lag behind other countries in water service coverage.
+- There is a general growth in water service coverage around the world from 2000 to 2017.
+
+## Conclusions
+Add conclusion.
+
+## How does access to water services differ across urban and rural regions around the world and how has that changed over time?
+Click [here](https://sili22.shinyapps.io/water-urban-rural-gap/) to view the interactive Shiny app.
+
+### Trends 
+World
+- In terms of both drinking water and sanitation, there is an obvious difference in water service coverage across urban and rural areas; urban areas tend to have higher coverage of safely managed and basic services than rural areas. 
+- There is a growth in at least basic water service coverage for both urban and rural areas between 2000 to 2007, and the gap between them is gradually decreasing. 
+
+SDG Regions
+- The gap between urban and rural areas in different SDG regions, generally, is decreasing from 2000 to 2017. However, there is a lack of data for regional water service coverage by residence type in general, so many regions do not have data for either urban or rural service coverage or both and it is hard to tell what the temporal change looks like. 
+- Across different regions and time, urban areas tend to have a higher water service coverage. 
+- There are significant inequalities across regions - for instance, safely managed drinking water service coverage of rural Europe and North American is more than twice that of urban Sub-Saharan Africa in 2000. 
+- The scale of urban-rural disparity in water service coverage differs across service types, service levels, time, and regions. For instance, in 2000, the urban-rural difference in safely managed drinking water service coverage was larger in some regions, such as Central and Southern America and Sub-Saharan Africa, than others, such as Europe and Northern America. However, in the same year, Sub-Saharan Africa’s urban-rural difference in safely managed service in sanitation is much smaller than that of Europe and Northern America. 
+
+## Limitations
+Add limitations.
+
+## Conclusions
+Add conclusion.
 
 # Water Access in Schools (Jamie) {.tabset .tabset-fade .tabset-pills}
 
