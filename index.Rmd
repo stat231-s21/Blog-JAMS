@@ -479,6 +479,23 @@ However, we also acknowledge that these findings generated with word clouds do h
 
 # Conclusion
 
+- Countries in Central/Sub-Sarahan Africa and South/Southeast Asia appear to have the highest percentage of deaths caused by unsafe drinking water in 2017.
+
+- There is a high correlation between countries that have few deaths and countries that have a high percentage of their population relying on at least basic service for drinking water. This means that most countries experiencing deaths due to unsafe drinking water have a significant portion of their population relying on either surface water, or an unimproved/limited service.
+
+- There is a global growth in water service coverage from 2000 to 2017.
+
+- Countries of higher economic development levels tend to have better water service coverage, and countries with very large income disparity tend to be those that rank in the middle in water service coverage.
+
+- There is an urban-rural gap in water service coverage worldwide, although this disparity is decreasing from 2000 to 2017. The scale of this inequality differs across regions, water service types, and time.
+
+- In schools, water access appears to be slighter better in secondary schools versus primary schools across all SDG regions.
+
+- In terms of the impact of water on enrollment rates, there appears to be a positive relationship between the proportion of schools with a basic water supply and secondary school enrollment rates when looking at just secondary schools
+
+- In terms of water advocacy, there is a trend to talk about what humans can enjoy with a greater access to water/how humans can realize that situation with a positive language, rather than focus on the detrimental impacts of poor water access. 
+
+
 # Bibliography
 
 1. DataBank. The World Bank Group. 2021. https://databank.worldbank.org/home.aspx
