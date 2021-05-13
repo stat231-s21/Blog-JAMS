@@ -4,8 +4,8 @@ author: "Alastair Poole, Jamie Dailey, Masahiro Nishikawa, and Siyi Li"
 date: "May 19, 2021"
 output:
   rmdformats::readthedown:
-    thumbnails: false
-    highlight: NULL
+    thumbnails: no
+    highlight: null
 ---
 
 ```{r setup, include=FALSE}
@@ -82,7 +82,7 @@ We begin this blog with an overview of how drinking water levels and deaths due 
 
 # Add Tab Name (Alastair) {.tabset .tabset-fade .tabset-pills}
 
-```{r}
+```{r, include=FALSE}
 ##################################################################
 #Data wrangling for unsafe drinking water related deaths by country
 ##################################################################
