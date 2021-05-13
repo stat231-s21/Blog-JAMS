@@ -88,7 +88,7 @@ We begin this blog with an overview of how drinking water levels and deaths due 
 ##################################################################
 
 #Note path as this may have to change in final product
-path_in <- "~/Desktop/Blog-JAMS/Data wrangling/"
+path_in <- "Data wrangling/"
 
 water_deaths <- read_csv(paste0(path_in,"Deaths Due to Unsafe Water by Country.csv")) %>%
 #Selects only the observations that record the number of deaths and percent of deaths
@@ -108,7 +108,7 @@ water_deaths <- read_csv(paste0(path_in,"Deaths Due to Unsafe Water by Country.c
 ###################################################
 
 #Note path as this may have to change in final product
-path_in <- "~/Desktop/Blog-JAMS/Data wrangling/"
+path_in <- "Data wrangling/"
 
 water_access <- read_csv(paste0(path_in,"Drinking Water Access by Country.csv")) %>%
   select(Country, Coverage, `Service level`) %>%
