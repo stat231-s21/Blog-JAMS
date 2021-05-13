@@ -82,6 +82,12 @@ We begin this blog with an overview of how drinking water levels and deaths due 
 
 # Worldwide Water Service Access and Deaths Caused by Unsafe Drinking Water (Alastair) {.tabset .tabset-fade .tabset-pills}
 
+## Background
+
+### How important is it to have access to safe drinking water?
+
+In this map, we examine what percent of a country's total deaths in the year 2017 are caused by unsafe drinking water. The map provides a broad visual overview of which countries have the highest proportion of deaths due to unsafe drinking water. From there, we are able to examine a particular country's access to different water service levels, as well as note the total number of deaths by unsafe water. 
+
 ## Percentage of Deaths and Water Service Levels by Country (Map)
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
