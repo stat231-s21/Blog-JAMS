@@ -3,7 +3,7 @@ title: "The Global Water Access Gap"
 author: "Alastair Poole, Jamie Dailey, Masahiro Nishikawa, and Siyi Li"
 date: "May 19, 2021"
 output:
-  rmdformats::material:
+  rmdformats::readthedown:
     thumbnails: false
     highlight: NULL
 ---
@@ -30,7 +30,7 @@ library(dplyr)
 ```
 
 # Introduction
-This blog analyzes the impact of differential access to drinking water around the world. As water is critical to our survival, water access affects nearly all parts of human life – including life expectancy, socioeconomic status, health and nutrition, and much more. With endless issues to study surrounding water access, we focus our blog on a few key interests of ours, including how water access levels relate to educational outcomes and economic development levels, as well as how social media can be used as a tool for clean water advocacy.
+This blog analyzes the impact of differential access to drinking water around the world. As water is critical to our survival, water access affects nearly all parts of human life – including life expectancy, socioeconomic status, health and nutrition, and much more. With endless issues to study surrounding water access, we focus our blog on a few key interests of ours, including how water access levels relate to educational outcomes and economic development levels, as well as how social media are used as a tool for clean water advocacy.
 
 We begin this blog with an overview of how drinking water levels and deaths due to unsafe drinking water vary at the global scale. We then analyze the differences in water access across various levels of economic development, and across urban and rural regions. Next, we look at water access in schools, and its effect on primary and secondary school enrollment rates. Finally, in keeping with our shared passion for social justice and equity, we present an analysis of the most common sentiments and words used in tweets regarding clean water advocacy. 
 
@@ -288,7 +288,7 @@ In this tab, we take a look at the the tweets advocating for greater access to w
 - What are the common sentiments of the words observed in those tweets?
 - What do those common words and sentiments imply about people's rhetorics arguing for clean water in some of the regions lacking water access?
 
-In addition to the removal of so-called stop words from the dataset, we also omitted the word "access" because it is obvious that all the tweets should include the word "access" from the way we collected data. Doing so helps us produce more meaningful word clouds and sentiment analyses.
+In addition to the removal of so-called stop words from the dataset, we also omitted the words "access" and "water" because it is obvious that all the tweets should include those words from the way we collected data. Doing so helps us produce more meaningful word clouds and sentiment analyses.
 
 ```{r, include=FALSE}
 # data wrangling code (not reflected onto the blog)
@@ -297,7 +297,7 @@ tweets_analyzed <- read_csv("Data wrangling/tweetsfinal.csv")
 tweets_final <- tweets_analyzed %>%
   unnest_tokens(output = word, input = text, token = "words") %>%
   anti_join(stop_words, by = "word") %>%
-  filter(word != "access")
+  filter(word != "access" & word != "water")
 # get sentiment data
 nrc_sentiments <- get_sentiments("nrc")
 # join the datasets together
