@@ -277,7 +277,7 @@ There is a high correlation between countries that have few deaths and countries
 Click [here](https://sili22.shinyapps.io/water-economic-dev/) to view the interactive Shiny app.
 
 ### Use of Data
-This Shiny app focuses on two variables as indicators for economic development — GDP per capita ($) and Gini coefficient. Despite its limitations, GDP per capita, which is the economic output per person in a country, is generally regarded as an effective indicator of economic development levels. Gini coefficient measures the income inequality of a country, with a value of 0 representing perfect equality and 1 representing maximal inequality. Although they do not provide a comletely comprehensive assessment of economic development, data on these two variables are comparatively widely available. 
+This Shiny app focuses on two variables as indicators for economic development — GDP per capita ($) and Gini coefficient. Despite its limitations, GDP per capita, which is the economic output per person in a country, is generally regarded as an effective indicator of economic development levels. Gini coefficient measures the income inequality of a country, with a value of 0 representing perfect equality and 1 representing maximal inequality. Although they do not provide a completely comprehensive assessment of economic development, data on these two variables are comparatively commonly available. Through this Shiny app, we are interested in exploring possible associations between water service coverage, GDP per capita, and economic inequality. 
 
 ### Trends 
 - Countries with higher GDP per capita generally tend to have higher coverage for at least basic and safely managed water service in terms of both drinking water and sanitation from 2000 to 2017. 
@@ -307,7 +307,8 @@ Click [here](https://sili22.shinyapps.io/water-urban-rural-gap/) to view the int
 - There is additionally an imbalance in the lack of data. Some regions, such as Europe and Northern America, have significantly more data available than other regions from the global South. Both overrepresentation and underrepresentation could lead to misleading trends. 
 
 ## Conclusions
-- Countries of higher economic development levels tend to have better water service coverage, and there is a global growth in water service coverage from 2000 to 2017. 
+- There is a global growth in water service coverage from 2000 to 2017. 
+- Countries of higher economic development levels tend to have better water service coverage, and countries with very large income disparity tend to be those that rank in the middle in water service coverage. 
 - There is a urban-rural gap in water service coverage worldwide, although this disparity is decreasing from 2000 to 2017. The scale of this inequality differs across regions, water service types, and time.
 
 # Water Access in Schools (Jamie) {.tabset .tabset-fade .tabset-pills}
