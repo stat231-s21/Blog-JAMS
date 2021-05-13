@@ -26,7 +26,7 @@ countries_leaflet <- as.data.frame(countries$names) %>%
 
 #Combines "blank map" with data on water access and deaths
 countries_water <- countries_leaflet %>%
-  left_join(water_access_deaths1, by= c("country" = "country2"))
+  left_join(water_access_deaths1, by= c("country2" = "country"))
 
 #Checks for differences (country names that appear here aren't in the "blank map")
 missing <- water_access_deaths1 %>%
