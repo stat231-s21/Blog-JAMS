@@ -504,15 +504,19 @@ However, we also acknowledge that these findings generated with word clouds do h
 
 # Bibliography
 
-1. DataBank. The World Bank Group. 2021. https://databank.worldbank.org/home.aspx
+1. Arango, L. (2020, March). Action Against Hunger, Philippines [Photograph]. Action Against Hunger. https://actionagainsthunger.ca/world-water-day-access-to-clean-water-is-more-important-than-ever/ 
 
-2. Global Health Data Exchange. Institute for Health Metrics and Evaluation at the University of Washington. 2019. http://ghdx.healthdata.org/gbd-results-tool
+2. DataBank. The World Bank Group. 2021. https://databank.worldbank.org/home.aspx
 
-3. Roser, M. and Ortiz-Ospina, E. (2013) "Primary and Secondary Education". Our World In Data. https://ourworldindata.org/primary-and-secondary-education
+3. Global Health Data Exchange. Institute for Health Metrics and Evaluation at the University of Washington. 2019. http://ghdx.healthdata.org/gbd-results-tool
 
-4. SDG Indicators. United Nations. 2021. https://unstats.un.org/sdgs/indicators/regional-groups
+4. Mejía, Francisco. "How important is clean water for education?" Impacto, 20 Feb. 2014, blogs.iadb.org/efectividad-desarrollo/en/how-important-is-clean-water-for-education/.
 
-5. Water Supply, Sanitation and Hygiene (WASH) Household Data. WHO/UNICEF Joint Monitoring Programme (JMP). 2017. https://washdata.org/data/household#!/
+5. Roser, M. and Ortiz-Ospina, E. (2013) "Primary and Secondary Education". Our World In Data. https://ourworldindata.org/primary-and-secondary-education
 
-6. Water Supply, Sanitation and Hygiene (WASH) School Data. WHO/UNICEF Joint Monitoring Programme (JMP). 2019. https://washdata.org/data/school#!/
+6. SDG Indicators. United Nations. 2021. https://unstats.un.org/sdgs/indicators/regional-groups
+
+7. Water Supply, Sanitation and Hygiene (WASH) Household Data. WHO/UNICEF Joint Monitoring Programme (JMP). 2017. https://washdata.org/data/household#!/
+
+8. Water Supply, Sanitation and Hygiene (WASH) School Data. WHO/UNICEF Joint Monitoring Programme (JMP). 2019. https://washdata.org/data/school#!/
 
