@@ -340,7 +340,9 @@ Based on the Shiny app in the background section, secondary schools seem to prov
 Based on my second Shiny app, there appears to be no relationship between schools providing a basic water supply and a country's school enrollment rates at the primary level, whereas there appears to be a positive relationship at the secondary level. This may be suggestive of a relationship between secondary schools providing a basic water service and students enrolling in school, which I hypothesize would have a particularly strong impact in developing countries, as water access on school premises could be an important incentive in encouraging students to continue their schooling.  
 
 ## Limitations
-The main limitation in my analysis included missing pieces of data. Since data on water access in schools is collected much less frequently than household level water access data, there were some holes in my data analysis, that prevent me from drawing conclusions in certain regions. Specifically, there is insufficient data by the WHO in Eastern and South-Eastern Asia, as well as several countries that lacked recent data regarding their schools.
+The main limitation in my analysis was missing data. Since data on water access in schools is collected much less frequently than household-level data, there were some holes in my data analysis that prevent me from drawing conclusions in certain regions. For example, in my first Shiny app, there was insufficient data for Eastern/South-Eastern Asia in terms of water service levels in all schools. 
+
+Moreover, the World Bank does not collect country's primary and secondary school enrollment rates for the same years in all countries. As a result, countries had a variety of different years as their most recent year of data collection, and this may introduce some challenges in terms of the validity of my analysis on the relationship between basic water access in schools and school enrollment rates. 
 
 # Advocacies about Water Access around the World (Masahiro) {.tabset .tabset-fade .tabset-pills}
 
