@@ -41,22 +41,22 @@ We begin this blog with an overview of how drinking water levels and deaths due 
 
 - **Link:** https://washdata.org/data/household#!/
 
-- **Description:** This dataset is from the World Health Organization (WHO), accessible through the JMP Global Database. The dataset contains household-level data on the coverage and service levels of water throughout the world. The JMP Database allows users to filter by residence type (urban, rural, and total) and year (2000 to 2017), as well as look at the data by country or by SDG (Sustainable Development Goal) regions. We were able to download this data in the format of a .csv file. 
-- The water service level within this dataset is divided into five possible categories. In order of lowest to highest levels of access, they include Surface Water, Unimproved Service, Limited Service, Basic Service, and Safely Managed Service.
+- **Description:** This dataset is from the World Health Organization (WHO), accessible through the JMP Global Database. The dataset contains household-level data on the water coverage and service levels throughout the world. The JMP Database allows users to filter by residence type (urban, rural, and total) and year (2000 to 2017), as well as look at the data by country or by SDG (Sustainable Development Goal) regions. We were able to download this data in the format of a .csv file. 
+- The water service levels within this dataset are divided into five possible categories. In order of poorest to greatest levels of access, these levels include Surface Water, Unimproved Service, Limited Service, Basic Service, and Safely Managed Service.
 
 **Dataset 2: Deaths Caused by Unsafe Drinking Water**
 
 - **Link:** http://ghdx.healthdata.org/gbd-results-tool
 
-- **Description:** This dataset is from the Global Health Data Exchange (GHDx), accessed through the Institute for Health Metrics and Evaluation at the University of Washington. The data includes the percentage of a country’s deaths that are caused by unsafe drinking water, as well as the number of deaths caused by unsafe drinking water from 1990 through 2019. We were able to directly download a .csv file for data on all countries for the year 2017 (selected to match the most recent year of available data in Dataset 1). 
+- **Description:** This dataset is from the Global Health Data Exchange (GHDx), accessed through the Institute for Health Metrics and Evaluation at the University of Washington. The data includes the percentage and number of deaths in a country that are caused by unsafe drinking water from 1990 through 2019. We were able to directly download a .csv file for data on all countries for the year 2017 (selected to match the most recent year of available data in Dataset 1). 
 
 **Dataset 3: Drinking Water Access Worldwide in Schools** 
 
 - **Link:** https://washdata.org/data/school#!/
 
-- **Description:** This dataset is from the same source as Dataset 1 (WHO) and was also found through the JMP Global Database. However, rather than household-level data, this dataset focuses on how water services levels vary in schools across the world. The dataset allows users to view country-level data, as well as data by other relevant groupings including the SDG (Sustainable Development Goal) regions, which we choose to focus on, given the importance of our topic in regards to the SDGs. 
+- **Description:** This dataset is from the same source as Dataset 1 (WHO) and was also accessed through the JMP Global Database. However, rather than household-level data, this dataset focuses on how water service levels vary in schools. The dataset allows users to view country-level data, as well as data by other relevant groupings such as the SDG (Sustainable Development Goal) regions, which we chose to focus on, given the importance of our topic in regards to the UN's Sustainable Development Goals.
 
-- A key difference of importance between this dataset and Dataset 1 is that the water service levels are slightly different between the two. While the household-level dataset breaks water access down into 5 levels, this dataset only includes 3, likely due to data collection constraints. The 3 groupings (in order of lowest to highest levels of water service in schools) are No Service, Limited Service, and Basic Service.
+- A key difference to note between this dataset and Dataset 1 is that while the household-level dataset breaks water access down into 5 levels, this dataset only includes 3, likely due to less frequent data collection at the school level. The 3 groupings (in order of poorest to greatest levels of water service in schools) are No Service, Limited Service, and Basic Service.
 
 
 **Dataset 4: Primary and Secondary School Enrollment Rates**
@@ -65,13 +65,13 @@ We begin this blog with an overview of how drinking water levels and deaths due 
 
 - **Description:** This website presents various statistics on school attendance, completion, and enrollment around the world, using data from the World Bank. We utilized 2 datasets from this site on school enrollment rates by country, one with primary school data and one with secondary school data. The data were measured at a variety of years for each country, and we kept the most recent year of data collection for each country in our analysis.
 
-- It is important to note that these data are reported as gross enrollment ratios, meaning the proportion of individuals enrolled in primary or secondary school over the total eligible population for each level of schooling. Therefore, it is common for some countries to have a gross enrollment ratio above 100%, as over-aged or under-aged students at each schooling level will not be accounted for in the eligible-aged population.
+- It is important to note that these data are reported as gross enrollment ratios, meaning the proportion of individuals enrolled in primary or secondary school over the total age-eligible population for each level of schooling. Therefore, it is common for some countries to have a gross enrollment ratio above 100%, as over-aged or under-aged students at each schooling level will not be accounted for in the age-eligible population.
 
 **Dataset 5: Water Services and Economic Development**
 
 - **Link:** https://databank.worldbank.org/home.aspx; 
 
-- **Description:** We used the World Bank’s databank tool to create a dataset that contains GDP per capita ($), water service level, water service type, and gini coefficient of different countries across the world from 2000 to 2007. Since the distribution of GDP per capita is right skewed, we created a `loggdp` variable to better visualize the data. 
+- **Description:** We used the World Bank’s Databank tool to create a dataset that contains GDP per capita, water service level, water service type, and Gini coefficient of different countries across the world from 2000 to 2007. Since the distribution of GDP per capita is right skewed, we created a `loggdp` variable to better visualize the data. 
 
 **Other Datasets:**
 
@@ -488,19 +488,21 @@ However, we also acknowledge that these findings generated with word clouds do h
 
 - Countries in Central/Sub-Sarahan Africa and South/Southeast Asia appear to have the highest percentage of deaths caused by unsafe drinking water in 2017.
 
-- There is a high correlation between countries that have few deaths and countries that have a high percentage of their population relying on at least basic service for drinking water. This means that most countries experiencing deaths due to unsafe drinking water have a significant portion of their population relying on either surface water, or an unimproved/limited service.
+- There is a high correlation between countries that have few deaths due to unsafe drinking water and countries that have a high percentage of their population relying on at least basic drinking water services. By contrast, the countries experiencing the most deaths due to unsafe drinking water have a significant proportion of their population relying on either surface water, or an unimproved/limited service.
 
-- There is a global growth in water service coverage from 2000 to 2017.
+- There has been global growth in water service coverage from 2000 to 2017.
 
-- Countries of higher economic development levels tend to have better water service coverage, and countries with very large income disparity tend to be those that rank in the middle in water service coverage.
+- Countries of higher economic development levels tend to have better water service coverage, and countries with large income disparities tend to be ranked in the middle in terms of water service coverage.
 
-- There is an urban-rural gap in water service coverage worldwide, although this disparity is decreasing from 2000 to 2017. The scale of this inequality differs across regions, water service types, and time.
+- There is an urban-rural gap in water service coverage worldwide, although this gap has decreased from 2000 to 2017. The scale of this inequality differs across regions, water service types, and time.
 
-- In schools, water access appears to be slighter better in secondary schools versus primary schools across all SDG regions.
+- Sub-Saharan Africa and Central/Southern Asia, which had the most deaths due to unsafe drinking water, unsurprisingly have the poorest water coverage in their school systems as well. Oceania also has very limited water coverage in schools, whereas Australia/New Zealand and Europe/Northern America have the highest water coverage across all school types. Water access also appears to be slighter better in secondary schools versus primary schools across all regions, with the exception of Latin America/the Caribbean. 
 
-- In terms of the impact of water on enrollment rates, there appears to be a positive relationship between the proportion of schools with a basic water supply and secondary school enrollment rates when looking at just secondary schools
+- When isolating the school data to just basic water coverage, being the best coverage a school can provide, there has been very little fluctuation in terms of the proportion of schools providing a basic drinking water supply in SDG regions over the last decade.
 
-- In terms of water advocacy, there is a trend to talk about what humans can enjoy with a greater access to water/how humans can realize that situation with a positive language, rather than focus on the detrimental impacts of poor water access. As a result, positive, joy, and trust are the most common sentiments amongst the tweets advocating for water access.
+- There also appears to be a positive relationship between the proportion of schools providing a basic drinking water supply and school enrollment rates for secondary schools. However, this trend does not hold true for primary schools, likely due to their slightly lower water coverage flattening out the trend line.
+
+- Finally, in terms of water advocacy through social media (specifically Twitter), there is a trend to talk about what humans can enjoy with greater water access and how humans can realize that situation using positive language, rather than focus on the detrimental impacts of poor water access. As a result, positive, joy, and trust are the most common sentiments amongst the tweets advocating for better water access.
 
 
 # Bibliography
